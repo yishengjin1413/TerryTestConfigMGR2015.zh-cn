@@ -1,0 +1,26 @@
+{
+  "build_entry_point": "op",
+  "need_generate_pdf": false,
+  "need_generate_intellisense": false,
+  "docsets_to_publish": [
+    {
+      "docset_name": "TerryTestConfigMGR2015",
+      "build_source_folder": "TerryTestConfigMGR2015",
+      "build_output_subfolder": "TerryTestConfigMGR2015",
+      "locale": "zh-cn",
+      "version": 0,
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      }
+    }
+  ],
+  "notification_subscribers": [
+    "terryjin@microsoft.com"
+  ],
+  "branches_to_filter": [],
+  "skip_source_output_uploading": false,
+  "dependent_repositories": []
+}
