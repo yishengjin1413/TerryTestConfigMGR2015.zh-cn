@@ -33,11 +33,11 @@ translationtype: Human Translation
   
 -   使用内置报表收集软件清单  
   
- 若要阅读有关哪些新功能可用于混合 MDM 的信息，请参阅[使用 System Center Configuration Manager 和 Microsoft Intune 的混合移动设备管理中的新增功能](../LocTest\What-s-new-in-hybrid-mobile-device-management-with-System-Center-Configuration-Manager-and-Microsoft-Intune.md)。  
+ 若要阅读有关哪些新功能可用于混合 MDM 的信息，请参阅[使用 System Center Configuration Manager 和 Microsoft Intune 的混合移动设备管理中的新增功能](../LocTest/What-s-new-in-hybrid-mobile-device-management-with-System-Center-Configuration-Manager-and-Microsoft-Intune.md)。  
   
- 本文档假设你正在使用 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 管理计算机，并且对使用 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 扩展 [!INCLUDE[mit_next](../LocTest/includes/mit_next_md.md)] 控制台来管理移动设备感兴趣。 若要了解 [!INCLUDE[mit_next](../LocTest/includes/mit_next_md.md)] 和混合移动设备管理之间的差异，请参阅[在 Microsoft Intune 独立版和使用 System Center Configuration Manager 的混合移动设备管理之间选择](../LocTest\Choose-between-Microsoft-Intune-standalone-and-hybrid-mobile-device-management-with-System-Center-Configuration-Manager.md)。  
+ 本文档假设你正在使用 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 管理计算机，并且对使用 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 扩展 [!INCLUDE[mit_next](../LocTest/includes/mit_next_md.md)] 控制台来管理移动设备感兴趣。 若要了解 [!INCLUDE[mit_next](../LocTest/includes/mit_next_md.md)] 和混合移动设备管理之间的差异，请参阅[在 Microsoft Intune 独立版和使用 System Center Configuration Manager 的混合移动设备管理之间选择](../LocTest/Choose-between-Microsoft-Intune-standalone-and-hybrid-mobile-device-management-with-System-Center-Configuration-Manager.md)。  
   
- 使用 [!INCLUDE[mit_next](../LocTest/includes/mit_next_md.md)] 扩展 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 后，可授予用户权限，以供注册其个人设备或注册和管理公司拥有的设备。 还可以使用 Configuration Manager 通过 [!INCLUDE[mit_next](../LocTest/includes/mit_next_md.md)] 管理公司拥有的设备。 请参阅[使用 Configuration Manager 注册公司拥有的设备以用于混合部署](../LocTest\Enroll-company-owned-devices-for-hybrid-deployments-with-Configuration-Manager.md)。  
+ 使用 [!INCLUDE[mit_next](../LocTest/includes/mit_next_md.md)] 扩展 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 后，可授予用户权限，以供注册其个人设备或注册和管理公司拥有的设备。 还可以使用 Configuration Manager 通过 [!INCLUDE[mit_next](../LocTest/includes/mit_next_md.md)] 管理公司拥有的设备。 请参阅[使用 Configuration Manager 注册公司拥有的设备以用于混合部署](../LocTest/Enroll-company-owned-devices-for-hybrid-deployments-with-Configuration-Manager.md)。  
   
  使用下列部分来帮助你管理移动设备。  
   

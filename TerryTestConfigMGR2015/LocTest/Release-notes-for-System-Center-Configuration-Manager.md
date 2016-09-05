@@ -92,7 +92,7 @@ translationtype: Human Translation
   
 -   对由 System Center Configuration Manager 管理的电脑进行条件访问。 有关详细信息，请参阅[管理对由 System Center Configuration Manager 管理的电脑的 O365 服务的访问](../LocTest/Manage-access-to-O365-services-for-PCs-managed-by-System-Center-Configuration-Manager.md)  
   
--   维护群集感知集合。 有关详细信息，请参阅 [Technical Preview 1605 for System Center Configuration Manager 中的功能](../LocTest\Capabilities-in-Technical-Preview-1605-for-System-Center-Configuration-Manager.md)中的[为服务器组提供服务](../LocTest\Capabilities-in-Technical-Preview-1605-for-System-Center-Configuration-Manager.md#BKMK_ServerGroups)。  
+-   维护群集感知集合。 有关详细信息，请参阅 [Technical Preview 1605 for System Center Configuration Manager 中的功能](../LocTest/Capabilities-in-Technical-Preview-1605-for-System-Center-Configuration-Manager.md)中的[为服务器组提供服务](../LocTest/Capabilities-in-Technical-Preview-1605-for-System-Center-Configuration-Manager.md#BKMK_ServerGroups)。  
   
  预发行功能包含在产品中，用于在生产环境中进行早期测试，但不应将其视为生产就绪。  
  

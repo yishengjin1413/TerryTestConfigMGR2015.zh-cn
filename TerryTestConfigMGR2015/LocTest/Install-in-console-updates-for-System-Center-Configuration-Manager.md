@@ -49,7 +49,7 @@ translationtype: Human Translation
   
 -   [流程图 - 下载 System Center Configuration Manager 的更新](../LocTest/Flowchart---Download-updates-for-System-Center-Configuration-Manager.md)。  
   
--   [流程图 - 更新 System Center Configuration Manager 的副本](../LocTest\Flowchart---Update-replication-for-System-Center-Configuration-Manager.md)  
+-   [流程图 - 更新 System Center Configuration Manager 的副本](../LocTest/Flowchart---Update-replication-for-System-Center-Configuration-Manager.md)  
 
 ## 查看和管理更新和功能的权限
  安装更新 1606 之前，若要在控制台中查看更新，用户必须分配有安全角色，该角色在权限组**站点**中包括**读取**权限并且安全作用域为**全部**。 从更新 1606 开始，引入新的名为**更新包**的基于角色的管理安全类，授予查看和管理 Configuration Manager 控制台中更新的访问。    
@@ -90,7 +90,7 @@ translationtype: Human Translation
   
 -   从 1511 更新到 1602：请参阅 [1602 的安装更新清单](../LocTest/Checklist-for-installing-update-1602-for-System-Center-Configuration-Manager.md)
 
-- 从 1511 或1602 更新到 1606：请参阅 [1606 的安装更新清单](../LocTest\Checklist-for-installing-update-1606-for-System-Center-Configuration-Manager.md)  
+- 从 1511 或1602 更新到 1606：请参阅 [1606 的安装更新清单](../LocTest/Checklist-for-installing-update-1606-for-System-Center-Configuration-Manager.md)  
   
   
 ###  <a name="bkmk_step2"></a> 步骤 2：安装更新之前测试数据库升级  

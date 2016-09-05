@@ -41,7 +41,7 @@ translationtype: Human Translation
 > [!IMPORTANT]  
 >  你可以在站点上安装多个软件更新点。 你安装的第一个软件更新点配置为同步源，它从 Microsoft 更新或上游同步源中同步更新。 站点上的其他软件更新点配置为第一个软件更新点的副本。 因此，在你安装和配置初始软件更新点之后，某些设置不可用。  
   
- 你可以将软件更新点站点系统角色添加到现有站点系统服务器，或者可以创建新站点系统服务器。 在“创建站点系统服务器向导”  或“添加站点系统角色向导”  的“系统角色选择”  页上，根据你是将站点系统角色添加到新站点服务器还是现有站点服务器，选择“软件更新点” ，然后在向导中配置软件更新点设置。 根据所使用的 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 的版本，设置会有所不同。 有关如何安装站点系统角色的详细信息，请参阅[安装 System Center Configuration Manager 的站点系统角色](../LocTest\Install-site-system-roles-for-System-Center-Configuration-Manager.md)。  
+ 你可以将软件更新点站点系统角色添加到现有站点系统服务器，或者可以创建新站点系统服务器。 在“创建站点系统服务器向导”  或“添加站点系统角色向导”  的“系统角色选择”  页上，根据你是将站点系统角色添加到新站点服务器还是现有站点服务器，选择“软件更新点” ，然后在向导中配置软件更新点设置。 根据所使用的 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 的版本，设置会有所不同。 有关如何安装站点系统角色的详细信息，请参阅[安装 System Center Configuration Manager 的站点系统角色](../LocTest/Install-site-system-roles-for-System-Center-Configuration-Manager.md)。  
   
  使用下列部分来了解有关站点上的软件更新点设置的信息。  
   

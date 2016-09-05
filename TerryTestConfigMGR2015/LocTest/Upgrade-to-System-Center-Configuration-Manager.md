@@ -221,7 +221,7 @@ translationtype: Human Translation
 > [!TIP]  
 >  在开始升级之前，关闭每个打开的控制台。  
   
- 有关详细信息，请参阅[安装 System Center Configuration Manager 控制台](../LocTest\Install-System-Center-Configuration-Manager-consoles.md)。  
+ 有关详细信息，请参阅[安装 System Center Configuration Manager 控制台](../LocTest/Install-System-Center-Configuration-Manager-consoles.md)。  
   
  为主站点中的管理点**重新配置数据库副本**：  
   
@@ -287,9 +287,9 @@ translationtype: Human Translation
   
  接下来，在还原站点数据库之后，在 SQL Server 计算机上，使用 **/TESTDBUPGRADE** 命令行选项从 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 的源媒体文件夹中运行 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 安装程序。  
   
--   有关如何创建和还原站点数据库备份的信息，请参阅[适用于安装程序的命令行选项](../LocTest\Command-line-options-for-Setup-for-System-Center-Configuration-Manager.md)。  
+-   有关如何创建和还原站点数据库备份的信息，请参阅[适用于安装程序的命令行选项](../LocTest/Command-line-options-for-Setup-for-System-Center-Configuration-Manager.md)。  
   
--   有关 **/TESTDBUPGRADE** 命令行选项的信息，请参阅[适用于安装程序的命令行选项](../LocTest\Command-line-options-for-Setup-for-System-Center-Configuration-Manager.md) 中的表。  
+-   有关 **/TESTDBUPGRADE** 命令行选项的信息，请参阅[适用于安装程序的命令行选项](../LocTest/Command-line-options-for-Setup-for-System-Center-Configuration-Manager.md) 中的表。  
   
 -   有关支持的 SQL Server 版本的信息，请参阅[对 System Center Configuration Manager 的 SQL Server 版本的支持](../LocTest/Support-for-SQL-Server-versions-for-System-Center-Configuration-Manager.md)主题。  
   
