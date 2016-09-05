@@ -23,8 +23,8 @@ translationtype: Human Translation
  
  将本主题中的信息和以下文章中的信息一起使用：
 -   [用于 Configuration Manager 的推荐硬件](../LocTest/Recommended-hardware-for-System-Center-Configuration-Manager.md)
--   [用于 Configuration Manager 的站点和站点系统先决条件](../LocTest\Site-and-site-system-prerequisites-for-System-Center-Configuration-Manager.md)
--   [用于 Configuration Manager 的大小和扩展数量](../LocTest\Size-and-scale-numbers-for-System-Center-Configuration-Manager.md)
+-   [用于 Configuration Manager 的站点和站点系统先决条件](../LocTest/Site-and-site-system-prerequisites-for-System-Center-Configuration-Manager.md)
+-   [用于 Configuration Manager 的大小和扩展数量](../LocTest/Size-and-scale-numbers-for-System-Center-Configuration-Manager.md)
  
 
   

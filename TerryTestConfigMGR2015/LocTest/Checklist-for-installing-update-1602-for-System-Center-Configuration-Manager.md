@@ -47,7 +47,7 @@ translationtype: Human Translation
   
  此安装可以将站点系统服务器置于重新启动挂起状态，并向 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 组件状态查看器报告错误。 此外，服务器上的 .NET 应用程序可能具有随机故障，直到重新启动服务器。  
   
- 有关详细信息，请参阅[站点和站点系统先决条件](../LocTest\Site-and-site-system-prerequisites-for-System-Center-Configuration-Manager.md)  
+ 有关详细信息，请参阅[站点和站点系统先决条件](../LocTest/Site-and-site-system-prerequisites-for-System-Center-Configuration-Manager.md)  
   
  **查看站点和层次结构状态，并确认没有未解决的问题：**更新站点之前，请解决远程计算机上安装的站点服务器、站点数据库服务器和站点系统角色的所有操作问题。 由于现有的操作问题，站点更新可能会失败。  
  有关详细信息，请参阅[使用 System Center Configuration Manager 的警报和状态系统](../LocTest/Use-alerts-and-the-status-system-for-System-Center-Configuration-Manager.md)  

@@ -48,7 +48,7 @@ translationtype: Human Translation
   
 -   你可以安装一个分发点作为预留的分发点。 预留的分发点允许你使用手动放在分发点服务器上的内容，并且不需要在网络中传输内容文件。  
   
- 有关详细信息,请参阅[管理用于内容管理的网络带宽](../LocTest\Manage-network-bandwidth-for-content-management-in-System-Center-Configuration-Manager.md)。 
+ 有关详细信息,请参阅[管理用于内容管理的网络带宽](../LocTest/Manage-network-bandwidth-for-content-management-in-System-Center-Configuration-Manager.md)。 
   
   
 ##  <a name="Planning_Client_to_Site_System"></a> 从客户端到站点系统和服务的通信  

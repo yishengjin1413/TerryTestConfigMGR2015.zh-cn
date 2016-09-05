@@ -88,7 +88,7 @@ translationtype: Human Translation
 |临时数据库文件（.mdf 和 .ldf）|按需而定|按需而定|按需而定|按需而定|按需而定|按需而定|  
 |内容（分发点共享）|按需而定<sup>1</sup>|按需而定<sup>1</sup>|按需而定<sup>1</sup>|按需而定<sup>1</sup>|按需而定<sup>1</sup>|按需而定<sup>1</sup>|  
   
- <sup>1</sup> 磁盘空间指导未包括位于站点服务器或分发点上的内容库中的内容所需的空间。 有关规划内容库的信息，请参阅[内容库](../LocTest\The-content-library-in-System-Center-Configuration-Manager.md)。  
+ <sup>1</sup> 磁盘空间指导未包括位于站点服务器或分发点上的内容库中的内容所需的空间。 有关规划内容库的信息，请参阅[内容库](../LocTest/The-content-library-in-System-Center-Configuration-Manager.md)。  
   
  在规划磁盘空间要求时，除了考虑上述指南之外，另请考虑下列指南：  
   

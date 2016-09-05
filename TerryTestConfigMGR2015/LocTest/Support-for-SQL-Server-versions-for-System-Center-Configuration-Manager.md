@@ -56,7 +56,7 @@ translationtype: Human Translation
  System Center Configuration Manager 1511 及更高版本支持以下版本的 SQL Server。  
   
 > [!IMPORTANT]  
->  为管理中心站点上的数据库使用 SQL Server Standard 会限制层次结构可支持的客户端总数。 请参阅[调整大小和扩展数量](../LocTest\Size-and-scale-numbers-for-System-Center-Configuration-Manager.md)。
+>  为管理中心站点上的数据库使用 SQL Server Standard 会限制层次结构可支持的客户端总数。 请参阅[调整大小和扩展数量](../LocTest/Size-and-scale-numbers-for-System-Center-Configuration-Manager.md)。
 
   
 ### SQL Server 2014 SP1 - Standard、Enterprise  

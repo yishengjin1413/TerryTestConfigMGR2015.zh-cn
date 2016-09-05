@@ -41,9 +41,9 @@ translationtype: Human Translation
   
     -   当你没有 CD.Latest 文件夹，但是具有正常运行的子主站点或管理中心站点时，可以将该站点用作站点恢复的引用站点。  
   
-2.  **安装子主站点：**要在安装了一个或多个控制台内部更新的管理中心站点下安装新的子主站点，必须使用来自管理中心站点的 CD.Latest 文件夹中的安装程序和源文件。 安装程序从来自管理中心站点的 CD.Latest 文件夹副本运行时，它使用与管理中心站点版本匹配的安装源文件。 有关详细信息，请参阅[使用安装向导来安装站点](../LocTest\Use-the-Setup-Wizard-to-install-System-Center-Configuration-Manager-sites.md)。  
+2.  **安装子主站点：**要在安装了一个或多个控制台内部更新的管理中心站点下安装新的子主站点，必须使用来自管理中心站点的 CD.Latest 文件夹中的安装程序和源文件。 安装程序从来自管理中心站点的 CD.Latest 文件夹副本运行时，它使用与管理中心站点版本匹配的安装源文件。 有关详细信息，请参阅[使用安装向导来安装站点](../LocTest/Use-the-Setup-Wizard-to-install-System-Center-Configuration-Manager-sites.md)。  
   
-3.  **扩展独立主站点：**要通过安装新的管理中心站点来扩展独立主站点时，必须使用来自主站点的 CD.Latest 文件夹中的安装程序和源文件来安装新的管理中心站点。 从来自主站点的 CD.Latest 文件夹副本运行时，它使用与主站点版本匹配的安装源文件。 有关详细信息，请参阅[使用安装向导来安装站点](../LocTest\Use-the-Setup-Wizard-to-install-System-Center-Configuration-Manager-sites.md)中的[扩展独立主站点](../LocTest\Use-the-Setup-Wizard-to-install-System-Center-Configuration-Manager-sites.md#bkmk_expand))
+3.  **扩展独立主站点：**要通过安装新的管理中心站点来扩展独立主站点时，必须使用来自主站点的 CD.Latest 文件夹中的安装程序和源文件来安装新的管理中心站点。 从来自主站点的 CD.Latest 文件夹副本运行时，它使用与主站点版本匹配的安装源文件。 有关详细信息，请参阅[使用安装向导来安装站点](../LocTest/Use-the-Setup-Wizard-to-install-System-Center-Configuration-Manager-sites.md)中的[扩展独立主站点](../LocTest/Use-the-Setup-Wizard-to-install-System-Center-Configuration-Manager-sites.md#bkmk_expand))
   
 > [!IMPORTANT]  
 >  对于以下各项不支持更新后的 CD.Latest 源文件：  

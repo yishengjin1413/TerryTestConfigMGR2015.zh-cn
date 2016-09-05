@@ -87,7 +87,7 @@ translationtype: Human Translation
  你可以在其他计算机上安装 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 控制台，并且通过使用基于   
                 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 角色的管理权限来限制访问并限制管理用户可以在控制台中看到的内容。  
   
- 有关详细信息，请参阅[安装 System Center Configuration Manager 控制台](../LocTest\Install-System-Center-Configuration-Manager-consoles.md)
+ 有关详细信息，请参阅[安装 System Center Configuration Manager 控制台](../LocTest/Install-System-Center-Configuration-Manager-consoles.md)
   
 ##  <a name="BKMK_ApplicationCatalog"></a> 应用程序目录、软件中心和公司门户  
  **应用程序目录**是一个网站，用户可在其中浏览并请求适用于基于 Windows 的电脑的软件。 要使用应用程序目录，你必须为站点安装应用程序目录 Web 服务点和应用程序目录网站点。  

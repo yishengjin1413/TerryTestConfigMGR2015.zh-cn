@@ -25,11 +25,11 @@ translationtype: Human Translation
   
  以下主题详细介绍了安装站点系统角色的过程和相关详细信息：  
   
--   [安装 System Center Configuration Manager 的站点系统角色](../LocTest\Install-site-system-roles-for-System-Center-Configuration-Manager.md)  
+-   [安装 System Center Configuration Manager 的站点系统角色](../LocTest/Install-site-system-roles-for-System-Center-Configuration-Manager.md)  
   
      本主题提供有关使用可用于安装新站点系统角色的两个控制台内部向导的基本指南。  
   
--   [在 Microsoft Azure 中安装 System Center Configuration Manager 基于云的分发点](../LocTest\Install-cloud-based-distribution-points-in-Microsoft-Azure-for-System-Center-Configuration-Manager.md)  
+-   [在 Microsoft Azure 中安装 System Center Configuration Manager 基于云的分发点](../LocTest/Install-cloud-based-distribution-points-in-Microsoft-Azure-for-System-Center-Configuration-Manager.md)  
   
      要使用 Microsoft Azure 承载部署到客户端的内容时，本主题中的信息可帮助你配置所需证书文件，以使 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 可以与 Microsoft Azure 订阅通信并使用该订阅。 此外，你需要配置名称解析以便使客户端可以查找基于云的分发点。  
   
@@ -37,7 +37,7 @@ translationtype: Human Translation
   
      本主题将帮助你成功配置站点系统角色，以支持使用 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 本地 MDM 管理新式设备。  
   
--   [System Center Configuration Manager 站点系统角色的配置选项](../LocTest\Configuration-options-for-site-system-roles-for-System-Center-Configuration-Manager.md)  
+-   [System Center Configuration Manager 站点系统角色的配置选项](../LocTest/Configuration-options-for-site-system-roles-for-System-Center-Configuration-Manager.md)  
   
      某些站点系统角色支持的配置所需要的详细信息比用户界面中可以说明的详细信息更多。 本主题提供这些详细信息。  
   

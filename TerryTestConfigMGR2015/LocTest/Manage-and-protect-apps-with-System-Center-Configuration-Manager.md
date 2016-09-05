@@ -42,7 +42,7 @@ translationtype: Human Translation
  ## 管理来自适用于企业的 Windows 应用商店的应用
  [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 可通过从应用商店导入许可证信息并跟踪已用的许可证数量，帮助你部署和管理通过适用于企业的 Windows 应用商店批量采购的应用。  
  
- [使用 System Center Configuration Manager 管理来自适用于企业的 Windows 应用商店的应用](../LocTest\Manage-apps-from-the-Windows-Store-for-Business-with-System-Center-Configuration-Manager.md)
+ [使用 System Center Configuration Manager 管理来自适用于企业的 Windows 应用商店的应用](../LocTest/Manage-apps-from-the-Windows-Store-for-Business-with-System-Center-Configuration-Manager.md)
   
 ## iOS 应用配置策略  
  一些 iOS 应用程序支持预配置应用程序应连接到的设置，如服务器或数据库。 Configuration Manager 现在支持将应用配置策略部署到设备，使用户无需知道该信息即可立即使用此应用，这能有助于减少支持呼叫。  
