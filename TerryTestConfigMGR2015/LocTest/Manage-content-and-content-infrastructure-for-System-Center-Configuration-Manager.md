@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: ceff72f5-f19d-43a0-a8c0-72f1c09b9bf5
 caps.latest.revision: 17
 caps.handback.revision: 16
+translationtype: Human Translation
 ---
 # Manage content and content infrastructure for System Center Configuration Manager
 <?xml version="1.0" encoding="UTF-8"?>

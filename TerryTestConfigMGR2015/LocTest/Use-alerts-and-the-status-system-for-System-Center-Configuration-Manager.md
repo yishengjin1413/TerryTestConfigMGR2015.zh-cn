@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 7341cc6e-9e08-41e4-bcc6-6c1ff12e85ca
 caps.latest.revision: 10
 caps.handback.revision: 9
+translationtype: Human Translation
 ---
 # 使用 System Center Configuration Manager 的警报和状态系统
 配置警报，并使用内置的状态系统以保持对你的 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 部署状态的了解。  

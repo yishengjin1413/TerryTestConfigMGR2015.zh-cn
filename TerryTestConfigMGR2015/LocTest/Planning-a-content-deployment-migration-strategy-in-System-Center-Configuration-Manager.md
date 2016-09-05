@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 66f7759c-6272-4116-aad7-0d05db1d46cd
 caps.latest.revision: 8
 caps.handback.revision: 7
+translationtype: Human Translation
 ---
 # 在 System Center Configuration Manager 中规划内容部署迁移策略
 在你以主动方式将数据迁移到 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 目标层次结构时，源和目标层次结构中的 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 客户端都能继续访问你在源层次结构中部署的内容。 此外，你可以使用迁移升级或重新分配源层次结构中的分发点，以成为目标层次结构中的分发点。 在共享和升级或重新分配分发点时，此策略使你不必为你迁移的客户端将内容重新部署到目标层次结构中的新服务器。  

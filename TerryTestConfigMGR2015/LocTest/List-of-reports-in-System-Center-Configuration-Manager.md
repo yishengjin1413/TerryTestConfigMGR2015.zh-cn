@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: b7332ed3-8003-454b-bb12-1fdf8721425c
 caps.latest.revision: 10
 caps.handback.revision: 7
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中的报表列表
 <?xml version="1.0" encoding="utf-8"?>

@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: da1e687b-28f6-43c4-b14a-ff2b76e60d24
 caps.latest.revision: 26
 caps.handback.revision: 24
+translationtype: Human Translation
 ---
 # 使用 System Center Configuration Manager 将 Windows 作为服务进行管理
 ||  

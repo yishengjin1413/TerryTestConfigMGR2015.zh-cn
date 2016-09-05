@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: dc78c1a4-d34e-4c7c-9abe-72c5adf073e5
 caps.latest.revision: 5
 caps.handback.revision: 5
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中 VPN 配置文件的安全和隐私
 本主题包含 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的 VPN 配置文件的安全和隐私信息。  

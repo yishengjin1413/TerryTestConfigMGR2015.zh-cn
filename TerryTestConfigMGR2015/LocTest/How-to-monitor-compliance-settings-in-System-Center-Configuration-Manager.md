@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 92c1ccca-a748-44cd-a52e-e41d34bf981d
 caps.latest.revision: 6
 caps.handback.revision: 5
+translationtype: Human Translation
 ---
 # 如何在 System Center Configuration Manager 中监视符合性设置
 在向层次结构中的计算机部署 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 配置基线后，你可以使用以下一个或多个过程来显示配置基线的符合性状态：  

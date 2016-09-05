@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: bc15ee7e-4d0a-4463-ae2c-f72d8d45d65d
 caps.latest.revision: 17
 caps.handback.revision: 16
+translationtype: Human Translation
 ---
 # 扩展 System Center Configuration Manager 的 Active Directory 架构
 为 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 扩展 Active Directory 架构时，向 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 站点所使用的 Active Directory 引入新结构，以便将关键信息发布在客户端可以轻松访问的安全位置。  

@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 2c8f57cf-1968-48de-87fb-4897432ed6e0
 caps.latest.revision: 23
 caps.handback.revision: 20
+translationtype: Human Translation
 ---
 # 如何在 System Center Configuration Manager 中监视客户端
 

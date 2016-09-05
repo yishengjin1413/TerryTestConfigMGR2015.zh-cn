@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 9123a87a-0b6f-43c7-b5c2-fac5d09686b1
 caps.latest.revision: 6
 caps.handback.revision: 6
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中的代理服务器支持
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 站点系统服务器和客户端都可利用代理服务器。  

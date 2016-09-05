@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 1eb2fcaf-acac-4388-9b31-6cccafacaabe
 caps.latest.revision: 9
 caps.handback.revision: 9
+translationtype: Human Translation
 ---
 # 如何为使用 System Center Configuration Manager 客户端管理的 Windows 台式机和服务器计算机创建配置项目
 使用 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)]“自定义 Windows 台式机和服务器”配置项目为由 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 客户端管理的 Windows 计算机和服务器管理设置。  

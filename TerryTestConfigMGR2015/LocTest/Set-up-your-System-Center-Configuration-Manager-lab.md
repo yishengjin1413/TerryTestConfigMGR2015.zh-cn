@@ -15,6 +15,7 @@ ms.assetid: b1970688-0cd2-404f-a17f-9e2aa4a78758
 caps.latest.revision: 11
 caps.handback.revision: 10
 author: barlanmsft
+translationtype: Human Translation
 ---
 # 设置你的 System Center Configuration Manager 实验室
 遵循本主题中的指导原则将使你能够设置实验室以使用模拟现实活动评估 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)]。  

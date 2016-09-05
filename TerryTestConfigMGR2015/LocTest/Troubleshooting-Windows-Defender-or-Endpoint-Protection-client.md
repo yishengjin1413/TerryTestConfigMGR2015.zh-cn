@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: d837253e-fcc2-422a-9e2c-c78b938dfd8c
 caps.latest.revision: 7
 caps.handback.revision: 6
+translationtype: Human Translation
 ---
 # 对 Windows Defender 或 Endpoint Protection 客户端进行故障排除
 如果你遇到有关 Windows Defender 或者 Endpoint Protection 的问题，请联系你的安全管理员以获得支持。 你也可以尝试对以下问题进行故障排除：  

@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: eea36ac7-b261-45da-b448-0358c9e74386
 caps.latest.revision: 7
 caps.handback.revision: 7
+translationtype: Human Translation
 ---
 # 在 System Center Configuration Manager 中使用远程连接配置文件
 使用 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 远程连接配置文件，允许用户在未连接到域时或者其个人计算机通过 Internet 连接时以远程方式连接到工作计算机。  

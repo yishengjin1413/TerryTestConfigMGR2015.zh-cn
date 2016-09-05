@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 446c83b5-c292-4e74-ba19-0792ac6b3472
 caps.latest.revision: 8
 caps.handback.revision: 8
+translationtype: Human Translation
 ---
 # 在 System Center Configuration Manager 中升级客户端
 可以使用不同的方法在企业的 Windows 计算机、UNIX 和 Linux 服务器以及 Mac 计算机上升级 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 客户端软件。 以下部分概述了每种客户端升级方法的优点和缺点，以帮助你确定哪种方法最适合你的组织。  

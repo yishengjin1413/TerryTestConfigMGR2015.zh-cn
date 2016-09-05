@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 9b0a7859-747f-4495-a2f4-13fd5991f897
 caps.latest.revision: 8
 caps.handback.revision: 7
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 不同版本之间的互操作性
 支持在同一网络上安装和运行多个独立的 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 层次结构。 但是，由于不同的 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 层次结构不会在迁移外部交互操作，因此每个层次结构都需要配置以防止相互之间冲突。 此外，你可以进行某些配置来帮助你所管理的资源与正确层次结构中的站点系统交互。  

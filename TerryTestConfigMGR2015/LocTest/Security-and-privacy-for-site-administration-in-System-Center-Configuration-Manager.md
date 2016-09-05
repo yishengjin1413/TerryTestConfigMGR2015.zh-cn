@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 1d58176e-abc0-4087-8583-ce70deb4dcf5
 caps.latest.revision: 8
 caps.handback.revision: 8
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中站点管理的安全和隐私
 此部分包含 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 站点及层次结构的安全和隐私信息：  
@@ -175,7 +176,7 @@ caps.handback.revision: 8
   
 -   如果你必须使用子网导向型广播，请配置路由器以仅允许来自站点服务器且位于非默认端口号上的 IP 导向型广播  
   
- 有关不同 LAN 唤醒技术的详细信息，请参阅[规划如何在 System Center Configuration Manager 中唤醒客户端](Plan%20how%20to%20wake%20up%20clients%20in%20System%20Center%20Configuration%20Manager.md)。
+ 有关不同 LAN 唤醒技术的详细信息，请参阅[规划如何在 System Center Configuration Manager 中唤醒客户端](../LocTest\Plan-how-to-wake-up-clients-in-System-Center-Configuration-Manager.md)。
   
  **如果使用电子邮件通知，请配置对 SMTP 邮件服务器的身份验证访问权限。**  
   
@@ -196,7 +197,7 @@ caps.handback.revision: 8
   
  请在辅助站点服务器上将源文件从媒体复制到本地文件夹，而不是通过网络复制文件。 然后，在运行安装程序创建辅助站点时，请在“安装源文件”  页上，选择“使用辅助站点计算机上以下位置中的源文件(最安全)” ，并指定此文件夹。  
   
- 有关详细信息，请参阅[使用安装向导安装站点](Use%20the%20Setup%20Wizard%20to%20install%20System%20Center%20Configuration%20Manager%20sites.md)主题中的[安装辅助站点](Use%20the%20Setup%20Wizard%20to%20install%20System%20Center%20Configuration%20Manager%20sites.md#bkmk_secondary)。  
+ 有关详细信息，请参阅[使用安装向导安装站点](../LocTest\Use-the-Setup-Wizard-to-install-System-Center-Configuration-Manager-sites.md)主题中的[安装辅助站点](../LocTest\Use-the-Setup-Wizard-to-install-System-Center-Configuration-Manager-sites.md#bkmk_secondary)。  
   
 ##  <a name="BKMK_Security_SQLServer"></a> SQL Server 的最佳安全方案  
  [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 使用 SQL Server 作为后端数据库。 如果数据库被泄露，则攻击者可以绕过 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 并直接访问 SQL Server 以通过 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)]启动攻击。 请将对 SQL Server 的攻击视为高风险并且必须相应地进行缓解。  
@@ -236,7 +237,7 @@ caps.handback.revision: 8
   
  **禁用不需要的 IIS 功能。**  
   
- 仅针对你安装的站点系统角色安装最少的 IIS 功能。 有关详细信息，请参阅[站点和站点系统先决条件](Site%20and%20site%20system%20prerequisites%20for%20System%20Center%20Configuration%20Manager.md)  
+ 仅针对你安装的站点系统角色安装最少的 IIS 功能。 有关详细信息，请参阅[站点和站点系统先决条件](../LocTest\Site-and-site-system-prerequisites-for-System-Center-Configuration-Manager.md)  
   
  **配置需要 HTTPS 的站点系统角色。**  
   
@@ -293,7 +294,7 @@ caps.handback.revision: 8
   
  **执行 IIS 服务器的最佳方案。**  
   
- 确定并执行 IIS 服务器版本的最佳方案。 不过，请考虑 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 对特定站点系统角色的任何要求。 有关详细信息，请参阅[站点和站点系统先决条件](Site%20and%20site%20system%20prerequisites%20for%20System%20Center%20Configuration%20Manager.md)。  
+ 确定并执行 IIS 服务器版本的最佳方案。 不过，请考虑 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 对特定站点系统角色的任何要求。 有关详细信息，请参阅[站点和站点系统先决条件](../LocTest\Site-and-site-system-prerequisites-for-System-Center-Configuration-Manager.md)。  
   
 ##  <a name="BKMK_Security_ManagementPoint"></a> 管理点的最佳安全方案  
  管理点是设备与 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)]之间的主要接口。 请将对管理点以及运行该管理点所在的服务器的攻击视为高风险并且必须相应地进行缓解。 应用所有适当的最佳安全方案并监视异常活动。  

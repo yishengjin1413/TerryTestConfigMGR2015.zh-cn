@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 05515458-ec09-415d-976e-8221975df650
 caps.latest.revision: 15
 caps.handback.revision: 12
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 文档
 欢迎使用 Microsoft [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)]。 使用 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 能够在服务器、台式机、便携式计算机和移动设备上实现安全和可缩放的软件部署、符合性设置管理以及综合资产管理，从而提供更有效的 IT 服务。  

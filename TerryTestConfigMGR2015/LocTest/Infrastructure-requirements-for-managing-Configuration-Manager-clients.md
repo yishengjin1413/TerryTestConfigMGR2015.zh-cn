@@ -9,6 +9,7 @@ ms.topic: article
 ms.assetid: 11f2f537-e0af-4eaa-a65e-d33e0addf977
 caps.latest.revision: 2
 caps.handback.revision: 2
+translationtype: Human Translation
 ---
 # 管理 Configuration Manager 客户端的基础结构要求
 在此处插入说明。  

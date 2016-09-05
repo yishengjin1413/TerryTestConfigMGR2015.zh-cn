@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 15a4e323-9f42-4fea-bb14-f2b905d1f77c
 caps.latest.revision: 9
 caps.handback.revision: 9
+translationtype: Human Translation
 ---
 # 在 System Center Configuration Manager 中如何将客户端部署到 UNIX 和 Linux 服务器
 在可以用 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)]管理 Linux 或 UNIX 服务器之前，你必须在每个 Linux 或 UNIX 服务器上安装适用于 Linux 和 UNIX 的 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 客户端。 可以在每台计算机上手动完成客户端安装，或远程使用安装客户端的 shell 脚本。 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 不支持对 Linux 或 UNIX 服务器使用客户端请求安装。 （可选）你可以为 System Center orchestrator 配置 Runbook 来自动执行 Linux 或 UNIX 服务器上的客户端安装。  

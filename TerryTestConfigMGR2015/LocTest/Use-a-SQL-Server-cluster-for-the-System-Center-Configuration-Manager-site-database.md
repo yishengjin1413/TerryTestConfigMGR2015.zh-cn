@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: d09a82c6-bbd1-49ca-8ffe-e3ce87b85d33
 caps.latest.revision: 10
 caps.handback.revision: 8
+translationtype: Human Translation
 ---
 # 对 System Center Configuration Manager 站点数据库使用非默认的 SQL Server 配置
 当你安装 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 站点，并选择对站点数据库使用 SQL Server 的非默认实例或配置时，可从以下选项中进行选择：  

@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: d8d5c345-1e91-410b-b8a9-0170dcfa846e
 caps.latest.revision: 12
 caps.handback.revision: 8
+translationtype: Human Translation
 ---
 # 在 System Center Configuration Manager 中管理用户状态
 在希望保留当前操作系统的用户状态的操作系统部署方案中，你可以使用 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 任务序列来捕获和还原用户状态数据。 例如：  

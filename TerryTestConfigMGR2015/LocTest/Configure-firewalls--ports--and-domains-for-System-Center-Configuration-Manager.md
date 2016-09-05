@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: d6993bba-f6bd-4639-adbf-efc1c638b2f3
 caps.latest.revision: 15
 caps.handback.revision: 15
+translationtype: Human Translation
 ---
 # 为 System Center Configuration Manager 配置防火墙、端口和域
 若要准备网络以支持 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)]，则计划配置基础结构（如防火墙）以传递 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 使用的通信。  

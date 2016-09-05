@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: cead6825-6113-4ba5-a381-ac3598dfee86
 caps.latest.revision: 7
 caps.handback.revision: 7
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 的层次结构维护工具 (Preinst.exe)
 在层次结构管理器服务运行时，层次结构维护工具 (Preinst.exe) 将命令传递给 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 层次结构管理器。 在你安装 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 站点时，会自动安装层次结构维护工具。 Preinst.exe 位于站点服务器上的 \\\\<*SiteServerName*>\SMS_<*SiteCode*\bin\X64\00000409 共享文件夹中。  

@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 2bdec799-905f-48bc-aed5-2d92134739e8
 caps.latest.revision: 6
 caps.handback.revision: 5
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中的 Unicode 和 ASCII 支持
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 使用 Unicode 字符来创建大部分对象。 但是，有几个对象仅支持 ASCII 字符，或者具有其他限制。  

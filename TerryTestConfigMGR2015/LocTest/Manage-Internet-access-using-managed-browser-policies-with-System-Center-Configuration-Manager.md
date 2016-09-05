@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 735c45b8-a545-4805-84e5-46204fabd1a6
 caps.latest.revision: 6
 caps.handback.revision: 6
+translationtype: Human Translation
 ---
 # 使用 System Center Configuration Manager 的托管浏览器策略管理 Internet 访问
 在 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)]中，可以部署 Intune 托管浏览器（这是一款 Web 浏览应用程序），还可将应用程序与托管浏览器策略关联。 托管浏览器策略可配置允许列表或阻止列表，用于限制托管浏览器用户可以访问的网站。  

@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 183315fe-27bd-456f-b2c5-e8d25e05229b
 caps.latest.revision: 11
 caps.handback.revision: 8
+translationtype: Human Translation
 ---
 # 在 Windows 10 中与 Windows Update for Business 集成
 当基于 Windows 10 的设备直接连接到 Windows Update \(WU\) 服务时，Windows Update for Business \(WUfB\) 能够让你使组织中的这些设备始终具有最新的安全防御和 Windows 功能。[!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 能够区分使用 WUfB 和 WSUS 来获取软件更新的 Windows 10 计算机。  

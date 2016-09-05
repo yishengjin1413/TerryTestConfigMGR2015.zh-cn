@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 9cbfc406-d009-446d-8fee-4938de48c919
 caps.latest.revision: 15
 caps.handback.revision: 14
+translationtype: Human Translation
 ---
 # 使用 System Center Configuration Manager 自定义启动映像
 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 的每个版本都支持特定版本的 Windows 评估和部署工具包 (Windows ADK)。 如果启动映像基于来自受支持的 Windows ADK 版本中的 Windows PE 版本，则可以从 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 控制台中维护或自定义启动映像。 对于其他启动映像，你必须使用其他方法自定义它们，如使用 Windows AIK 和 Windows ADK 中的部署映像服务和管理 (DISM) 命令行工具。  

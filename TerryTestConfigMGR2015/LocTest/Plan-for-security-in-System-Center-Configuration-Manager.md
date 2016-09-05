@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 2a216814-ca8c-4d2e-bcef-dc00966a3c9f
 caps.latest.revision: 6
 caps.handback.revision: 5
+translationtype: Human Translation
 ---
 # 规划 System Center Configuration Manager 中的安全性
 使用下列信息来帮助你在 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中规划安全性：  

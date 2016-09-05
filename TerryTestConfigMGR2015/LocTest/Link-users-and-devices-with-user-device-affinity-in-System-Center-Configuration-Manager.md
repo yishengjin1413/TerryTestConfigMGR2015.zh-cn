@@ -15,6 +15,7 @@ ms.assetid: 5b30b0d5-722d-4d4b-9ed7-5a43de315461
 caps.latest.revision: 7
 caps.handback.revision: 6
 author: barlanmsft
+translationtype: Human Translation
 ---
 # 在 System Center Configuration Manager 中将用户和设备与用户设备相关性相链接
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的用户设备相关性将用户与一个或多个设备相关联。 这样，在将应用程序部署到某用户时无需知道该用户的设备名称。 你将应用程序部署到该用户，而不是部署到该用户的每个设备。 之后，用户设备相关性会自动确保在所有与该用户关联的设备上安装应用程序。  

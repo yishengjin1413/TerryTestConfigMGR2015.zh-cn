@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: fb5a042f-5c66-424e-8b42-810d971e95ff
 caps.latest.revision: 6
 caps.handback.revision: 5
+translationtype: Human Translation
 ---
 # 如何确定 WSUS System Center Configuration Manager 中 WSUS 使用的端口设置
 在 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中安装和配置软件更新点时，必须指定 Microsoft Windows Server Update Services \(WSUS\) 服务器使用的端口设置。  使用下列过程来确定 WSUS 使用的端口设置。  

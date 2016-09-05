@@ -15,6 +15,7 @@ ms.assetid: 62e20d86-db6d-4a1f-b14a-905a9de31698
 caps.latest.revision: 6
 caps.handback.revision: 6
 author: barlanmsft
+translationtype: Human Translation
 ---
 # Security and privacy for hardware inventory in System Center Configuration Manager
 This topic contains security and privacy information for hardware inventory in [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)].  

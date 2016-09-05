@@ -15,6 +15,7 @@ ms.assetid: 41e8d1ed-ce41-4070-9bb9-de0fe4948f20
 caps.latest.revision: 5
 caps.handback.revision: 4
 robots: noindex,nofollow
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 隐私声明 - 移动设备附录
 此隐私声明应该与 [System Center Configuration Manager 隐私声明](../LocTest/System-Center-Configuration-Manager-privacy-statement.md)和 [Microsoft Intune 隐私声明](http://go.microsoft.com/fwlink/p/?LinkId=265368)一起阅读。 这些文档中的条款均适用。 本隐私声明覆盖与 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的移动设备管理相关的企业注册功能。 本声明侧重从较高的层面来介绍注册功能，并未打算列出其全部细节。  

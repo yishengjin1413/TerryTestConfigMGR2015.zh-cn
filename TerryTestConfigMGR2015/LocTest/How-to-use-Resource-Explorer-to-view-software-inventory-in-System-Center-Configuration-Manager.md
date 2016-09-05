@@ -15,6 +15,7 @@ ms.assetid: 4b7aa5f6-5ebd-49be-b7f3-4206caadc187
 caps.latest.revision: 5
 caps.handback.revision: 4
 author: barlanmsft
+translationtype: Human Translation
 ---
 # 如何使用资源浏览器来查看 System Center Configuration Manager 中的软件清单
 使用 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的资源浏览器来查看从层次结构中的计算机收集的软件清单的相关详细。  

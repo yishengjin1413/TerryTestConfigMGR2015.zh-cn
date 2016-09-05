@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 32609a30-465c-4406-b227-aca5c276e015
 caps.latest.revision: 5
 caps.handback.revision: 4
+translationtype: Human Translation
 ---
 # 开始使用 System Center Configuration Manager
 在计划出 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 之后，站点和层次结构拓扑已准备好安装或升级站点，请使用以下主题中的信息：  

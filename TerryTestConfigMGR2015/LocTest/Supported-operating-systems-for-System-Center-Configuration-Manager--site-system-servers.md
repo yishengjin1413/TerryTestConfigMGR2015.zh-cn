@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 17905b4c-3895-4ad4-a69c-5e0d0fc5a8c3
 caps.latest.revision: 44
 caps.handback.revision: 44
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 站点系统服务器支持的操作系统
 
@@ -22,8 +23,8 @@ caps.handback.revision: 44
  
  将本主题中的信息和以下文章中的信息一起使用：
 -   [用于 Configuration Manager 的推荐硬件](../LocTest/Recommended-hardware-for-System-Center-Configuration-Manager.md)
--   [用于 Configuration Manager 的站点和站点系统先决条件](Site%20and%20site%20system%20prerequisites%20for%20System%20Center%20Configuration%20Manager.md)
--   [用于 Configuration Manager 的大小和扩展数量](Size%20and%20scale%20numbers%20for%20System%20Center%20Configuration%20Manager.md)
+-   [用于 Configuration Manager 的站点和站点系统先决条件](../LocTest\Site-and-site-system-prerequisites-for-System-Center-Configuration-Manager.md)
+-   [用于 Configuration Manager 的大小和扩展数量](../LocTest\Size-and-scale-numbers-for-System-Center-Configuration-Manager.md)
  
 
   

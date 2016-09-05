@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 76c90f64-d729-456b-8304-01852cd66fb6
 caps.latest.revision: 11
 caps.handback.revision: 6
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中的 Endpoint Protection
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的 Endpoint Protection 让你可以为 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 层次结构中的客户端计算机管理反恶意软件策略和 Windows 防火墙安全性。  

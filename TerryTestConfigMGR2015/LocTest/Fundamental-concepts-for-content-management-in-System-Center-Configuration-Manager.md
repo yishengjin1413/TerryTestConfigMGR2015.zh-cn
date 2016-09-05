@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: c201be2a-692c-4d67-ac95-0a3afa5320fe
 caps.latest.revision: 28
 caps.handback.revision: 28
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中内容管理的基本概念
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 支持工具和选项的一个可靠系统，用于管理部署为应用程序、包、软件更新和操作系统部署的内容。  
@@ -33,12 +34,12 @@ caps.handback.revision: 28
   
 -   **多播连接帐户** – 用于操作系统部署  
 
-有关这些帐户的详细信息，请参阅[管理帐户以访问内容](Manage%20accounts%20to%20access%20content%20in%20System%20Center%20Configuration%20Manager.md)
+有关这些帐户的详细信息，请参阅[管理帐户以访问内容](../LocTest\Manage-accounts-to-access-content-in-System-Center-Configuration-Manager.md)
   
 ## 带宽限制和计划  
  限制和计划选项均可帮助你控制将内容从站点服务器分发到分发点的时间。 这类似于站点到站点基于文件的复制的带宽控制，但二者又没有直接关系。  
  
- 有关详细信息，请参阅[管理网络带宽](Manage%20network%20bandwidth%20for%20content%20management%20in%20System%20Center%20Configuration%20Manager.md)
+ 有关详细信息，请参阅[管理网络带宽](../LocTest\Manage-network-bandwidth-for-content-management-in-System-Center-Configuration-Manager.md)
   
 ## 二进制差异复制  
  二进制差异复制 (BDR) 是分发点的必备条件，它有时称为增量复制，在将以前部署的内容的更新分发到其他站点或远程分发点时，将自动将其用于减少带宽使用。  
@@ -100,7 +101,7 @@ caps.handback.revision: 28
 ## 内容库  
  内容的单实例存储， [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 用它减少分发内容的组合正文的总体大小。  
   
-了解关于[内容库](The%20content%20library%20in%20System%20Center%20Configuration%20Manager.md)的详细信息
+了解关于[内容库](../LocTest\The-content-library-in-System-Center-Configuration-Manager.md)的详细信息
 
   
 ## 分发点  
@@ -125,7 +126,7 @@ caps.handback.revision: 28
 ## 分发点组  
  可以简化内容分发的分发点逻辑分组。  
  
- 有关详细信息，请参阅[管理分发点组](Install%20and%20configure%20distribution%20points%20for%20System%20Center%20Configuration%20Manager.md#bkmk_manage)
+ 有关详细信息，请参阅[管理分发点组](../LocTest\Install-and-configure-distribution-points-for-System-Center-Configuration-Manager.md#bkmk_manage)
   
 ## 分发点优先级  
  分发点优先级值取决于它将以前的部署传输到该分发点所花费的时间。  
@@ -151,7 +152,7 @@ caps.handback.revision: 28
   
 -   但是，当分发点配置为“允许客户端使用此站点系统作为内容的回退源位置”时，该分发点仅可作为有效的内容源提供给任何无法从其首选分发点之一获取部署的客户端。  
   
- 有关不同的内容位置和回退方案的信息，请参阅[内容源位置方案](Content%20source%20location%20scenarios%20in%20System%20Center%20Configuration%20Manager.md)。
+ 有关不同的内容位置和回退方案的信息，请参阅[内容源位置方案](../LocTest\Content-source-location-scenarios-in-System-Center-Configuration-Manager.md)。
   
 ## 网络带宽  
  可以使用以下选项，帮助管理分发内容时所使用的网络带宽量：  
@@ -160,7 +161,7 @@ caps.handback.revision: 28
   
 -   使用计划和限制：此配置有助于控制将内容分发到分发点的时间和方式。  
 
-有关详细信息，请参阅[管理网络带宽](Manage%20network%20bandwidth%20for%20content%20management%20in%20System%20Center%20Configuration%20Manager.md)
+有关详细信息，请参阅[管理网络带宽](../LocTest\Manage-network-bandwidth-for-content-management-in-System-Center-Configuration-Manager.md)
   
 ## 到内容源的网络连接速度  
  你可以配置边界组中每个分发点的网络连接速度：  
@@ -171,7 +172,7 @@ caps.handback.revision: 28
   
 -   **网络连接速度** 和部署配置确定当客户端位于关联的边界组中时是否能从分发点下载内容  
   
- 有关不同的内容位置和回退方案的信息，请参阅[内容源位置方案](Content%20source%20location%20scenarios%20in%20System%20Center%20Configuration%20Manager.md)。  
+ 有关不同的内容位置和回退方案的信息，请参阅[内容源位置方案](../LocTest\Content-source-location-scenarios-in-System-Center-Configuration-Manager.md)。  
   
 ## 按需内容分发  
  可为个别应用程序和包（部署）设置的一个选项，用于启用向首选分发点进行按需内容分发。  
@@ -182,13 +183,13 @@ caps.handback.revision: 28
   
 -   尽管这会触发 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 将内容自动分发到客户端首选分发点，但客户端仍可在其首选分发点接收到部署之前从其他分发点获取该内容。 当出现这种情况时，该内容将会显示在该分发点上，供搜寻该部署的下一个客户端使用  
   
- 有关不同的内容位置和回退方案的信息，请参阅[内容源位置方案](Content%20source%20location%20scenarios%20in%20System%20Center%20Configuration%20Manager.md)。  
+ 有关不同的内容位置和回退方案的信息，请参阅[内容源位置方案](../LocTest\Content-source-location-scenarios-in-System-Center-Configuration-Manager.md)。  
   
   
 ## 包传输管理器  
  将内容传输到其他计算机上分发点的站点服务器组件。  
   
- 了解关于[包传输管理器](Package%20Transfer%20Manager%20%20in%20System%20Center%20Configuration%20Manager.md)的详细信息  
+ 了解关于[包传输管理器](../LocTest\Package-Transfer-Manager--in-System-Center-Configuration-Manager.md)的详细信息  
   
 ## 首选分发点  
  与客户端当前边界组关联的分发点。  
@@ -199,12 +200,12 @@ caps.handback.revision: 28
   
 -   默认情况下，客户端只能从首选分发点下载内容  
   
- 有关不同的内容位置和回退方案的信息，请参阅[内容源位置方案](Content%20source%20location%20scenarios%20in%20System%20Center%20Configuration%20Manager.md)。  
+ 有关不同的内容位置和回退方案的信息，请参阅[内容源位置方案](../LocTest\Content-source-location-scenarios-in-System-Center-Configuration-Manager.md)。  
   
 ## 预留内容  
  此进程可将内容传输到分发点，而不依赖  [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 通过网络分发内容。  
   
- 有关详细信息，请参阅[管理网络带宽](Manage%20network%20bandwidth%20for%20content%20management%20in%20System%20Center%20Configuration%20Manager.md)
+ 有关详细信息，请参阅[管理网络带宽](../LocTest\Manage-network-bandwidth-for-content-management-in-System-Center-Configuration-Manager.md)
   
 
   

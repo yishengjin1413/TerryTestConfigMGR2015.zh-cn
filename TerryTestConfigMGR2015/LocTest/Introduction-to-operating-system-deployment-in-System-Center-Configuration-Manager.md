@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: d9a1c545-8301-492c-832f-2c108ff93c77
 caps.latest.revision: 12
 caps.handback.revision: 11
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中的操作系统部署简介
 以下部分说明了用于在 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 环境中部署操作系统的某些概念。  

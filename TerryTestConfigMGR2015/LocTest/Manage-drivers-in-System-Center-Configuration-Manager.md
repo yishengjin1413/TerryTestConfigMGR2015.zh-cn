@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 84802d55-112e-4f7f-9a48-74a80d91a0f4
 caps.latest.revision: 10
 caps.handback.revision: 10
+translationtype: Human Translation
 ---
 # 在 System Center Configuration Manager 中管理驱动程序
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 提供了驱动程序目录，可用于管理 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 环境中的 Windows 设备驱动程序。 可以使用此驱动程序目录将设备驱动程序导入到 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)]，将它们按包分组，以及将这些包分发到分发点，以便在部署操作系统时可以访问这些包。 当在目标计算机上安装完整的操作系统时，以及在使用启动映像来安装 Windows PE 时，可以使用设备驱动程序。 Windows 设备驱动程序由安装信息文件 (INF) 文件和支持设备所需的任何其他文件组成。 在部署操作系统时， [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 将从其 INF 文件中获得设备的硬件和平台信息。 使用以下方法来管理 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 环境中的驱动程序：  

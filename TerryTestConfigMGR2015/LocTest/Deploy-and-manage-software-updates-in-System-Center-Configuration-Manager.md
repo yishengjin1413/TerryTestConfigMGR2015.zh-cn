@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 2fd56b38-6772-468f-80e5-868648b4680c
 caps.latest.revision: 5
 caps.handback.revision: 5
+translationtype: Human Translation
 ---
 # 在 System Center Configuration Manager 中部署并管理软件更新
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的软件更新提供一组工具和资源，以帮助你管理、部署和监视企业中的软件更新。  

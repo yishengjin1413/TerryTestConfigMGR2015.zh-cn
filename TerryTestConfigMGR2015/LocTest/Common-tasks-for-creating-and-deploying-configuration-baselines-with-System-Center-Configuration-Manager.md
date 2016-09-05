@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 4bb6afeb-d267-4f9b-ade2-26e5400c223b
 caps.latest.revision: 6
 caps.handback.revision: 5
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 用于创建和部署配置基线的常见任务
 本主题包含帮助了解有关如何创建和部署 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 配置基线的常用方案。  

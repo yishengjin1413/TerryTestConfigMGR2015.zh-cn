@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 59004b34-b64f-4d77-898c-07bf3dc75430
 caps.latest.revision: 9
 caps.handback.revision: 6
+translationtype: Human Translation
 ---
 # 用户如何在 System Center Configuration Manager 中向本地移动设备管理注册设备
 借助 [!INCLUDE[onprem_first](../LocTest/includes/onprem_first_md.md)]，如果用户已获得注册权限（通过更新客户端设置的方式）并且其设备已安装所需的根证书以便与承载所需站点系统角色的服务器进行可信通信，则他们可以注册设备。 有关如何设置注册的详细信息，请参阅 [为 System Center Configuration Manager 中的本地移动设备管理设置设备注册](../LocTest/Set-up-device-enrollment-for-On-premises-Mobile-Device-Management-in-System-Center-Configuration-Manager.md)。  

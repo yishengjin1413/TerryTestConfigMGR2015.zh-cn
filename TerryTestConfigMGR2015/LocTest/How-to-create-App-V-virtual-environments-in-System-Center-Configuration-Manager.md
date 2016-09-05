@@ -15,6 +15,7 @@ ms.assetid: b6b86078-fcc4-46cf-87d6-4b52b914b712
 caps.latest.revision: 6
 caps.handback.revision: 5
 author: barlanmsft
+translationtype: Human Translation
 ---
 # 如何在 System Center Configuration Manager 中创建 App-V 虚拟环境
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的 Microsoft Application Virtualization \(App\-V\) 虚拟环境能让所部署的虚拟应用程序在客户端计算机上共享相同的文件系统和注册表。 这意味着这些应用程序可以互相共享数据（这与标准的虚拟应用程序不同）。 在安装应用程序时，或者在客户端接下来评估已安装的应用程序时，会在客户端计算机上创建或修改虚拟环境。 可以对这些应用程序进行排序，以便在多个应用程序尝试修改一个文件系统或注册表值时，排在最前面的应用程序优先进行修改。  

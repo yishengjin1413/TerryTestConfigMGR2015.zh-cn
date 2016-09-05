@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 74c60941-5eae-4905-9e58-252bdb39df96
 caps.latest.revision: 10
 caps.handback.revision: 6
+translationtype: Human Translation
 ---
 # 如何在 System Center Configuration Manager 中升级 Mac 计算机的客户端
 使用下表来了解有关如何使用 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 应用程序为 Mac 计算机升级客户端的步骤、详情及更多信息。 或者，你也可以下载 Mac 客户端安装文件，将其复制到 Mac 计算机上的共享网络位置或本地文件夹，然后指示用户手动运行安装。  

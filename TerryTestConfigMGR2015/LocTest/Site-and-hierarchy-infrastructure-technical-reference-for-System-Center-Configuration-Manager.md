@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: fef914d6-a4b7-4d17-a030-c81bbf7e27fe
 caps.latest.revision: 6
 caps.handback.revision: 6
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 的站点和层级结构基础结构技术参考
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 技术参考的此部分包括支持规划、部署和维护站点以及层级结构基础结构的相关信息。  

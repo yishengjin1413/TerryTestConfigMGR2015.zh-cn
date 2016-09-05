@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 9e447e34-0943-49ed-b6ba-3efebf3566c1
 caps.latest.revision: 10
 caps.handback.revision: 10
+translationtype: Human Translation
 ---
 # 在 System Center Configuration Manager 中准备未知计算机部署
 使用本主题中的信息将操作系统部署到 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 环境中的未知计算机。 未知计算机是不受 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)]管理的计算机。 这意味着 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 数据库中没有这些计算机的记录。 未知计算机包括下列各项：  

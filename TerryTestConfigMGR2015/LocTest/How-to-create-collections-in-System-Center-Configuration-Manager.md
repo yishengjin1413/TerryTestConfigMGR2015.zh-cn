@@ -15,6 +15,7 @@ ms.assetid: 1401a35e-4312-4d3b-8ceb-0abbb10d4f05
 caps.latest.revision: 6
 caps.handback.revision: 3
 author: barlanmsft
+translationtype: Human Translation
 ---
 # 如何在 System Center Configuration Manager 中创建集合
 可在 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中创建集合以表示用户或设备的逻辑分组。 可以使用集合来帮助执行许多任务，包括应用程序管理、部署符合性设置或安装软件更新。 还可以使用集合来管理客户端设置的组，或将它们与基于角色的管理结合使用来指定管理用户可以访问的资源。[!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 包含几个内置集合。 有关详细信息，请参阅[System Center Configuration Manager 中的集合简介](../LocTest/Introduction-to-collections-in-System-Center-Configuration-Manager.md)。  

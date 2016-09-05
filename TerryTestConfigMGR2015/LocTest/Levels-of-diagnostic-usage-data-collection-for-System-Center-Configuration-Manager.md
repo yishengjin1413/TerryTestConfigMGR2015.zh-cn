@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 9e614ae1-47d2-4a93-ba0a-89dc50d1e266
 caps.latest.revision: 4
 caps.handback.revision: 4
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 的诊断使用情况数据收集的级别
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 收集三个级别的诊断和使用情况数据：**基本**、**增强**和**完全**。 默认情况下，此功能设置为增强级别。 以下部分提供在每个级别收集哪些数据的其他详细信息。  

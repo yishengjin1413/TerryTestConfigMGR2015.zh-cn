@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 0cf4bacb-6b6d-4d4f-8640-b13fe15873de
 caps.latest.revision: 8
 caps.handback.revision: 7
+translationtype: Human Translation
 ---
 # 对 System Center Configuration Manager 中的 Windows 功能和网络的支持
 本主题介绍 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 对以下 Windows 功能和网络功能的支持：  

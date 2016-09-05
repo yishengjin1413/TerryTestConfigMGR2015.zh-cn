@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 8cc13635-85d6-4b07-a3ec-c42188bc5c74
 caps.latest.revision: 8
 caps.handback.revision: 7
+translationtype: Human Translation
 ---
 # 使用更新注册工具将修补程序导入 System Center Configuration Manager
 Configuration Manager 的某些更新无法从 Microsoft 云服务获取，只能在带外获取。 用于解决特定问题的受限版本修补程序是一个示例。   

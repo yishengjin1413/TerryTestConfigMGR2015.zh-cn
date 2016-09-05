@@ -15,6 +15,7 @@ ms.assetid: e102fd1a-76df-4d8e-b1b0-10ee18318f67
 caps.latest.revision: 8
 caps.handback.revision: 4
 author: barlanmsft
+translationtype: Human Translation
 ---
 # 如何在 System Center Configuration Manager 中管理集合
 使用本主题中的概述信息可帮助你执行 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的集合的管理任务。  

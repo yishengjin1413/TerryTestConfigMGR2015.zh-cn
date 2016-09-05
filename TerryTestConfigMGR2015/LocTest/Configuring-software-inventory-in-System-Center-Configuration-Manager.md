@@ -15,6 +15,7 @@ ms.assetid: abbd19c8-d432-4d51-96df-5637fef93c2c
 caps.latest.revision: 4
 caps.handback.revision: 4
 author: barlanmsft
+translationtype: Human Translation
 ---
 # 在 System Center Configuration Manager 中配置软件清单
 使用此部分中的主题来帮助你在 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中配置软件清单。  

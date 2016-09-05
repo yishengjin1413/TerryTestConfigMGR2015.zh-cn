@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 83a7c934-3b11-435d-ba22-cbc274951e83
 caps.latest.revision: 7
 caps.handback.revision: 7
+translationtype: Human Translation
 ---
 # Plan for managing Internet-based clients in System Center Configuration Manager
 Internet-based client management lets you manage [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] clients when they are not connected to your company network but have a standard Internet connection. This arrangement has several advantages that include the reduced costs of not having to run virtual private networks (VPNs) and being able to deploy software updates in a timelier manner.  

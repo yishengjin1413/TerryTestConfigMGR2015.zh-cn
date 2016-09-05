@@ -15,6 +15,7 @@ ms.assetid: e8159bd9-5c2b-4d25-82f9-78fcfd732ba9
 caps.latest.revision: 6
 caps.handback.revision: 5
 author: barlanmsft
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中的资产智能操作
 使用本主题中以下部分来帮助你在 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 层次结构中管理典型的资产智能操作：  

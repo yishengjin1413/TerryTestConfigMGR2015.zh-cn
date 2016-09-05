@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 341f0d0b-f907-44cf-9e10-e1b41fc15f82
 caps.latest.revision: 13
 caps.handback.revision: 13
+translationtype: Human Translation
 ---
 # 如何在 System Center Configuration Manager 中部署客户端到 Windows 计算机
 你可以使用不同的客户端部署方法在计算机上安装 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 客户端软件。 要帮助决定要使用的部署方法，请参阅[System Center Configuration Manager 中的客户端安装方法](../LocTest/Client-installation-methods-in-System-Center-Configuration-Manager.md)。  

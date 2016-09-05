@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 0750c0fe-f294-4cd1-91c1-64ae5dd7c0be
 caps.latest.revision: 5
 caps.handback.revision: 5
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中 VPN 配置文件的操作和维护
 使用此部分中的信息来了解有关 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中 VPN 配置文件的操作和维护的详细信息。  

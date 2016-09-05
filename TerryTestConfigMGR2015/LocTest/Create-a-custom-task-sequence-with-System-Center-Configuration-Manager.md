@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: b9800a66-7541-47ca-8276-da8ef6cb6d1b
 caps.latest.revision: 6
 caps.handback.revision: 5
+translationtype: Human Translation
 ---
 # 使用 System Center Configuration Manager 创建自定义任务序列
 当在 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中创建自定义任务序列时，它不包含任何任务序列步骤。 创建任务序列后，必须对其进行编辑，并添加所需的任务序列步骤。  

@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 1e42b1c1-3d58-481f-8647-5c7ae640c5f5
 caps.latest.revision: 8
 caps.handback.revision: 7
+translationtype: Human Translation
 ---
 # 在 System Center Configuration Manager 中为本地移动设备管理设置 Microsoft Intune 订阅
 [!INCLUDE[onprem_first](../LocTest/includes/onprem_first_md.md)] 需要 [!INCLUDE[mit_first](../LocTest/includes/mit_first_md.md)] 订阅，以便跟踪授权。[!INCLUDE[mit_next](../LocTest/includes/mit_next_md.md)] 服务不能用于管理设备或存储管理信息。 对于 [!INCLUDE[onprem_next](../LocTest/includes/onprem_next_md.md)]，由 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 基础结构来处理所有设备管理。  

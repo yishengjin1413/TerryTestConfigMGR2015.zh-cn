@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 507bf676-2679-4e4d-8831-3ffc9cf8557e
 caps.latest.revision: 6
 caps.handback.revision: 3
+translationtype: Human Translation
 ---
 # 如何在 System Center Configuration Manager 中监视和计划电源管理
 使用以下信息帮助你在 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中监视和计划电源管理。  

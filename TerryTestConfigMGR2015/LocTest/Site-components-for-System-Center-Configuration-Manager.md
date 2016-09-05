@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 5fccbbeb-0faa-4943-83c2-e67db62d392d
 caps.latest.revision: 9
 caps.handback.revision: 7
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 的站点组件
 在每个 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 站点上，均可以配置站点组件来修改站点系统角色和站点状态报告的行为。 站点组件配置适用于站点以及站点中适用的站点系统角色的每个实例。  

@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: fab13949-371c-4a4c-978e-471db1e54966
 caps.latest.revision: 17
 caps.handback.revision: 17
+translationtype: Human Translation
 ---
 # 使用 System Center Configuration Manager 管理操作系统映像
 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 中的操作系统映像以 Windows 映像 (WIM) 文件格式存储，表示在计算机上成功安装和配置操作系统映像所需的引用文件和文件夹的压缩集合。 对于所有操作系统部署方案，必须选择操作系统映像。   你可以使用默认操作系统映像或从你配置的引用计算机生成操作系统映像。 在生成引用计算机时，在捕获操作系统以创建映像文件之前，你可以向其添加操作系统文件、驱动程序、支持文件、软件更新、工具和其他软件应用程序。 下面提供了有关每种方法的信息。  

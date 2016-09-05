@@ -15,6 +15,7 @@ ms.assetid: ddcad9f2-a542-4079-83ca-007d7cb44995
 caps.latest.revision: 11
 caps.handback.revision: 8
 author: barlanmsft
+translationtype: Human Translation
 ---
 # 使用 System Center Configuration Manager 部署 App-V 虚拟应用程序
 除了创建应用程序的其他 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 要求和过程，创建和部署虚拟应用程序时还必须考虑以下注意事项。  

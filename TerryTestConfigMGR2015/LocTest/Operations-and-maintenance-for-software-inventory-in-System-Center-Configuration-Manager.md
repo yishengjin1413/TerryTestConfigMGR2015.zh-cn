@@ -15,6 +15,7 @@ ms.assetid: 6d4f4a0f-3156-4073-934d-9cd53bd47ba2
 caps.latest.revision: 4
 caps.handback.revision: 4
 author: barlanmsft
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中软件清单的操作和维护
 使用此部分中的信息来了解有关 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中软件清单的操作和维护的详细信息。  

@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 49ef2ed2-2e15-4637-8b63-1d5b7f9c17e1
 caps.latest.revision: 10
 caps.handback.revision: 10
+translationtype: Human Translation
 ---
 # 如何在 System Center Configuration Manager 中的预生产集合中测试客户端升级
 对于在 Windows PC 和设备上升级 Configuration Manager 客户端，可以在升级站点的其余部分之前，在预生产集合中测试新客户端版本。  执行此操作时，只有属于预生产集合一部分的设备才能升级到新客户端。 只要有机会在此预生产集合中测试客户端，你就可以升级客户端，从而使客户端软件的新版本可用于该站点的其余部分。  

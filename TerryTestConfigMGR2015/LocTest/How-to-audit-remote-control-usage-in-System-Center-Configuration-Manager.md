@@ -15,6 +15,7 @@ ms.assetid: 5c975e69-0cc0-4afd-b7fb-b7182162a933
 caps.latest.revision: 5
 caps.handback.revision: 4
 author: barlanmsft
+translationtype: Human Translation
 ---
 # 如何审核 System Center Configuration Manager 中的远程控制使用
 可以使用 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 报表来查看远程控制的审核信息。  

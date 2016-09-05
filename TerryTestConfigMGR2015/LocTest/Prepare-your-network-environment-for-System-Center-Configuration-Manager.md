@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: e86e9bfc-c994-4d84-bed1-a02153b8b859
 caps.latest.revision: 14
 caps.handback.revision: 12
+translationtype: Human Translation
 ---
 # 为 System Center Configuration Manager 准备网络环境
 成功安装和使用 Configuration Manager 之前，你必须配置网络、Windows 基础结构和支持技术以支持 Configuration Manager。 这可以包括：  

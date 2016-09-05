@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 63e28bb5-aafb-4315-9c26-a941113f5271
 caps.latest.revision: 9
 caps.handback.revision: 9
+translationtype: Human Translation
 ---
 # Prerequisites for VPN profiles in System Center Configuration Manager
 You must have the following security permissions to manage company resource access settings, such as certificate profiles, Wi-Fi profiles, and VPN profiles:  

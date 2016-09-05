@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 4fb8ab40-34ae-4ff5-8579-e63c036bfc65
 caps.latest.revision: 5
 caps.handback.revision: 5
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中的电子邮件配置文件
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 的电子邮件配置文件提供一套工具和资源，以帮助你在设备上创建、部署和监视电子邮件设置。 这使用户无需进行任何设置便访问其个人设备上的企业电子邮件。  

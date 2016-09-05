@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 738eddaa-52e2-467f-b453-821ef2884d47
 caps.latest.revision: 6
 caps.handback.revision: 3
+translationtype: Human Translation
 ---
 # 如何在 System Center Configuration Manager 中创建并应用电源计划
 使用 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的电源管理，可以将 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 提供的电源计划应用到层次结构中的计算机集合，或创建自己的自定义电源计划。 使用本主题中的过程，可将内置或自定义电源计划应用到计算机。  

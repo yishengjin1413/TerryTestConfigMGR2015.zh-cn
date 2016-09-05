@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: a1f099f1-e9b5-4189-88b3-f53e3b4e4add
 caps.latest.revision: 10
 caps.handback.revision: 9
+translationtype: Human Translation
 ---
 # 管理任务序列以在 System Center Configuration Manager 中自动执行任务
 使用任务序列在 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 环境中自动执行步骤。 这些步骤可将操作系统映像部署到目标计算机，通过一组操作系统安装文件构建和捕获操作系统映像，并捕获和还原用户状态信息。 任务序列位于 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 控制台的“软件库”\>“操作系统”\>“任务序列”中。 将“任务序列”节点（包括所创建的子文件夹）复制到整个 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 层次结构。 有关规划信息，请参阅 [System Center Configuration Manager 中自动执行任务的规划注意事项](../LocTest/Planning-considerations-for-automating-tasks-in-System-Center-Configuration-Manager.md)。  

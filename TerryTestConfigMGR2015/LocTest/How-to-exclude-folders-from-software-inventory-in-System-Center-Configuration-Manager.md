@@ -15,6 +15,7 @@ ms.assetid: f86559de-092a-4ce8-9b43-5d7530e0b763
 caps.latest.revision: 5
 caps.handback.revision: 4
 author: barlanmsft
+translationtype: Human Translation
 ---
 # 如何从 System Center Configuration Manager 中的软件清单中排除文件夹
 使用以下步骤可为站点配置 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 软件清单。  

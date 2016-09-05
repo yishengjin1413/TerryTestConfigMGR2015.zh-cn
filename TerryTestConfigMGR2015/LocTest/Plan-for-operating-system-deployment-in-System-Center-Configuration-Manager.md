@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: b043976c-393c-48d0-893f-63beb95c9250
 caps.latest.revision: 4
 caps.handback.revision: 4
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中的操作系统部署计划
 规划是在 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中成功部署操作系统的一个重要步骤。 使用以下主题帮助你规划操作系统部署。  

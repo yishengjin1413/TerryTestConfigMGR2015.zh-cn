@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: c1b3fb75-f3ab-4886-9421-d81da7ef589d
 caps.latest.revision: 11
 caps.handback.revision: 11
+translationtype: Human Translation
 ---
 # 在 System Center Configuration Manager 中管理 SharePoint Online 访问
 使用 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] **SharePoint Online** 条件访问策略可基于指定的条件，管理对位于 SharePoint Online 上的 OneDrive for Business 文件的访问。  

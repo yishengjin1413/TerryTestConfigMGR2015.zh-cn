@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 9cc508a5-5023-4833-b776-ae9a6971138f
 caps.latest.revision: 5
 caps.handback.revision: 4
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中报告的先决条件
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的报表有外部依赖关系和产品内的依赖关系。  

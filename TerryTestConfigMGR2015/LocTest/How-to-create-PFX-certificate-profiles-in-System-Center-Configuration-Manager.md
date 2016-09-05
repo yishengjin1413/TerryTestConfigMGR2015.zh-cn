@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 0185ab18-663d-468a-ba54-4f3f232fd4d2
 caps.latest.revision: 5
 caps.handback.revision: 4
+translationtype: Human Translation
 ---
 # 如何在 System Center Configuration Manager 中创建 PFX 证书配置文件
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 允许你将个人信息交换 \(.pfx\) 文件设置到用户设备。 PFX 文件可以用于生成特定于用户的证书以支持加密数据交换。 可在 Configuration Manager 中创建 PFX 证书或将其导入。 通过 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)]，可将导入或新建的 PFX 证书部署到 iOS、Android 和 Windows 10 设备。 然后可将这些文件部署到多个设备，以支持基于用户的 PKI 通信。  

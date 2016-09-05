@@ -13,6 +13,7 @@ applies_to:
 ms.assetid: 6d665cef-fc67-4686-bcb3-0572c0a3760c
 caps.latest.revision: 5
 caps.handback.revision: 2
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 的联机文档
 欢迎使用 System Center Configuration Manager文档库。  

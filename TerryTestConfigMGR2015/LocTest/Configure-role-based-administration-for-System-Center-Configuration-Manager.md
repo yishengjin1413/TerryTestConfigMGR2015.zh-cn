@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 57413dd3-b2f8-4a5f-b27f-8464d357caff
 caps.latest.revision: 7
 caps.handback.revision: 6
+translationtype: Human Translation
 ---
 # 为 System Center Configuration Manager 配置基于角色的管理
 在 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中，基于角色的管理结合了安全角色、安全作用域和分配的集合来定义每个管理用户的管理作用域。 管理作用域包括管理用户可在 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 控制台中查看的对象，以及管理用户有权执行的与这些对象相关的任务。 基于角色的管理配置应用于层次结构中的每个站点。  

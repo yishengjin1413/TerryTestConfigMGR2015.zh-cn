@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 30844519-ce14-456f-bfb8-4318b578e9f6
 caps.latest.revision: 20
 caps.handback.revision: 19
+translationtype: Human Translation
 ---
 # 运行 System Center Configuration Manager 发现
 使用一个或多个发现方法    
@@ -37,9 +38,9 @@ caps.handback.revision: 19
 -   服务器发现  
   
 > [!TIP]  
->  你可以在[有关 System Center Configuration Manager 的发现方法](../Topic/About%20discovery%20methods%20for%20System%20Center%20Configuration%20Manager.md)中了解各个发现方法。  
+>  你可以在[有关 System Center Configuration Manager 的发现方法](../LocTest\About-discovery-methods-for-System-Center-Configuration-Manager.md)中了解各个发现方法。  
 >   
->  有关选择要使用的方法和选择层次结构中的站点的帮助，请参阅[选择 System Center Configuration Manager 要使用的发现方法](../Topic/Select%20discovery%20methods%20to%20use%20for%20System%20Center%20Configuration%20Manager.md)。  
+>  有关选择要使用的方法和选择层次结构中的站点的帮助，请参阅[选择 System Center Configuration Manager 要使用的发现方法](../LocTest\Select-discovery-methods-to-use-for-System-Center-Configuration-Manager.md)。  
   
  要使用大部分发现方法，必须在站点上启用该方法，并将其配置为搜索特定网络或 Active Directory 位置。 运行时，方法会查询特定位置以获取有关 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 可管理的设备或用户的信息。  当发现方法成功发现有关资源的信息时，它会将该信息放在称为发现数据记录 \(DDR\) 的文件中，由主站点或管理中心站点处理。 对 DDR 的处理会在站点数据库中为新发现的资源创建一条新记录，或使用新信息更新现有记录。  
   
@@ -72,11 +73,11 @@ caps.handback.revision: 19
  使用 Configuration Manager 控制台配置发现之前，应了解方法间的差异、方法可实现的效果，以及某些方法的局限性。  
 以下主题可构成有助于成功使用发现方法的基础：  
   
--   [有关 System Center Configuration Manager 的发现方法](../Topic/About%20discovery%20methods%20for%20System%20Center%20Configuration%20Manager.md)  
+-   [有关 System Center Configuration Manager 的发现方法](../LocTest\About-discovery-methods-for-System-Center-Configuration-Manager.md)  
   
--   [选择 System Center Configuration Manager 要使用的发现方法](../Topic/Select%20discovery%20methods%20to%20use%20for%20System%20Center%20Configuration%20Manager.md)  
+-   [选择 System Center Configuration Manager 要使用的发现方法](../LocTest\Select-discovery-methods-to-use-for-System-Center-Configuration-Manager.md)  
   
- 在对要使用的方法有所了解之后，可在[配置 System Center Configuration Manager 的发现方法](../Topic/Configure%20discovery%20methods%20for%20System%20Center%20Configuration%20Manager.md)中找到每个方法的配置指南。  
+ 在对要使用的方法有所了解之后，可在[配置 System Center Configuration Manager 的发现方法](../LocTest\Configure-discovery-methods-for-System-Center-Configuration-Manager.md)中找到每个方法的配置指南。  
   
 ## 另请参阅  
  [配置 System Center Configuration Manager 的站点和层次结构](../LocTest/Configure-sites-and-hierarchies-for-System-Center-Configuration-Manager.md)

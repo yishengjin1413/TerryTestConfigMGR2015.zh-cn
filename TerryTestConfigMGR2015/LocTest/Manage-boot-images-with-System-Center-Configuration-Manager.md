@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 97f2d81a-2c58-442c-88bc-defd5a1cd48f
 caps.latest.revision: 23
 caps.handback.revision: 23
+translationtype: Human Translation
 ---
 # 使用 System Center Configuration Manager 管理启动映像
 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 中的启动映像是在操作系统部署过程中使用的 [Windows PE (WinPE)](https://msdn.microsoft.com/library/windows/hardware/dn938389%28v=vs.85%29.aspx) 映像。 启动映像用于在 WinPE 中启动计算机，它是用于准备在目标计算机上安装 Windows 的有限组件和服务的最精简操作系统。  使用下列部分来管理启动映像：  

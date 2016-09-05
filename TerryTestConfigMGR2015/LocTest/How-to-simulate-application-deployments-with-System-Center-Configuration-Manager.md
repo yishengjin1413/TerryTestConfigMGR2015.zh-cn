@@ -15,6 +15,7 @@ ms.assetid: 28b240a4-d358-40ce-8006-c697b1622ece
 caps.latest.revision: 6
 caps.handback.revision: 5
 author: barlanmsft
+translationtype: Human Translation
 ---
 # 如何使用System Center Configuration Manager 模拟应用程序部署
 如果想在不安装或卸载某个应用程序的情况下测试将它部署到计算机的适用性，请使用模拟部署。 模拟部署将评估部署类型的检测方法、要求和依赖关系，然后在“监视”工作区的“部署”节点中报告结果。 请使用本主题中的过程模拟 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的应用程序部署。  

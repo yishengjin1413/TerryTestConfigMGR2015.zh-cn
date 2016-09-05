@@ -15,6 +15,7 @@ ms.assetid: de4e7752-7490-4c3f-9550-ac7f476d99d8
 caps.latest.revision: 5
 caps.handback.revision: 4
 robots: noindex,nofollow
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 隐私声明
 Microsoft 承诺保护你的隐私，同时提供能够在个人计算环境中为你提供所需的性能、功能和便利的软件。 本隐私声明说明 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)]（“[!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)]”）的许多数据收集和使用实践方案。 此披露侧重介绍与 Internet 通信的功能，并未详尽列出所有内容。 它不适用于其他联机或脱机的 Microsoft 网站、产品或服务。 有关公司隐私策略的详细信息，最终用户（信息工作者）应该咨询其 IT 管理员。 Microsoft 对其客户或其他公司的隐私做法概不负责。  

@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: cf014eb0-f8c2-4d37-b8d7-368d63a10b89
 caps.latest.revision: 11
 caps.handback.revision: 9
+translationtype: Human Translation
 ---
 # 在 System Center Configuration Manager 中层次结构之间迁移数据
 使用迁移将数据从支持的源层次结构迁移到 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 目标层次结构。 从源层次结构迁移数据时：  

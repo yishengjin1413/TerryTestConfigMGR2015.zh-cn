@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 919e3636-53fe-4119-ad14-2d03702b391b
 caps.latest.revision: 5
 caps.handback.revision: 5
+translationtype: Human Translation
 ---
 # 使用软件中心与 System Center Configuration Manager 一起通过网络部署 Windows
 可将要在 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中安装操作系统的任务序列设置为在软件中心中可用。 你可以在以下操作系统部署方案中将操作系统部署到软件中心：  

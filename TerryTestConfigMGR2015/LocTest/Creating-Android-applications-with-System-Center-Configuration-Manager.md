@@ -15,6 +15,7 @@ ms.assetid: 379b4601-107a-4ea9-99be-1fc70b7bb377
 caps.latest.revision: 6
 caps.handback.revision: 5
 author: barlanmsft
+translationtype: Human Translation
 ---
 # 使用 System Center Configuration Manager 创建 Android 应用程序
 除了创建应用程序的其他 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 要求和过程外，还必须在创建和部署适用于 Android 设备的应用程序时考虑以下注意事项。  

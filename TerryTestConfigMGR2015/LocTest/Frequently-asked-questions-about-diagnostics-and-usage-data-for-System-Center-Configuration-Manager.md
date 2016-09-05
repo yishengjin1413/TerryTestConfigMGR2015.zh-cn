@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 3fe32aa2-d594-4ad0-a291-b8f5395ac50b
 caps.latest.revision: 6
 caps.handback.revision: 5
+translationtype: Human Translation
 ---
 # 有关 System Center Configuration Manager 的诊断和使用情况数据的常见问题
 以下是有关 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 的诊断和使用情况数据的常见问题：  

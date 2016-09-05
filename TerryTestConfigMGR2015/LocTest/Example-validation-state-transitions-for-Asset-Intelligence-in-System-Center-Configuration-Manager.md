@@ -15,6 +15,7 @@ ms.assetid: 6230a6e5-a1f6-459b-84f1-07fbde0e70f0
 caps.latest.revision: 6
 caps.handback.revision: 3
 author: barlanmsft
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中的资产智能验证状态转换示例
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的资产智能验证状态不是静态的，可能会因执行的管理操作而变化，这些操作会影响存储在资产智能目录中的数据。 此主题提供了可能的验证状态转换的以下示例：  

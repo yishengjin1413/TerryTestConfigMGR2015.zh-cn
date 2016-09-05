@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 76d86613-b87f-4fe5-9236-a573e00b613a
 caps.latest.revision: 26
 caps.handback.revision: 26
+translationtype: Human Translation
 ---
 # 在 System Center Configuration Manager 中管理对服务的访问
 根据你指定的条件，使用 **的** 条件访问 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 来保护在 [!INCLUDE[mit_first](../LocTest/includes/mit_first_md.md)]中注册的设备的电子邮件和其他服务。  

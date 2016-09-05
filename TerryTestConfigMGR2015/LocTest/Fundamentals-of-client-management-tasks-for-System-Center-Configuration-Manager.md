@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 8d4e5641-354e-4439-8b4f-620a760e233d
 caps.latest.revision: 4
 caps.handback.revision: 3
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 的客户端管理任务基础
 安装了 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 客户端之后，可以运行几个任务以管理客户端。  某些任务从 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 控制台启动，而其他任务可以在 Windows 控制面板中从客户端 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 应用在客户端上进行启动或查看。  

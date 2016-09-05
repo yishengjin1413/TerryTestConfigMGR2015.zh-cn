@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 5eae4400-58ca-4c71-804c-6a585cd3df5d
 caps.latest.revision: 10
 caps.handback.revision: 10
+translationtype: Human Translation
 ---
 # Set up iOS hybrid device management with System Center Configuration Manager and Microsoft Intune
 利用 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 和 [!INCLUDE[mit_next](../LocTest/includes/mit_next_md.md)]，可以启用 BYOD（“自带设备办公”）iOS 和 Mac OS X 设备注册，以允许 iPhone、iPad 和 Mac 用户访问公司电子邮件和资源。 用户安装 Intune 公司门户应用后，即可向其设备应用策略。 你必须先从 Apple 导入 Apple Push Notification 服务 (APNs) 证书，然后才能管理 iOS 和 Mac 设备。 此证书使 Intune 可管理 iOS 和 Mac 设备并与移动设备管理机构服务建立公认和加密的 IP 连接。  

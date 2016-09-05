@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 722d5bf5-bedc-4dfc-b324-6eeb773874e9
 caps.latest.revision: 8
 caps.handback.revision: 8
+translationtype: Human Translation
 ---
 # 如何为使用 System Center Configuration Manager 客户端管理的 Mac OS X设备创建配置项目
 使用 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)]“Mac OS X（自定义）”配置项目以管理由 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 客户端管理的 Mac OS X 设备的设置。  

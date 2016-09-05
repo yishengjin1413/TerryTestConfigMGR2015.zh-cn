@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: fc497a8a-3c54-4529-8403-6f6171a21c64
 caps.latest.revision: 13
 caps.handback.revision: 11
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中自动执行任务的规划注意事项
 <?xml version="1.0" encoding="utf-8"?>

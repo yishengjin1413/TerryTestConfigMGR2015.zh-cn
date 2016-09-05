@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 0ef5f3ce-b0e4-4775-b5c2-b245e45b4194
 caps.latest.revision: 11
 caps.handback.revision: 10
+translationtype: Human Translation
 ---
 # 在 System Center Configuration Manager 中准备操作系统部署的站点系统角色
 若要在 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)]中部署操作系统，你首先必须准备以下需要特定的配置和注意事项的站点系统角色：  

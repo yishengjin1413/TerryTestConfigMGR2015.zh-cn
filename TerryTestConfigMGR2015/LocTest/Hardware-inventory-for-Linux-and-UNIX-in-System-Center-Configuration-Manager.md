@@ -15,6 +15,7 @@ ms.assetid: 1026d616-2a20-4fb2-8604-d331763937f8
 caps.latest.revision: 6
 caps.handback.revision: 5
 author: barlanmsft
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中 Linux 和 UNIX 的硬件清单
 适用于 Linux 和 UNIX 的 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 客户端支持硬件清单。 收集硬件清单后，可在资源浏览器或 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 报表中运行查看清单，并可使用此信息来创建能够实现以下操作的查询和集合：  

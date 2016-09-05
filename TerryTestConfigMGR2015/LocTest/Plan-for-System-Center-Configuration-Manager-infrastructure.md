@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 8d5b5a25-c831-430b-8f18-4c452b2a9c55
 caps.latest.revision: 10
 caps.handback.revision: 9
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 基础结构的规划
 在规划 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 的新部署时，不存在确保在所有环境下都成功的任何基本计划要遵守。 相反，你应该  

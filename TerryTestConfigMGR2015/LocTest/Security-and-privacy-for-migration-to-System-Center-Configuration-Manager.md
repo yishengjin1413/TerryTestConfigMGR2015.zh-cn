@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 6893fce1-7ad5-4151-9ba9-3096871e8e4a
 caps.latest.revision: 5
 caps.handback.revision: 4
+translationtype: Human Translation
 ---
 # 有关迁移到 System Center Configuration Manager 的安全性和隐私
 本主题包含迁移到 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 环境的最佳安全方案和隐私信息。  

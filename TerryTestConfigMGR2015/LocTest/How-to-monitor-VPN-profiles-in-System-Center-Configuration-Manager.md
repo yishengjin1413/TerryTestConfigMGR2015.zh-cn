@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: a0b91f15-7e42-44ba-9baf-c2cdb068554a
 caps.latest.revision: 6
 caps.handback.revision: 5
+translationtype: Human Translation
 ---
 # 如何在 System Center Configuration Manager 中监视 VPN 配置文件
 将 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] VPN 配置文件部署到层次结构中的设备后，你可以使用下列过程来监视 VPN 配置文件的符合性状态：  

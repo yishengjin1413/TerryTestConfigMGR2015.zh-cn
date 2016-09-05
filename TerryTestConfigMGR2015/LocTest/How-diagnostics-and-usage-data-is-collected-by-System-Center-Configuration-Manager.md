@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: becfa825-b19f-448c-ab82-bb929255e4ae
 caps.latest.revision: 5
 caps.handback.revision: 5
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 如何收集诊断和使用情况数据
 若要为 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 收集诊断和使用情况数据，每个主站点每周都会运行 SQL Server 查询。 在多站点层次结构中，数据会复制到管理中心站点。  

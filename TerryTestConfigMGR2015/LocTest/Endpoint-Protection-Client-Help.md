@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: fdcee455-22e3-451d-bcf3-e7b62792f04a
 caps.latest.revision: 6
 caps.handback.revision: 5
+translationtype: Human Translation
 ---
 # Endpoint Protection 客户端帮助
 此版本的 Endpoint Protection 包括以下新增和改进功能，可用于更好地帮助保护计算机免受威胁：  

@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 10eb8958-3848-49d7-95c0-16119b624580
 caps.latest.revision: 11
 caps.handback.revision: 8
+translationtype: Human Translation
 ---
 # 使用 System Center Configuration Manager 创建捕获媒体
 在 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 中捕获媒体可让你从引用计算机中捕获操作系统映像。 在以下情况下使用捕获媒体：  

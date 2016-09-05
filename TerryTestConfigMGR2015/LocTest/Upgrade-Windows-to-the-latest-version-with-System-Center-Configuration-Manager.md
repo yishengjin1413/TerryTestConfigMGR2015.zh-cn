@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: c21eec87-ad1c-4465-8e45-5feb60b92707
 caps.latest.revision: 13
 caps.handback.revision: 12
+translationtype: Human Translation
 ---
 # 使用 System Center Configuration Manager 将 Windows 升级到最新版本
 本主题提供了 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中从 Windows 7 或更高版本的操作系统升级到 Windows 10 的步骤。 你可以在不同的部署方法（如独立媒体或软件中心）中进行选择。 Windows 10 就地升级方案：  

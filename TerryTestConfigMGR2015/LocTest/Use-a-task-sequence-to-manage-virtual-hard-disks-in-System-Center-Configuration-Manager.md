@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 0212b023-804a-4f84-b880-7a59cdb49c67
 caps.latest.revision: 5
 caps.handback.revision: 4
+translationtype: Human Translation
 ---
 # 使用任务序列来管理 System Center Configuration Manager 中的虚拟硬盘
 在 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中，你可以通过 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 控制台管理虚拟硬盘 \(VHD\) 并将所创建的 VHD 集成到数据中心中。 具体而言，你可以通过 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 控制台创建和修改 VHD、向 VHD 中添加应用程序和软件更新，以及将 VHD 发布到 System Center Virtual Machine Manager \(VMM\)。  

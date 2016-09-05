@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 1098e8c5-9676-4c2b-841b-ec88bd04e495
 caps.latest.revision: 6
 caps.handback.revision: 5
+translationtype: Human Translation
 ---
 # 对 System Center Configuration Manager 的虚拟化环境的支持
 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 支持在受支持的操作系统上安装客户端和站点系统角色，该操作系统在以下虚拟化环境中作为虚拟机运行。 甚至当虚拟机主机（虚拟化环境）不被支持作为客户端或站点服务器时，这种支持仍然存在。  

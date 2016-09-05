@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: cd74e5f5-33f6-4566-8c9d-d6a93bfe71ed
 caps.latest.revision: 10
 caps.handback.revision: 7
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中的语言包
 <?xml version="1.0" encoding="utf-8"?>

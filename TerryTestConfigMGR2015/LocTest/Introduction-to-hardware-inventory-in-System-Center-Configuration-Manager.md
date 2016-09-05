@@ -15,6 +15,7 @@ ms.assetid: 3969952e-9d05-49c9-82a2-e7e90ccef511
 caps.latest.revision: 6
 caps.handback.revision: 4
 author: barlanmsft
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中的硬件清单简介
 <?xml version="1.0" encoding="utf-8"?>

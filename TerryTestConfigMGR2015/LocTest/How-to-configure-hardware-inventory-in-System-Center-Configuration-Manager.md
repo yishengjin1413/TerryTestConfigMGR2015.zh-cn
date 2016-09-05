@@ -15,6 +15,7 @@ ms.assetid: 0e45290e-f8f7-4335-801e-570225d12c2b
 caps.latest.revision: 5
 caps.handback.revision: 4
 author: barlanmsft
+translationtype: Human Translation
 ---
 # 如何在 System Center Configuration Manager 中扩展硬件清单
 使用以下步骤可为站点配置 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 硬件清单。  

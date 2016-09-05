@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: f7832d83-9ae2-4530-8a77-790e0845e12f
 caps.latest.revision: 22
 caps.handback.revision: 21
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 的备份和恢复
 诸如 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 等企业解决方案必须针对备份和恢复操作进行准备，以避免关键数据丢失。 对于 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 站点，此准备可确保在丢失最少数据的情况下尽可能快速地恢复站点和层次结构。 使用本主题中的部分来帮助你备份 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 站点，并在出现站点故障或数据丢失时恢复站点。  

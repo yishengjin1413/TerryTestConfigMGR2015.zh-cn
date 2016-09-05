@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: d28f4363-9e8a-4c54-9cb7-0594fabfff26
 caps.latest.revision: 6
 caps.handback.revision: 5
+translationtype: Human Translation
 ---
 # 使用 System Center Configuration Manager 替换现有计算机和传输设置
 本主题提供了 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的常规步骤以用一台新计算机替换现有计算机。 对于此方案，可以在许多不同的部署方法中进行选择，如可启动媒体、多播或软件中心。 你还可以选择用以存储设置的状态迁移点，然后在安装后将这些设置还原到新的操作系统。 如果你不确定这是正确的操作系统部署方案，请参阅 [使用 System Center Configuration Manager 部署企业版操作系统的方案](../LocTest/Scenarios-to-deploy-enterprise-operating-systems-with-System-Center-Configuration-Manager.md)。  

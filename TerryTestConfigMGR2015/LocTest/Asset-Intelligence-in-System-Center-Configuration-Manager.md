@@ -15,6 +15,7 @@ ms.assetid: 45969afe-f836-4c5e-b987-44585ba8ac2a
 caps.latest.revision: 4
 caps.handback.revision: 4
 author: barlanmsft
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中的资产智能
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的资产智能使你可以使用资产智能目录在整个企业中检索清单数据并管理软件许可证使用。  

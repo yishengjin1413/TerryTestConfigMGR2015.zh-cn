@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 35e237b6-9f7b-4189-90e7-8eca92ae7d3d
 caps.latest.revision: 23
 caps.handback.revision: 19
+translationtype: Human Translation
 ---
 # 对 System Center Configuration Manager 的 SQL Server 版本的支持
 每个 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 站点都需要受支持的 SQL Server 版本和配置来托管站点数据库。  
@@ -55,7 +56,7 @@ caps.handback.revision: 19
  System Center Configuration Manager 1511 及更高版本支持以下版本的 SQL Server。  
   
 > [!IMPORTANT]  
->  为管理中心站点上的数据库使用 SQL Server Standard 会限制层次结构可支持的客户端总数。 请参阅[调整大小和扩展数量](Size%20and%20scale%20numbers%20for%20System%20Center%20Configuration%20Manager.md)。
+>  为管理中心站点上的数据库使用 SQL Server Standard 会限制层次结构可支持的客户端总数。 请参阅[调整大小和扩展数量](../LocTest\Size-and-scale-numbers-for-System-Center-Configuration-Manager.md)。
 
   
 ### SQL Server 2014 SP1 - Standard、Enterprise  

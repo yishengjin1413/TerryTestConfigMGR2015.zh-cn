@@ -15,6 +15,7 @@ ms.assetid: 8863ee69-0d45-4203-b012-3928ff0848a0
 caps.latest.revision: 5
 caps.handback.revision: 5
 author: barlanmsft
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中硬件清单的操作和维护
 使用此部分中的信息来深入了解 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中硬件清单的操作和维护。  

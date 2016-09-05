@@ -15,6 +15,7 @@ ms.assetid: c4041e21-21ff-4d95-ab05-14007e0047cf
 caps.latest.revision: 8
 caps.handback.revision: 5
 author: barlanmsft
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 应用程序的管理任务
 使用下列部分中的信息来帮助你管理 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 应用程序和部署类型。  

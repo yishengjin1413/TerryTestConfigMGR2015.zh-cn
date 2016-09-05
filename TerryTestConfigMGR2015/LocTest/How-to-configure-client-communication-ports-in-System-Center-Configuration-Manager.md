@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 406bbdbf-ab4a-4121-a68b-154f96ea14ec
 caps.latest.revision: 5
 caps.handback.revision: 4
+translationtype: Human Translation
 ---
 # 如何在 System Center Configuration Manager 中配置客户端通信端口
 可以更改 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 客户端用来与使用 HTTP 和 HTTPS 进行通信的站点系统通信的请求端口号。 虽然为防火墙配置了 HTTP 或 HTTPS 的可能性更高，但是，与使用自定义端口号相比，使用 HTTP 或 HTTPS 的客户端通知在管理点计算机上将需要使用更多的 CPU 资源和内存。 如果通过使用传统的唤醒数据包唤醒客户端，则还可以指定要使用的站点端口号。  

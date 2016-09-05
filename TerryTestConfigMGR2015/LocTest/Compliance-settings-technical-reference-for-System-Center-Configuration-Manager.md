@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: f1f80ed9-2516-43fe-97df-7cfe90ae6914
 caps.latest.revision: 5
 caps.handback.revision: 5
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 的符合性设置技术参考
 本主题列出 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的符合性设置技术参考信息。  

@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 770da7bd-02dd-474a-9604-93ff1ea0c1e4
 caps.latest.revision: 18
 caps.handback.revision: 10
+translationtype: Human Translation
 ---
 # 使用 System Center Configuration Manager 的远程擦除、远程锁定或密码重置功能帮助保护数据
 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 提供选择性擦除、完全擦除、远程锁定以及密码重置功能。 移动设备可以存储敏感的公司数据并提供对许多公司资源的访问。 为了保护设备，你可以发出以下命令：  

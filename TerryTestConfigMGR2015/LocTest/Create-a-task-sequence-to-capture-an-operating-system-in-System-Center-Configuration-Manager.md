@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 25e4ac68-0e78-4bbe-b8fc-3898b372c4e8
 caps.latest.revision: 19
 caps.handback.revision: 18
+translationtype: Human Translation
 ---
 # 创建任务序列来捕获 System Center Configuration Manager 中的操作系统
 当使用任务序列将操作系统部署到 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的计算机时，该计算机会安装在任务序列中指定的操作系统映像。 若要自定义操作系统映像以使其包含特定的驱动程序、应用程序、软件更新等，需要使用构建和捕获任务序列来构建引用计算机，然后从该引用计算机捕获操作系统映像。 如果已具有可进行捕获的引用计算机，你可以创建用于捕获操作系统的自定义任务序列。 使用以下部分来捕获自定义操作系统。  

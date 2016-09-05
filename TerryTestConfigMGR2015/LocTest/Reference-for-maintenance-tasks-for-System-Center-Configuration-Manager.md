@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 68dc6acd-5848-47a4-b4c1-ffa40e47890b
 caps.latest.revision: 16
 caps.handback.revision: 16
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 维护任务参考
 本主题列出了每个 System Center Configuration Manager 站点维护任务的详细信息，以及这些任务在哪些类型站点上可用。 每个条目还指示默认情况下启用还是未启用任务。   有关规划和配置站点来运行维护任务的信息，请参阅 [System Center Configuration Manager 的维护任务](../LocTest/Maintenance-tasks-for-System-Center-Configuration-Manager.md)  
@@ -90,7 +91,7 @@ caps.handback.revision: 16
   
 -   辅助站点 - 不可用  
   
- **删除过期的设备擦除记录** - 使用此任务从数据库中删除有关移动设备擦除操作的过期数据。 有关管理移动设备的信息，请参阅  [Determine How to Manage Mobile Devices in Configuration Manager](../Topic/Determine%20How%20to%20Manage%20Mobile%20Devices%20in%20Configuration%20Manager.md)。  
+ **删除过期的设备擦除记录** - 使用此任务从数据库中删除有关移动设备擦除操作的过期数据。 有关管理移动设备的信息，请参阅  [Determine How to Manage Mobile Devices in Configuration Manager](../LocTest\Determine-How-to-Manage-Mobile-Devices-in-Configuration-Manager.md)。  
   
 -   管理中心站点 - 不可用  
   
@@ -130,7 +131,7 @@ caps.handback.revision: 16
   
 -   辅助站点 - 不可用  
   
- **删除过期的注册设备** - 从 1602 更新开始，此任务默认处于禁用状态，你可以使用此任务从站点数据库中删除有关在指定的时间内未向站点报告任何信息的移动设备的过期数据。  此任务适用于通过 [!INCLUDE[mit_first](../LocTest/includes/mit_first_md.md)]（混合）注册的设备，或使用 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 本地移动设备管理注册的设备。  有关由 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 或 [!INCLUDE[mit_next](../LocTest/includes/mit_next_md.md)] 注册的设备的操作系统的信息，请参阅 [System Center Configuration Manager 客户端和设备支持的操作系统](Supported%20operating%20systems%20for%20clients%20and%20devices%20for%20System%20Center%20Configuration%20Manager.md)中的 [Microsoft Intune 注册的移动设备](Supported%20operating%20systems%20for%20clients%20and%20devices%20for%20System%20Center%20Configuration%20Manager.md#bkmk_IntuneOS)部分。 
+ **删除过期的注册设备** - 从 1602 更新开始，此任务默认处于禁用状态，你可以使用此任务从站点数据库中删除有关在指定的时间内未向站点报告任何信息的移动设备的过期数据。  此任务适用于通过 [!INCLUDE[mit_first](../LocTest/includes/mit_first_md.md)]（混合）注册的设备，或使用 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 本地移动设备管理注册的设备。  有关由 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 或 [!INCLUDE[mit_next](../LocTest/includes/mit_next_md.md)] 注册的设备的操作系统的信息，请参阅 [System Center Configuration Manager 客户端和设备支持的操作系统](../LocTest\Supported-operating-systems-for-clients-and-devices-for-System-Center-Configuration-Manager.md)中的 [Microsoft Intune 注册的移动设备](../LocTest\Supported-operating-systems-for-clients-and-devices-for-System-Center-Configuration-Manager.md#bkmk_IntuneOS)部分。 
   
 -   管理中心站点 - 不可用  
   

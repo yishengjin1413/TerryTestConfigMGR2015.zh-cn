@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: fc731d3f-edd7-4049-b17b-653d6693a564
 caps.latest.revision: 4
 caps.handback.revision: 3
+translationtype: Human Translation
 ---
 # 在 System Center Configuration Manager 中规划监视迁移活动
 <?xml version="1.0" encoding="utf-8"?>

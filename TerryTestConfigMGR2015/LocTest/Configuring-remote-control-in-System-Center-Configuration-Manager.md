@@ -15,6 +15,7 @@ ms.assetid: 45affc27-aa11-4249-9493-082ac23a3a3d
 caps.latest.revision: 4
 caps.handback.revision: 4
 author: barlanmsft
+translationtype: Human Translation
 ---
 # 配置 System Center Configuration Manager 中的远程控制
 在 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中使用远程配置之前，必须执行下列配置步骤。  

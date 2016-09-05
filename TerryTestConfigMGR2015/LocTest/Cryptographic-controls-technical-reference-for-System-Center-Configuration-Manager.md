@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 0c63dcc5-a1bd-4037-959a-2e6ba0fd1b2c
 caps.latest.revision: 6
 caps.handback.revision: 5
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 的加密控件技术参考
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 使用签名和加密帮助保护 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 层次结构中设备的管理。 签名确保在传输途中修改数据的情况下丢弃数据。 加密阻止攻击者使用网络协议分析器读取数据。  

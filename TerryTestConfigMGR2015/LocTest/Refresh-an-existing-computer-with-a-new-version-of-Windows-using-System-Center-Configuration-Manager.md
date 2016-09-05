@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: b189a346-8c0d-4870-a876-0719fbb0ab04
 caps.latest.revision: 7
 caps.handback.revision: 6
+translationtype: Human Translation
 ---
 # 通过 System Center Configuration Manager，使用新版本的 Windows 刷新现有的计算机
 本主题提供 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中用于分区和格式化（擦除）现有计算机和在计算机上安装新操作系统的一般步骤。 对于此方案，可以在许多不同的部署方法中进行选择，如 PXE、可启动媒体或软件中心。 你还可以选择用以存储设置的状态迁移点，然后在安装后将这些设置还原到新的操作系统。 如果你不确定这是正确的操作系统部署方案，请参阅 [使用 System Center Configuration Manager 部署企业版操作系统的方案](../LocTest/Scenarios-to-deploy-enterprise-operating-systems-with-System-Center-Configuration-Manager.md)。  

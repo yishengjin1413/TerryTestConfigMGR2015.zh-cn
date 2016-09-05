@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 6a279624-ffc9-41aa-8132-df1809708dd5
 caps.latest.revision: 12
 caps.handback.revision: 11
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 的先决条件检查列表
 下列部分详细介绍了可用的先决条件检查。  

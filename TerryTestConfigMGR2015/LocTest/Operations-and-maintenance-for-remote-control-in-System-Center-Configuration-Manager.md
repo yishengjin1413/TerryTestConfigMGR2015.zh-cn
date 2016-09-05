@@ -15,6 +15,7 @@ ms.assetid: 3e62ee23-9f27-4d92-99fe-6cbb2215f0f1
 caps.latest.revision: 4
 caps.handback.revision: 4
 author: barlanmsft
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中远程控制的操作和维护
 使用此部分中的信息来了解有关 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中远程控制的操作和维护的详细信息。  

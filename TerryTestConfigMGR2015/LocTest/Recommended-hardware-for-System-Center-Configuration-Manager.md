@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 5267f0af-34d3-47a0-9ab8-986c41276e6c
 caps.latest.revision: 26
 caps.handback.revision: 26
+translationtype: Human Translation
 ---
 # 用于 System Center Configuration Manager 的推荐硬件
 以下建议是一些指南，可以帮助你扩展 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 环境以支持比非常基本的站点、站点系统和客户端部署更高级的部署。 这些指南并未打算将所有可能的站点和层次结构配置都包括在内。  
@@ -87,7 +88,7 @@ caps.handback.revision: 26
 |临时数据库文件（.mdf 和 .ldf）|按需而定|按需而定|按需而定|按需而定|按需而定|按需而定|  
 |内容（分发点共享）|按需而定<sup>1</sup>|按需而定<sup>1</sup>|按需而定<sup>1</sup>|按需而定<sup>1</sup>|按需而定<sup>1</sup>|按需而定<sup>1</sup>|  
   
- <sup>1</sup> 磁盘空间指导未包括位于站点服务器或分发点上的内容库中的内容所需的空间。 有关规划内容库的信息，请参阅[内容库](The%20content%20library%20in%20System%20Center%20Configuration%20Manager.md)。  
+ <sup>1</sup> 磁盘空间指导未包括位于站点服务器或分发点上的内容库中的内容所需的空间。 有关规划内容库的信息，请参阅[内容库](../LocTest\The-content-library-in-System-Center-Configuration-Manager.md)。  
   
  在规划磁盘空间要求时，除了考虑上述指南之外，另请考虑下列指南：  
   

@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 0ffc689b-03e3-41b2-bc60-7886997f64c5
 caps.latest.revision: 5
 caps.handback.revision: 4
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中的 Wi-Fi 配置文件
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的 Wi\-Fi 配置文件提供了一组工具和资源，帮助你为组织中的设备创建、部署和监视无线网络设置。 通过部署这些设置，你可以最大程度地减少最终用户连接到公司无线网络所需执行的工作。  

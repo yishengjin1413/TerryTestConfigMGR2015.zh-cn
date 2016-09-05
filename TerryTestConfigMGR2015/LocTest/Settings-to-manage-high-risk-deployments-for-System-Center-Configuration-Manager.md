@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 8d37b983-a964-402c-819d-2512ed2d463b
 caps.latest.revision: 6
 caps.handback.revision: 5
+translationtype: Human Translation
 ---
 # 用于管理 System Center Configuration Manager 的高风险部署的设置
 借助 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)]，可以在站点中配置设置，这会在管理用户创建高风险任务序列部署时警告他们。 其中一项高风险部署是：  

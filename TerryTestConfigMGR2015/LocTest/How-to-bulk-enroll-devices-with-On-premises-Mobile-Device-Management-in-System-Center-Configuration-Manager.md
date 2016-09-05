@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: b36f5e4a-2b57-4d18-83f6-197081ac2a0a
 caps.latest.revision: 13
 caps.handback.revision: 9
+translationtype: Human Translation
 ---
 # 如何在 System Center Configuration Manager 中向本地移动设备管理批量注册设备
 相较于要求用户输入其凭据以注册设备的用户注册，[!INCLUDE[onprem_first](../LocTest/includes/onprem_first_md.md)] 中的批量注册是自动化程度更高的注册设备的方式。  批量注册使用注册程序包在注册过程中对设备进行身份验证。 包（.ppkg 文件）中包含证书配置文件和可选的 Wi\-Fi 配置文件（设备需要 intranet 连接以支持注册时选择）。  

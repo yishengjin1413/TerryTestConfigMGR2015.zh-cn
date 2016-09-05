@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 30080620-20d3-4c38-b8dd-db5516e1acae
 caps.latest.revision: 5
 caps.handback.revision: 4
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中的查询的安全和隐私
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的查询使你可以基于指定条件从站点数据库中检索信息。[!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 会在标准操作过程中收集站点数据库信息。 例如，通过使用从发现或清单收集的信息，可以配置查询来标识满足指定条件的设备。  

@@ -15,6 +15,7 @@ ms.assetid: 29350919-6a25-446b-a0da-05e8914fbb26
 caps.latest.revision: 4
 caps.handback.revision: 4
 author: barlanmsft
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中的远程控制简介
 使用 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的远程控制可远程管理、提供协助或查看层次结构中的任何客户端计算机。 可以使用远程控制来解决客户端计算机上的硬件和软件配置问题，并在需要访问用户计算机时提供支持人员支持。[!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 支持对工作组计算机以及加入 Active Directory 域的计算机的远程控制。  

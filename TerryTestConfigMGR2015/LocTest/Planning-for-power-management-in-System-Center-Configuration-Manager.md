@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 67762fb5-8da0-4df1-b3f1-6783849aa568
 caps.latest.revision: 4
 caps.handback.revision: 4
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中的电源管理计划
 使用此部分中的下列主题来帮助你在 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中制定电源管理计划。  

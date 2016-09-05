@@ -10,6 +10,7 @@ ms.assetid: 980133ce-cf9d-46e8-a119-b8b960b2e25e
 caps.latest.revision: 7
 caps.handback.revision: 6
 robots: noindex,nofollow
+translationtype: Human Translation
 ---
 # MICROSOFT SQL SERVER COMPACT 4.0 SERVICE PACK 1 (SP1)
 **微软软件许可条款**  

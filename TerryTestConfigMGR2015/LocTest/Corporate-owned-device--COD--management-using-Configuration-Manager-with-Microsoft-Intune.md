@@ -15,6 +15,7 @@ ms.assetid: 2721c10a-b800-4f5c-a8a8-f9bceb21cfad
 caps.latest.revision: 24
 caps.handback.revision: 21
 robots: noindex,nofollow
+translationtype: Human Translation
 ---
 # 使用 Configuration Manager 和 Microsoft Intune 管理企业拥有的设备 (COD)
 <?xml version="1.0" encoding="UTF-8"?>

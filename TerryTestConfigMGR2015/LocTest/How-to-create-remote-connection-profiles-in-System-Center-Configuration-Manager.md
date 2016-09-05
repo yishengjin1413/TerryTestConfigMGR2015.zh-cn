@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 8c6eabc4-5dda-4682-b03e-3a450e6ef65a
 caps.latest.revision: 8
 caps.handback.revision: 7
+translationtype: Human Translation
 ---
 # 如何在 System Center Configuration Manager 中创建远程连接配置文件
 使用下列必需的步骤，通过使用 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)]**创建远程连接配置文件向导**来创建远程连接配置文件。  

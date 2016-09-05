@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: e46ad501-5d73-44ac-92de-0de14ef72b83
 caps.latest.revision: 12
 caps.handback.revision: 8
+translationtype: Human Translation
 ---
 # 如何在 System Center Configuration Manager 中将客户端部署到 Mac 计算机
 在 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中为 Mac 计算机安装和管理客户端需要公钥基础结构 \(PKI\) 证书。[!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 可通过将 Microsoft 证书服务与企业证书颁发机构 \(CA\)、[!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 注册点和注册代理点站点系统角色一起使用，从而请求和安装用户客户端证书。 或者，如果证书满足 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 的要求，你可以独立于 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 请求和安装计算机证书。 PKI 证书通过使用手动身份验证和加密的数据传输来保护 Mac 计算机和 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 站点之间的通信的安全。  

@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: f7560876-8084-4570-aeab-7fd44f4ba737
 caps.latest.revision: 15
 caps.handback.revision: 7
+translationtype: Human Translation
 ---
 # 关于 System Center Configuration Manager 中的客户端设置
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的所有客户端设置都在 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 控制台内“管理”工作区的“客户端设置”节点中进行管理。 系统随 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 一起提供了一组默认设置。 如果修改默认的客户端设置，则这些设置将应用于层次结构中的所有客户端。 你也可以配置自定义客户端设置，当将这些设置分配给集合时，它们将替代默认客户端设置。 有关如何配置客户端设置的信息，请参阅 [如何在 System Center Configuration Manager 中配置客户端设置](../LocTest/How-to-configure-client-settings-in-System-Center-Configuration-Manager.md)。  

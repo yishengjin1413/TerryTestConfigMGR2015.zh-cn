@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: eadc5dde-8ef8-4e88-a358-78496907b040
 caps.latest.revision: 5
 caps.handback.revision: 5
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中的证书配置文件
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的证书配置文件提供一组工具和资源，可帮助你使用用户连接到各种公司资源所需的证书来设置组织中的计算机。  

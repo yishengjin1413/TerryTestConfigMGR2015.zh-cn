@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: abd45393-d84e-4583-bc80-74bbb3709577
 caps.latest.revision: 7
 caps.handback.revision: 6
+translationtype: Human Translation
 ---
 # 关于在虚拟桌面基础结构 (VDI) 中管理 System Center Configuration Manager 客户端的注意事项
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 支持在以下虚拟桌面基础结构 \(VDI\) 方案中安装 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 客户端：  

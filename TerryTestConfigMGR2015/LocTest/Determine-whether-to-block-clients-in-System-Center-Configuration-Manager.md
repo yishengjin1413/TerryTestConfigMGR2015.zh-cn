@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 54ef5fbb-521d-4ca5-a1c5-61e6f538d71e
 caps.latest.revision: 8
 caps.handback.revision: 8
+translationtype: Human Translation
 ---
 # Determine whether to block clients in System Center Configuration Manager
 If a client computer or client mobile device is no longer trusted, you can block the client in the [!INCLUDE[cm5short](../LocTest/includes/cm5short_md.md)] console. Blocked clients are rejected by the [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] infrastructure so that they cannot communicate with site systems to download policy, upload inventory data, or send state or status messages.  

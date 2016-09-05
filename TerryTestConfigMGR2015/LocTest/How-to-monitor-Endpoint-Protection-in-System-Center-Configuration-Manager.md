@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: f4a1335c-bb3d-493e-a124-83a32a107dc8
 caps.latest.revision: 8
 caps.handback.revision: 5
+translationtype: Human Translation
 ---
 # 如何在 System Center Configuration Manager 中监视 Endpoint Protection
 <?xml version="1.0" encoding="utf-8"?>

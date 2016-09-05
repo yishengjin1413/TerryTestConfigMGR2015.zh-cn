@@ -11,6 +11,7 @@ ms.assetid: c147514c-e4bb-4c36-b8a6-b0ab2fef394a
 caps.latest.revision: 7
 caps.handback.revision: 6
 robots: noindex,nofollow
+translationtype: Human Translation
 ---
 # MICROSOFT SQL SERVER 2014 EXPRESS
 **微软软件许可条款**  

@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 7ca46f39-c1bd-4e05-aac9-cbea5dec7f78
 caps.latest.revision: 5
 caps.handback.revision: 4
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中 Wi-Fi 配置文件的操作和维护
 使用此部分中的信息来了解有关 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中 Wi\-Fi 配置文件的操作和维护的详细信息：  

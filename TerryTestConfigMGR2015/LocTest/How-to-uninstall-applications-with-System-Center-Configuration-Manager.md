@@ -15,6 +15,7 @@ ms.assetid: 0ea3edaa-27c6-4391-9896-cd97d9c5d06d
 caps.latest.revision: 4
 caps.handback.revision: 3
 author: barlanmsft
+translationtype: Human Translation
 ---
 # 如何在 System Center Configuration Manager 中卸载应用程序
 执行下列步骤，以使用 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 卸载应用程序：  

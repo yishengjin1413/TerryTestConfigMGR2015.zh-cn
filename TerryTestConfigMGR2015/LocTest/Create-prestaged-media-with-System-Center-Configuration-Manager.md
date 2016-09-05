@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: ff6e7267-302a-4563-815e-cdc0d1a4b60f
 caps.latest.revision: 12
 caps.handback.revision: 11
+translationtype: Human Translation
 ---
 # 使用 System Center Configuration Manager 创建预留媒体
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的预留媒体是 Windows 映像格式 \(WIM\) 文件，可以由制造商安装在裸机上，也可以安装在未连接到 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 环境的企业暂存中心。 预留媒体包含用于启动目标计算机的启动映像，以及应用到目标计算机的操作系统映像。 你还可以指定要作为预留媒体的一部分包含的应用程序、包和驱动程序包。 此媒体不包含用于部署操作系统的任务序列。 在将新计算机发送给最终用户之前，预留媒体将应用到此计算机的硬盘驱动器。 为以下操作系统部署方案使用预留媒体：  

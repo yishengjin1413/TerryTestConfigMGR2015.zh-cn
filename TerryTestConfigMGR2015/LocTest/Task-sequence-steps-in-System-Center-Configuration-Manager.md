@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 7c888a6f-8e37-4be5-8edb-832b218f266d
 caps.latest.revision: 26
 caps.handback.revision: 25
+translationtype: Human Translation
 ---
 # System Center Configuration 中的任务序列步骤
 可将以下任务序列步骤添加到 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 任务序列中。 有关编辑任务序列的信息，请参阅 [Edit a task sequence](../LocTest/Manage-task-sequences-to-automate-tasks-in-System-Center-Configuration-Manager.md#BKMK_ModifyTaskSequence)。  

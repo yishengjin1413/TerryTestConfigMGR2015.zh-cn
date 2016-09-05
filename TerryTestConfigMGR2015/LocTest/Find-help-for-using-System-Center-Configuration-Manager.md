@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 86810629-cf2a-43e8-86a2-847444119fc1
 caps.latest.revision: 19
 caps.handback.revision: 15
+translationtype: Human Translation
 ---
 # 查找使用 System Center Configuration Manager 的帮助
 使用下列资源来了解有关 [!INCLUDE[cmshortname](../LocTest/includes/cmshortname_md.md)] 的其他信息：  

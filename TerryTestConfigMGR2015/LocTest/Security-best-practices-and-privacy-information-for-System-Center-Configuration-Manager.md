@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: b7bff8a0-fe76-4d3b-aac6-065290888bea
 caps.latest.revision: 12
 caps.handback.revision: 9
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 的安全最佳方案和隐私信息
 通过以下信息了解 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 的安全最佳方案和隐私信息。  

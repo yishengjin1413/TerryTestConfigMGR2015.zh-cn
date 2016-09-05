@@ -12,6 +12,7 @@ ms.topic: article
 ms.assetid: ccdb424a-b603-4ccc-af36-558924248022
 caps.latest.revision: 15
 caps.handback.revision: 11
+translationtype: Human Translation
 ---
 # 管理对由 System Center Configuration Manager 管理的电脑的 O365 服务的访问
 ||  

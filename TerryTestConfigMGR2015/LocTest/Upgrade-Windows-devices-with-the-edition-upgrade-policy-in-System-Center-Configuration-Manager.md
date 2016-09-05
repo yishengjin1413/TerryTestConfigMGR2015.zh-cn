@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 45f20c53-2571-4dea-826d-d1d12d3b5aa0
 caps.latest.revision: 11
 caps.handback.revision: 8
+translationtype: Human Translation
 ---
 # 在 System Center Configuration Manager 中使用版本升级策略升级 Windows 设备
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)]“版本升级策略”可以将运行以下任一 Windows 10 版本的设备自动升级至较新的版本：  

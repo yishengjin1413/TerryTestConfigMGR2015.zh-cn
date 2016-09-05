@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: b58472e3-31a5-4305-8eb6-2522befebe02
 caps.latest.revision: 6
 caps.handback.revision: 5
+translationtype: Human Translation
 ---
 # 在 System Center Configuration Manager 中为本地移动设备管理注册设备
 若要使用 [!INCLUDE[onprem_first](../LocTest/includes/onprem_first_md.md)] 管理计算机和设备，设备需要先进行注册以便 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 能够与管理任务的设备通信。[!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 提供了两种注册设备的方法：  

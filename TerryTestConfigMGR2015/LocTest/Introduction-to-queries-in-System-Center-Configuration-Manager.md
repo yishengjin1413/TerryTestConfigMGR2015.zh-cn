@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 03d1b3a9-41db-4d3a-a70e-e05ab5dc8141
 caps.latest.revision: 5
 caps.handback.revision: 4
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中的查询简介
 可以创建和运行查询，以便在 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 层次结构中查找与查询条件相匹配的对象。 这些对象包括特定类型的计算机或用户组等项目。 查询可以返回大部分类型的 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 对象，包括站点、集合、应用程序和清单数据。  

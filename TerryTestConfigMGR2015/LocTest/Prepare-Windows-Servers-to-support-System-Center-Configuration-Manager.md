@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 2aca914f-641e-4bc8-98d4-bbf0a2a5276f
 caps.latest.revision: 10
 caps.handback.revision: 9
+translationtype: Human Translation
 ---
 # 准备 Windows Server 以支持 System Center Configuration Manager
 在你将一台 Windows 计算机作为用于 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)]的站点系统服务器使用之前，必须确保该计算机满足作为站点服务器或站点系统服务器使用的先决条件。  

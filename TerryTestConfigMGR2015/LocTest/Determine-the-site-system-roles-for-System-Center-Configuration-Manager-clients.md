@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 984e8d92-7327-4b08-9228-0c955e6ac778
 caps.latest.revision: 9
 caps.handback.revision: 7
+translationtype: Human Translation
 ---
 # 为 System Center Configuration Manager 客户端确定站点系统角色
 使用下列部分来帮助你确定部署 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 客户端所需的站点系统：  

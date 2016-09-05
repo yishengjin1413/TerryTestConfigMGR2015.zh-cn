@@ -1,3 +1,6 @@
+---
+translationtype: Human Translation
+---
 > [!NOTE]  
 >  [!INCLUDE[cmshort](../../LocTest/includes/cmshort_md.md)] 的当前分支支持运行下列操作系统的设备在 [!INCLUDE[onprem_next](../../LocTest/includes/onprem_next_md.md)] 中注册：  
 >   
