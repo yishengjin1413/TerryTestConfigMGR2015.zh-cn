@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 2277aa0a-4fe8-49c0-99a6-879e0f0119f6
 caps.latest.revision: 6
 caps.handback.revision: 6
+translationtype: Human Translation
 ---
 # 在 System Center Configuration Manager 中部署客户端
 在 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中管理计算机和服务器最常见和可靠的方法是使用 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 客户端软件。 要用这种方法管理计算机和服务器，你必须在要管理的所有计算机上部署和维护该客户端软件。  

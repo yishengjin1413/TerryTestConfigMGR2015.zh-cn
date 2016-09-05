@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 3417ff88-7177-4a0d-8967-ab21fe7eba17
 caps.latest.revision: 11
 caps.handback.revision: 11
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 的 PKI 证书的分步部署示例：Windows Server 2008 证书颁发机构
 此分步示例部署使用 Windows Server 2008 证书颁发机构 (CA)，提供一些过程以指导你完成创建和部署 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 使用的公钥基础结构 (PKI) 证书的过程。 这些过程使用企业证书颁发机构 (CA) 和证书模板。 这些步骤仅适用于网络测试，作为对概念的验证。  

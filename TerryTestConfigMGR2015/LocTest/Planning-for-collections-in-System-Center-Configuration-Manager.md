@@ -15,6 +15,7 @@ ms.assetid: bed310f7-83ad-47a6-aff9-df2516110eae
 caps.latest.revision: 4
 caps.handback.revision: 4
 author: barlanmsft
+translationtype: Human Translation
 ---
 # 在 System Center Configuration Manager 中规划集合
 使用此部分的下列主题来帮助你在 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中规划集合。  

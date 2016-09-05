@@ -12,6 +12,7 @@ ms.topic: get-started-article
 ms.assetid: 9ce0a8cb-f96c-4e41-834c-59ceb54ce44a
 caps.latest.revision: 157
 caps.handback.revision: 147
+translationtype: Human Translation
 ---
 # System Center Configuration Manager Technical Preview
 **欢迎使用 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] Technical Preview**。 本主题提供了有关不断完善的预览版的详细信息，该版本包括我们正在开发的功能。 每个版本的技术预览版可用时，都会引入尚未包含在 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 的当前分支中的新功能。 这些功能最终可能会包含在当前分支版本的更新中，但在确定和添加功能之前，我们希望你有机会试用它们并向我们提供反馈。  
@@ -20,7 +21,7 @@ caps.handback.revision: 147
   
  本主题包含适用于所有的技术预览版本的信息，并且列出了每个新功能及功能首次在其中出现的技术预览版本，例如，版本 1512 表示 2015 年 12 月。 这些功能的详细信息将专门在各预览版本的单独主题中详细介绍。  
   
- 有关 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 的当前分支中新增功能的信息，请参阅 [System Center Configuration Manager 中的新增功能](What%E2%80%99s%20new%20in%20System%20Center%20Configuration%20Manager%20incremental%20versions.md)。
+ 有关 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 的当前分支中新增功能的信息，请参阅 [System Center Configuration Manager 中的新增功能](../LocTest\What’s-new-in-System-Center-Configuration-Manager-incremental-versions.md)。
   
 > [!NOTE]  
 >  有关 System Center Configuration Manager Technical Preview 4（以及更早的预览版）中功能的信息，请参阅 [System Center Configuration Manager 的预发行版的 Technical Preview](https://technet.microsoft.com/library/dn965439.aspx)  
@@ -132,56 +133,56 @@ caps.handback.revision: 147
   
 |功能|从...中起开始提供|  
 |----------------|----------------------------|  
-|[在 Windows 10 中与 Windows Update for Business 集成](../Topic/Capabilities%20in%20Technical%20Preview%201511%20for%20System%20Center%20Configuration%20Manager.md#BKMK_WUfB)|[1511](https://technet.microsoft.com/library/mt706225.aspx)|  
-|[通过 System Center Configuration Manager 管理 Office 365 ProPlus 客户端更新](../Topic/Capabilities%20in%20Technical%20Preview%201511%20for%20System%20Center%20Configuration%20Manager.md#BKMK_Office365ProPlus)|[1511](https://technet.microsoft.com/library/mt706225.aspx)|  
-|[支持 SQL Server AlwaysOn，实现数据库的高度可用性](../Topic/Capabilities%20in%20Technical%20Preview%201511%20for%20System%20Center%20Configuration%20Manager.md#BKMK_AlwasyOn)|[1511](https://technet.microsoft.com/library/mt706225.aspx)|  
-|[为服务器群集提供服务](../Topic/Capabilities%20in%20Technical%20Preview%201511%20for%20System%20Center%20Configuration%20Manager.md#BKMK_ClusterServerUpdates)|[1511](https://technet.microsoft.com/library/mt706225.aspx)|  
-|[设备运行状况证明](../Topic/Capabilities%20in%20Technical%20Preview%201512%20for%20System%20Center%20Configuration%20Manager.md#bkmk_devicehealth)|[1512](https://technet.microsoft.com/library/mt706223.aspx)|  
-|[条款和条件的控制台中监视](../Topic/Capabilities%20in%20Technical%20Preview%201512%20for%20System%20Center%20Configuration%20Manager.md#bkmk_viewterms)|[1512](https://technet.microsoft.com/library/mt706223.aspx)|  
-|[Endpoint Protection 策略设置的改进](../Topic/Capabilities%20in%20Technical%20Preview%201512%20for%20System%20Center%20Configuration%20Manager.md#bkmk_EPpolicy)|[1512](https://technet.microsoft.com/library/mt706223.aspx)|  
-|[对 Microsoft Intune 集成的改进](../Topic/Capabilities%20in%20Technical%20Preview%201601%20for%20System%20Center%20Configuration%20Manager.md#bkmk_hybrid1)|[1601](https://technet.microsoft.com/library/mt706226.aspx)|  
-|[客户端联机状态](../Topic/Capabilities%20in%20Technical%20Preview%201601%20for%20System%20Center%20Configuration%20Manager.md#bkmk_clientStatus)|[1601](https://technet.microsoft.com/library/mt706226.aspx)|  
-|[对应用程序管理的改进](../Topic/Capabilities%20in%20Technical%20Preview%201601%20for%20System%20Center%20Configuration%20Manager.md#bkmk_appmgmt1601)|[1601](https://technet.microsoft.com/library/mt706226.aspx)|  
-|[对合规性设置的改进](../Topic/Capabilities%20in%20Technical%20Preview%201601%20for%20System%20Center%20Configuration%20Manager.md#bkmk_compliance1601)|[1601](https://technet.microsoft.com/library/mt706226.aspx)|  
-|[对移动设备管理的改进](../Topic/Capabilities%20in%20Technical%20Preview%201602%20for%20System%20Center%20Configuration%20Manager.md#BKMK_MDM)|[1602](https://technet.microsoft.com/library/mt706221.aspx)|  
-|[1602 版本中对软件中心的改进](../Topic/Capabilities%20in%20Technical%20Preview%201602%20for%20System%20Center%20Configuration%20Manager.md#BKMK_SC1601)|[1602](https://technet.microsoft.com/library/mt706221.aspx)|  
-|[对 Windows 10 维护服务的改进](../Topic/Capabilities%20in%20Technical%20Preview%201602%20for%20System%20Center%20Configuration%20Manager.md#BKMK_Win10Servicing)|[1602](https://technet.microsoft.com/library/mt706221.aspx)|  
-|[1603 版本中对软件中心的改进](../Topic/Capabilities%20in%20Technical%20Preview%201603%20for%20System%20Center%20Configuration%20Manager.md#BKMK_SC1603)|[1603](https://technet.microsoft.com/library/mt706227.aspx)|  
-|[对远程控制的改进](../Topic/Capabilities%20in%20Technical%20Preview%201603%20for%20System%20Center%20Configuration%20Manager.md#BKMK_RC1603)|[1603](https://technet.microsoft.com/library/mt706227.aspx)|  
-|[在启用 PXE 的分发点上自定义 RamDisk TFTP 块大小和窗口大小](../Topic/Capabilities%20in%20Technical%20Preview%201603%20for%20System%20Center%20Configuration%20Manager.md#BKMK_RamDiskTFTP)|[1603](https://technet.microsoft.com/library/mt706227.aspx)|  
-|[管理从适用于企业的 Windows 应用商店批量采购的应用](../Topic/Capabilities%20in%20Technical%20Preview%201604%20for%20System%20Center%20Configuration%20Manager.md#BKMK_WindowsVPP)|[1604](https://technet.microsoft.com/library/mt706224.aspx)|  
-|[对 Microsoft Passport for Work 管理的改进](../Topic/Capabilities%20in%20Technical%20Preview%201604%20for%20System%20Center%20Configuration%20Manager.md#BKMK_PFW)|[1604](https://technet.microsoft.com/library/mt706224.aspx)|  
-|[供客户端切换到新软件更新点的选项](../Topic/Capabilities%20in%20Technical%20Preview%201604%20for%20System%20Center%20Configuration%20Manager.md#bkmk_switchsup)|[1604](https://technet.microsoft.com/library/mt706224.aspx)|  
-|[用于管理客户端缓存设置和客户端对等缓存的客户端设置](../Topic/Capabilities%20in%20Technical%20Preview%201604%20for%20System%20Center%20Configuration%20Manager.md#bkmk_peercache)|[1604](https://technet.microsoft.com/library/mt706224.aspx)|  
-|[支持将 Passport for Work 作为 KSP](../Topic/Capabilities%20in%20Technical%20Preview%201604%20for%20System%20Center%20Configuration%20Manager.md#bkmk_passport)|[1604](https://technet.microsoft.com/library/mt706224.aspx)|  
-|[本地设备运行状况证明](../Topic/Capabilities%20in%20Technical%20Preview%201604%20for%20System%20Center%20Configuration%20Manager.md#bkmk_onpremdha)|[1604](https://technet.microsoft.com/library/mt706224.aspx)|  
-|[适用于 Android 设备的 SmartLock 设置](../Topic/Capabilities%20in%20Technical%20Preview%201604%20for%20System%20Center%20Configuration%20Manager.md#BKMK_Smart)|[1604](https://technet.microsoft.com/library/mt706224.aspx)|  
-|[Windows 10 设备的每应用 VPN](../Topic/Capabilities%20in%20Technical%20Preview%201605%20for%20System%20Center%20Configuration%20Manager.md#BKMK_PerAppVPN)|[1605](https://technet.microsoft.com/library/mt706220.aspx)|  
-|[安装软件更新任务序列的改进](../Topic/Capabilities%20in%20Technical%20Preview%201605%20for%20System%20Center%20Configuration%20Manager.md#BKMK_InstallSU)|[1605](https://technet.microsoft.com/library/mt706220.aspx)|  
-|[准备 ConfigMgr 客户端以便捕获任务序列步骤的改进](../Topic/Capabilities%20in%20Technical%20Preview%201605%20for%20System%20Center%20Configuration%20Manager.md#BKMK_PrepareConfigMgrClient)|[1605](https://technet.microsoft.com/library/mt706220.aspx)|  
-|[所需的应用程序部署的宽限期](../Topic/Capabilities%20in%20Technical%20Preview%201605%20for%20System%20Center%20Configuration%20Manager.md#BKMK_Grace)|[1605](https://technet.microsoft.com/library/mt706220.aspx)|  
-|[远程设备操作的新体验](../Topic/Capabilities%20in%20Technical%20Preview%201605%20for%20System%20Center%20Configuration%20Manager.md#BKMK_Remote)|[1605](https://technet.microsoft.com/library/mt706220.aspx)|  
-|[适用于企业的 Windows 应用商店应用](../Topic/Capabilities%20in%20Technical%20Preview%201605%20for%20System%20Center%20Configuration%20Manager.md#BKMK_WSFB)|[1605](https://technet.microsoft.com/library/mt706220.aspx)|  
-|[批量采购应用的一般改进](../Topic/Capabilities%20in%20Technical%20Preview%201605%20for%20System%20Center%20Configuration%20Manager.md#BKMK_VPP2)|[1605](https://technet.microsoft.com/library/mt706220.aspx)|  
-|[企业数据保护 (EDP)](../Topic/Capabilities%20in%20Technical%20Preview%201605%20for%20System%20Center%20Configuration%20Manager.md#BKMK_VPP)|[1605](https://technet.microsoft.com/library/mt706220.aspx)|  
-|[最终用户可从公司门户安装应用](../Topic/Capabilities%20in%20Technical%20Preview%201605%20for%20System%20Center%20Configuration%20Manager.md#BKMK_End)|[1605](https://technet.microsoft.com/library/mt706220.aspx)|  
-|[软件中心中的更新和操作系统的新选项卡](../Topic/Capabilities%20in%20Technical%20Preview%201605%20for%20System%20Center%20Configuration%20Manager.md#BKMK_SW1)|[1605](https://technet.microsoft.com/library/mt706220.aspx)|  
-|[为服务器组提供服务](../Topic/Capabilities%20in%20Technical%20Preview%201605%20for%20System%20Center%20Configuration%20Manager.md#BKMK_ServerGroups)|[1605](https://technet.microsoft.com/library/mt706220.aspx)|  
-|[支持 Windows Defender 高级威胁防护服务](../Topic/Capabilities%20in%20Technical%20Preview%201605%20for%20System%20Center%20Configuration%20Manager.md#BKMK_ATP)|[1605](https://technet.microsoft.com/library/mt706220.aspx)|  
-|[在软件更新安装之后重启 Windows 10 客户端的新选项](../Topic/Capabilities%20in%20Technical%20Preview%201605%20for%20System%20Center%20Configuration%20Manager.md#BKMK_RestartOptions)|[1605](https://technet.microsoft.com/library/mt706220.aspx)|  
-|[本地设备运行状况证明](../Topic/Capabilities%20in%20Technical%20Preview%201605%20for%20System%20Center%20Configuration%20Manager.md#BKMK_DHA)|[1605](https://technet.microsoft.com/library/mt706220.aspx)|  
-|[预声明具有 IMEI 或 iOS 序列号的公司拥有的设备](../Topic/Capabilities%20in%20Technical%20Preview%201605%20for%20System%20Center%20Configuration%20Manager.md#BKMK_IMEI)|[1605](https://technet.microsoft.com/library/mt706220.aspx)|  
-|[本地移动设备管理的多个设备管理点](../Topic/Capabilities%20in%20Technical%20Preview%201606%20for%20System%20Center%20Configuration%20Manager.md#dmp_onprem)|[1606](https://technet.microsoft.com/library/mt732696.aspx)|
-|[自动将设备分类到集合](../Topic/Capabilities%20in%20Technical%20Preview%201606%20for%20System%20Center%20Configuration%20Manager.md#dmp_category)|[1606](https://technet.microsoft.com/library/mt732696.aspx)|
-|[所需的应用程序和软件更新部署的强制宽限期](../Topic/Capabilities%20in%20Technical%20Preview%201606%20for%20System%20Center%20Configuration%20Manager.md#dmp_grace)|[1606](https://technet.microsoft.com/library/mt732696.aspx)|
-|[通过 Device Guard 将 Configuration Manager 用作托管的安装程序](../Topic/Capabilities%20in%20Technical%20Preview%201606%20for%20System%20Center%20Configuration%20Manager.md#dmp_devg)|[1606](https://technet.microsoft.com/library/mt732696.aspx)|
-|[云代理服务](Capabilities%20in%20Technical%20Preview%201606%20for%20System%20Center%20Configuration%20Manager.md#cloud_proxy) | [1606](Capabilities%20in%20Technical%20Preview%201606%20for%20System%20Center%20Configuration%20Manager.md) |  
-|[在 Configuration Manager 中管理 Office 365 客户端代理](Capabilities%20in%20Technical%20Preview%201606%20for%20System%20Center%20Configuration%20Manager.md#manage_o365) |[1606](Capabilities%20in%20Technical%20Preview%201606%20for%20System%20Center%20Configuration%20Manager.md) |
- |[已弃用 OSDPreserveDriveLetter 任务序列变量](Capabilities%20in%20Technical%20Preview%201606%20for%20System%20Center%20Configuration%20Manager.md#osdpreservedriveletter) |[1606](Capabilities%20in%20Technical%20Preview%201606%20for%20System%20Center%20Configuration%20Manager.md) |
-[更新和维护节点的更改](Capabilities%20in%20Technical%20Preview%201606%20for%20System%20Center%20Configuration%20Manager.md#updatesandservicing)|[1606](Capabilities%20in%20Technical%20Preview%201606%20for%20System%20Center%20Configuration%20Manager.md) |
-|[Windows 10 版本升级策略的改进](Capabilities%20in%20Technical%20Preview%201607%20for%20System%20Center%20Configuration%20Manager.md#dmp_edition)|[1607](Capabilities%20in%20Technical%20Preview%201607%20for%20System%20Center%20Configuration%20Manager.md)|
-|[软件中心可自定义的品牌的对话框](Capabilities%20in%20Technical%20Preview%201607%20for%20System%20Center%20Configuration%20Manager.md#Customizable-Branding-for-Software-Center-Dialogs)|[1607](Capabilities%20in%20Technical%20Preview%201607%20for%20System%20Center%20Configuration%20Manager.md)|
+|[在 Windows 10 中与 Windows Update for Business 集成](../LocTest\Capabilities-in-Technical-Preview-1511-for-System-Center-Configuration-Manager.md#BKMK_WUfB)|[1511](https://technet.microsoft.com/library/mt706225.aspx)|  
+|[通过 System Center Configuration Manager 管理 Office 365 ProPlus 客户端更新](../LocTest\Capabilities-in-Technical-Preview-1511-for-System-Center-Configuration-Manager.md#BKMK_Office365ProPlus)|[1511](https://technet.microsoft.com/library/mt706225.aspx)|  
+|[支持 SQL Server AlwaysOn，实现数据库的高度可用性](../LocTest\Capabilities-in-Technical-Preview-1511-for-System-Center-Configuration-Manager.md#BKMK_AlwasyOn)|[1511](https://technet.microsoft.com/library/mt706225.aspx)|  
+|[为服务器群集提供服务](../LocTest\Capabilities-in-Technical-Preview-1511-for-System-Center-Configuration-Manager.md#BKMK_ClusterServerUpdates)|[1511](https://technet.microsoft.com/library/mt706225.aspx)|  
+|[设备运行状况证明](../LocTest\Capabilities-in-Technical-Preview-1512-for-System-Center-Configuration-Manager.md#bkmk_devicehealth)|[1512](https://technet.microsoft.com/library/mt706223.aspx)|  
+|[条款和条件的控制台中监视](../LocTest\Capabilities-in-Technical-Preview-1512-for-System-Center-Configuration-Manager.md#bkmk_viewterms)|[1512](https://technet.microsoft.com/library/mt706223.aspx)|  
+|[Endpoint Protection 策略设置的改进](../LocTest\Capabilities-in-Technical-Preview-1512-for-System-Center-Configuration-Manager.md#bkmk_EPpolicy)|[1512](https://technet.microsoft.com/library/mt706223.aspx)|  
+|[对 Microsoft Intune 集成的改进](../LocTest\Capabilities-in-Technical-Preview-1601-for-System-Center-Configuration-Manager.md#bkmk_hybrid1)|[1601](https://technet.microsoft.com/library/mt706226.aspx)|  
+|[客户端联机状态](../LocTest\Capabilities-in-Technical-Preview-1601-for-System-Center-Configuration-Manager.md#bkmk_clientStatus)|[1601](https://technet.microsoft.com/library/mt706226.aspx)|  
+|[对应用程序管理的改进](../LocTest\Capabilities-in-Technical-Preview-1601-for-System-Center-Configuration-Manager.md#bkmk_appmgmt1601)|[1601](https://technet.microsoft.com/library/mt706226.aspx)|  
+|[对合规性设置的改进](../LocTest\Capabilities-in-Technical-Preview-1601-for-System-Center-Configuration-Manager.md#bkmk_compliance1601)|[1601](https://technet.microsoft.com/library/mt706226.aspx)|  
+|[对移动设备管理的改进](../LocTest\Capabilities-in-Technical-Preview-1602-for-System-Center-Configuration-Manager.md#BKMK_MDM)|[1602](https://technet.microsoft.com/library/mt706221.aspx)|  
+|[1602 版本中对软件中心的改进](../LocTest\Capabilities-in-Technical-Preview-1602-for-System-Center-Configuration-Manager.md#BKMK_SC1601)|[1602](https://technet.microsoft.com/library/mt706221.aspx)|  
+|[对 Windows 10 维护服务的改进](../LocTest\Capabilities-in-Technical-Preview-1602-for-System-Center-Configuration-Manager.md#BKMK_Win10Servicing)|[1602](https://technet.microsoft.com/library/mt706221.aspx)|  
+|[1603 版本中对软件中心的改进](../LocTest\Capabilities-in-Technical-Preview-1603-for-System-Center-Configuration-Manager.md#BKMK_SC1603)|[1603](https://technet.microsoft.com/library/mt706227.aspx)|  
+|[对远程控制的改进](../LocTest\Capabilities-in-Technical-Preview-1603-for-System-Center-Configuration-Manager.md#BKMK_RC1603)|[1603](https://technet.microsoft.com/library/mt706227.aspx)|  
+|[在启用 PXE 的分发点上自定义 RamDisk TFTP 块大小和窗口大小](../LocTest\Capabilities-in-Technical-Preview-1603-for-System-Center-Configuration-Manager.md#BKMK_RamDiskTFTP)|[1603](https://technet.microsoft.com/library/mt706227.aspx)|  
+|[管理从适用于企业的 Windows 应用商店批量采购的应用](../LocTest\Capabilities-in-Technical-Preview-1604-for-System-Center-Configuration-Manager.md#BKMK_WindowsVPP)|[1604](https://technet.microsoft.com/library/mt706224.aspx)|  
+|[对 Microsoft Passport for Work 管理的改进](../LocTest\Capabilities-in-Technical-Preview-1604-for-System-Center-Configuration-Manager.md#BKMK_PFW)|[1604](https://technet.microsoft.com/library/mt706224.aspx)|  
+|[供客户端切换到新软件更新点的选项](../LocTest\Capabilities-in-Technical-Preview-1604-for-System-Center-Configuration-Manager.md#bkmk_switchsup)|[1604](https://technet.microsoft.com/library/mt706224.aspx)|  
+|[用于管理客户端缓存设置和客户端对等缓存的客户端设置](../LocTest\Capabilities-in-Technical-Preview-1604-for-System-Center-Configuration-Manager.md#bkmk_peercache)|[1604](https://technet.microsoft.com/library/mt706224.aspx)|  
+|[支持将 Passport for Work 作为 KSP](../LocTest\Capabilities-in-Technical-Preview-1604-for-System-Center-Configuration-Manager.md#bkmk_passport)|[1604](https://technet.microsoft.com/library/mt706224.aspx)|  
+|[本地设备运行状况证明](../LocTest\Capabilities-in-Technical-Preview-1604-for-System-Center-Configuration-Manager.md#bkmk_onpremdha)|[1604](https://technet.microsoft.com/library/mt706224.aspx)|  
+|[适用于 Android 设备的 SmartLock 设置](../LocTest\Capabilities-in-Technical-Preview-1604-for-System-Center-Configuration-Manager.md#BKMK_Smart)|[1604](https://technet.microsoft.com/library/mt706224.aspx)|  
+|[Windows 10 设备的每应用 VPN](../LocTest\Capabilities-in-Technical-Preview-1605-for-System-Center-Configuration-Manager.md#BKMK_PerAppVPN)|[1605](https://technet.microsoft.com/library/mt706220.aspx)|  
+|[安装软件更新任务序列的改进](../LocTest\Capabilities-in-Technical-Preview-1605-for-System-Center-Configuration-Manager.md#BKMK_InstallSU)|[1605](https://technet.microsoft.com/library/mt706220.aspx)|  
+|[准备 ConfigMgr 客户端以便捕获任务序列步骤的改进](../LocTest\Capabilities-in-Technical-Preview-1605-for-System-Center-Configuration-Manager.md#BKMK_PrepareConfigMgrClient)|[1605](https://technet.microsoft.com/library/mt706220.aspx)|  
+|[所需的应用程序部署的宽限期](../LocTest\Capabilities-in-Technical-Preview-1605-for-System-Center-Configuration-Manager.md#BKMK_Grace)|[1605](https://technet.microsoft.com/library/mt706220.aspx)|  
+|[远程设备操作的新体验](../LocTest\Capabilities-in-Technical-Preview-1605-for-System-Center-Configuration-Manager.md#BKMK_Remote)|[1605](https://technet.microsoft.com/library/mt706220.aspx)|  
+|[适用于企业的 Windows 应用商店应用](../LocTest\Capabilities-in-Technical-Preview-1605-for-System-Center-Configuration-Manager.md#BKMK_WSFB)|[1605](https://technet.microsoft.com/library/mt706220.aspx)|  
+|[批量采购应用的一般改进](../LocTest\Capabilities-in-Technical-Preview-1605-for-System-Center-Configuration-Manager.md#BKMK_VPP2)|[1605](https://technet.microsoft.com/library/mt706220.aspx)|  
+|[企业数据保护 (EDP)](../LocTest\Capabilities-in-Technical-Preview-1605-for-System-Center-Configuration-Manager.md#BKMK_VPP)|[1605](https://technet.microsoft.com/library/mt706220.aspx)|  
+|[最终用户可从公司门户安装应用](../LocTest\Capabilities-in-Technical-Preview-1605-for-System-Center-Configuration-Manager.md#BKMK_End)|[1605](https://technet.microsoft.com/library/mt706220.aspx)|  
+|[软件中心中的更新和操作系统的新选项卡](../LocTest\Capabilities-in-Technical-Preview-1605-for-System-Center-Configuration-Manager.md#BKMK_SW1)|[1605](https://technet.microsoft.com/library/mt706220.aspx)|  
+|[为服务器组提供服务](../LocTest\Capabilities-in-Technical-Preview-1605-for-System-Center-Configuration-Manager.md#BKMK_ServerGroups)|[1605](https://technet.microsoft.com/library/mt706220.aspx)|  
+|[支持 Windows Defender 高级威胁防护服务](../LocTest\Capabilities-in-Technical-Preview-1605-for-System-Center-Configuration-Manager.md#BKMK_ATP)|[1605](https://technet.microsoft.com/library/mt706220.aspx)|  
+|[在软件更新安装之后重启 Windows 10 客户端的新选项](../LocTest\Capabilities-in-Technical-Preview-1605-for-System-Center-Configuration-Manager.md#BKMK_RestartOptions)|[1605](https://technet.microsoft.com/library/mt706220.aspx)|  
+|[本地设备运行状况证明](../LocTest\Capabilities-in-Technical-Preview-1605-for-System-Center-Configuration-Manager.md#BKMK_DHA)|[1605](https://technet.microsoft.com/library/mt706220.aspx)|  
+|[预声明具有 IMEI 或 iOS 序列号的公司拥有的设备](../LocTest\Capabilities-in-Technical-Preview-1605-for-System-Center-Configuration-Manager.md#BKMK_IMEI)|[1605](https://technet.microsoft.com/library/mt706220.aspx)|  
+|[本地移动设备管理的多个设备管理点](../LocTest\Capabilities-in-Technical-Preview-1606-for-System-Center-Configuration-Manager.md#dmp_onprem)|[1606](https://technet.microsoft.com/library/mt732696.aspx)|
+|[自动将设备分类到集合](../LocTest\Capabilities-in-Technical-Preview-1606-for-System-Center-Configuration-Manager.md#dmp_category)|[1606](https://technet.microsoft.com/library/mt732696.aspx)|
+|[所需的应用程序和软件更新部署的强制宽限期](../LocTest\Capabilities-in-Technical-Preview-1606-for-System-Center-Configuration-Manager.md#dmp_grace)|[1606](https://technet.microsoft.com/library/mt732696.aspx)|
+|[通过 Device Guard 将 Configuration Manager 用作托管的安装程序](../LocTest\Capabilities-in-Technical-Preview-1606-for-System-Center-Configuration-Manager.md#dmp_devg)|[1606](https://technet.microsoft.com/library/mt732696.aspx)|
+|[云代理服务](../LocTest\Capabilities-in-Technical-Preview-1606-for-System-Center-Configuration-Manager.md#cloud_proxy) | [1606](../LocTest\Capabilities-in-Technical-Preview-1606-for-System-Center-Configuration-Manager.md) |  
+|[在 Configuration Manager 中管理 Office 365 客户端代理](../LocTest\Capabilities-in-Technical-Preview-1606-for-System-Center-Configuration-Manager.md#manage_o365) |[1606](../LocTest\Capabilities-in-Technical-Preview-1606-for-System-Center-Configuration-Manager.md) |
+ |[已弃用 OSDPreserveDriveLetter 任务序列变量](../LocTest\Capabilities-in-Technical-Preview-1606-for-System-Center-Configuration-Manager.md#osdpreservedriveletter) |[1606](../LocTest\Capabilities-in-Technical-Preview-1606-for-System-Center-Configuration-Manager.md) |
+[更新和维护节点的更改](../LocTest\Capabilities-in-Technical-Preview-1606-for-System-Center-Configuration-Manager.md#updatesandservicing)|[1606](../LocTest\Capabilities-in-Technical-Preview-1606-for-System-Center-Configuration-Manager.md) |
+|[Windows 10 版本升级策略的改进](../LocTest\Capabilities-in-Technical-Preview-1607-for-System-Center-Configuration-Manager.md#dmp_edition)|[1607](../LocTest\Capabilities-in-Technical-Preview-1607-for-System-Center-Configuration-Manager.md)|
+|[软件中心可自定义的品牌的对话框](../LocTest\Capabilities-in-Technical-Preview-1607-for-System-Center-Configuration-Manager.md#Customizable-Branding-for-Software-Center-Dialogs)|[1607](../LocTest\Capabilities-in-Technical-Preview-1607-for-System-Center-Configuration-Manager.md)|
   
 ## 另请参阅  
-[System Center Configuration Manager 中的新增功能](What%E2%80%99s%20new%20in%20System%20Center%20Configuration%20Manager%20incremental%20versions.md)
+[System Center Configuration Manager 中的新增功能](../LocTest\What’s-new-in-System-Center-Configuration-Manager-incremental-versions.md)
  [System Center Configuration Manager 简介](../LocTest/Introduction-to-System-Center-Configuration-Manager.md)

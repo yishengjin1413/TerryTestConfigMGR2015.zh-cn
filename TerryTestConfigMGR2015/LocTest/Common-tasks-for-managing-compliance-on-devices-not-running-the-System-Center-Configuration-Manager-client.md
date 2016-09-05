@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 116cca2a-0a98-43fd-ac9e-e3daeddefce3
 caps.latest.revision: 5
 caps.handback.revision: 4
+translationtype: Human Translation
 ---
 # 设备上管理符合性的常见任务不运行 System Center Configuration Manager 客户端
 本主题中的方案通过演示你可能遇到的一些常见方案介绍了如何使用 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 符合性设置。  

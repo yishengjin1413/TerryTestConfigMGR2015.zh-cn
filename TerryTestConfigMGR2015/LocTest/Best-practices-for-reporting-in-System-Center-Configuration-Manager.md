@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 64f9d931-33f1-456f-a4e4-0ec077465bd0
 caps.latest.revision: 4
 caps.handback.revision: 4
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中报告的最佳做法
 下列最佳方案适用于 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的报表：  

@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: f338e4db-73b5-45ff-92f4-1b89a8ded989
 caps.latest.revision: 19
 caps.handback.revision: 13
+translationtype: Human Translation
 ---
 # 如何在 System Center Configuration Manager 中创建 VPN 配置文件
 使用以下链接了解有关在 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中创建 VPN 配置文件的步骤：  

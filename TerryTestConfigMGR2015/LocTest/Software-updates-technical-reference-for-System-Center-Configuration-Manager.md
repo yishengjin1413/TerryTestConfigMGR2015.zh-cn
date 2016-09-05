@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: e2245739-a8dc-479b-b1da-fe69ae906282
 caps.latest.revision: 4
 caps.handback.revision: 4
+translationtype: Human Translation
 ---
 # 软件更新 System Center Configuration Manager 的技术参考
 本主题列出 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的软件更新的技术参考信息。  

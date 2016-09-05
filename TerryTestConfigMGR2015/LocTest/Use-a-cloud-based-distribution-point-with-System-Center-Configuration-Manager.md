@@ -14,11 +14,12 @@ applies_to:
 ms.assetid: 3cd9c725-6b42-427d-9191-86e67f84e48c
 caps.latest.revision: 9
 caps.handback.revision: 9
+translationtype: Human Translation
 ---
 # 将基于云的分发点用于 System Center Configuration Manager
 基于云的分发点是托管于 Microsoft Azure 中的 [!INCLUDE[cm6long_md](../LocTest/includes/cm6long_md.md)] 分发点。 以下信息旨在帮助你了解有关使用基于云的分发点的配置和限制。
 
-安装完成主站点并准备好安装基于云的分发点后，请参阅[在 Microsoft Azure 中安装基于云的分发点](Install%20cloud-based%20distribution%20points%20in%20Microsoft%20Azure%20for%20System%20Center%20Configuration%20Manager.md)。
+安装完成主站点并准备好安装基于云的分发点后，请参阅[在 Microsoft Azure 中安装基于云的分发点](../LocTest\Install-cloud-based-distribution-points-in-Microsoft-Azure-for-System-Center-Configuration-Manager.md)。
 
 
 ## 规划使用基于云的分发点

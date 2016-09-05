@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 101d7d4d-92db-419d-b2ae-3c1c1dea68e9
 caps.latest.revision: 6
 caps.handback.revision: 3
+translationtype: Human Translation
 ---
 # 关于 System Center Configuration Manager 中的发布到 Active Directory 域服务的客户端安装属性
 在扩展 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 的 Active Directory 架构并将站点发布到 Active Directory 域服务时，会将许多客户端安装属性发布到 Active Directory 域服务。 如果计算机可以找到这些客户端安装属性，则它可以在 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 客户端的部署过程中使用这些属性。  

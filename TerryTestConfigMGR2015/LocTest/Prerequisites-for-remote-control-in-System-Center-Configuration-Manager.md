@@ -15,6 +15,7 @@ ms.assetid: c1b2057e-b74f-43fa-a293-763a8f866d3d
 caps.latest.revision: 6
 caps.handback.revision: 3
 author: barlanmsft
+translationtype: Human Translation
 ---
 # 在 System Center Configuration Manager 中远程控制的先决条件
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中远程控制拥有外部依赖关系和产品中的依赖关系。  

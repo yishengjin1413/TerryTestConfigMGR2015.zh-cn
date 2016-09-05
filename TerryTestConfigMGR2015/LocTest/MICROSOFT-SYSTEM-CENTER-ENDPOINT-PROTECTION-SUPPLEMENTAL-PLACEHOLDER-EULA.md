@@ -13,6 +13,7 @@ ms.assetid: db3ca12d-b737-40a6-8a2e-8b85c2188775
 caps.latest.revision: 3
 caps.handback.revision: 3
 robots: noindex,nofollow
+translationtype: Human Translation
 ---
 # MICROSOFT SYSTEM CENTER ENDPOINT PROTECTION 补充版占位符 EULA
 MICROSOFT SYSTEM CENTER ENDPOINT PROTECTION 补充版占位符 EULA

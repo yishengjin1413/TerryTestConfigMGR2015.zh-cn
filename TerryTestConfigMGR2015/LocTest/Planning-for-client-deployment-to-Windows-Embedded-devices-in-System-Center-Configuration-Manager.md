@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 038e61f9-f49d-41d1-9a9f-87bec9e00d5d
 caps.latest.revision: 7
 caps.handback.revision: 5
+translationtype: Human Translation
 ---
 # 在 System Center Configuration Manager 中计划 Windows Embedded 设备的客户端部署
 ##  <a name="BKMK_DeployClientEmbedded"></a> 如果 Windows Embedded 设备不包括 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 客户端，并且设备满足所需的依赖关系要求，则可以使用任何客户端安装方法。 如果嵌入式设备支持写入筛选器，则必须在安装客户端之前禁用这些筛选器，然后在安装客户端并将其分配给站点之后再次重新启用筛选器。  

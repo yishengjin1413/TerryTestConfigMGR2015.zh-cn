@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: c2e53d99-f19d-4a24-b422-9f54813aa2e2
 caps.latest.revision: 14
 caps.handback.revision: 13
+translationtype: Human Translation
 ---
 # 通过 Configuration Manager 的绕过激活锁定帮助保护 iOS 设备
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 可以帮助你管理 iOS 激活锁定，这是适用于 iOS 7.1 及更高版本设备的“查找我的 iPhone”应用的功能。 当设备上使用了“查到我的 iPhone”应用时，激活锁定自动启用。 启用后，任何人都必须先输入用户的 Apple ID 和密码，然后才能执行以下操作：  

@@ -15,6 +15,7 @@ ms.assetid: b1fdaee2-2816-4447-94cd-609f6948f215
 caps.latest.revision: 8
 caps.handback.revision: 5
 author: barlanmsft
+translationtype: Human Translation
 ---
 # 在 System Center Configuration Manager 中使用软件计数监视应用使用情况
 使用 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的软件计数监视和收集 Windows PC 上的软件使用数据。  

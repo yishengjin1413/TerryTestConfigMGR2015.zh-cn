@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: b2e63ca6-cf76-4fb7-9d8e-d5051be3bd41
 caps.latest.revision: 5
 caps.handback.revision: 3
+translationtype: Human Translation
 ---
 # 在 System Center Configuration Manager 中部署客户端的准备步骤
 以下页面的信息将详细介绍如何准备 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 系统以用于将客户端部署到 PC、服务器和组织中的其他设备。  

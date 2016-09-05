@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 63c5ef72-5715-4d86-85a2-71beba469fab
 caps.latest.revision: 15
 caps.handback.revision: 9
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中用于软件更新的图标
 同步后的软件更新会显示在 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 控制台中，每个软件更新的首列均包含一个指示特定状态的图标。 软件更新组也使用一个图标表示，该图标提供有关组中所包含软件更新的状态信息。 本部分提供有关软件更新图标和每个图标表示的内容的信息。  

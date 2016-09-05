@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: f3058277-c597-4dac-86d1-41b6f7e62b36
 caps.latest.revision: 9
 caps.handback.revision: 7
+translationtype: Human Translation
 ---
 # 使用修补程序安装程序来安装 System Center Configuration Manager 的更新
 <?xml version="1.0" encoding="UTF-8"?>

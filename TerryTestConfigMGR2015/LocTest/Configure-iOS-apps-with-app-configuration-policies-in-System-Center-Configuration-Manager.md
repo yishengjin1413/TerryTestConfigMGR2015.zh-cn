@@ -12,6 +12,7 @@ applies_to:
 ms.assetid: 74d5d776-e37d-45de-bdba-43541b03d12c
 caps.latest.revision: 10
 caps.handback.revision: 2
+translationtype: Human Translation
 ---
 # 使用 Configuration Manager 中的应用配置策略配置应用
 使用 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 中的移动应用配置策略提供用户在运行应用时可能需要的设置。 例如，应用可能要求用户指定：  

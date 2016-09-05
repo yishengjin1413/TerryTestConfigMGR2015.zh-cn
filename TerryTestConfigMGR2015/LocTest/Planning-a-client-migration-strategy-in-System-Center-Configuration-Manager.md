@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 2e27b0b7-7bd3-45cd-bc99-9c991606c637
 caps.latest.revision: 6
 caps.handback.revision: 5
+translationtype: Human Translation
 ---
 # 在 System Center Configuration Manager 中规划客户端迁移策略
 要将客户端从源层次结构迁移到 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 目标层次结构，你必须执行两个任务。 你必须迁移与客户端关联的对象，并且必须重新安装或将客户端从源层次结构重新分配到目标层次结构。 请先迁移对象，以便在迁移客户端时这些对象可用。 与客户端关联的对象是通过使用迁移作业迁移的。 有关如何迁移与客户端关联的对象的信息，请参阅[在 System Center Configuration Manager 中规划迁移作业策略](../LocTest/Planning-a-migration-job-strategy-in-System-Center-Configuration-Manager.md)。  

@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 4544088a-4752-4e3a-aa0a-049f10d8f178
 caps.latest.revision: 24
 caps.handback.revision: 23
+translationtype: Human Translation
 ---
 # 在 System Center Configuration Manager 中管理对电子邮件的访问
 根据你指定的条件，使用 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 条件访问来管理对 Exchange 电子邮件的访问。  

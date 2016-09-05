@@ -13,6 +13,7 @@ ms.assetid: 54c4cafb-b0c8-43f0-b827-8d03e85a3c3c
 caps.latest.revision: 4
 caps.handback.revision: 1
 robots: noindex,nofollow
+translationtype: Human Translation
 ---
 # 如何在 Configuration Manager 本地移动设备管理 (MDM) 中配置设备设置
 在此处插入说明。  

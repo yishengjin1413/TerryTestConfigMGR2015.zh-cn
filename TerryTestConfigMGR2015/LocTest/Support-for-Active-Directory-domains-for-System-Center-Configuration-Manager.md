@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 8c5a13f8-42d5-4898-b7b6-e594dae8b335
 caps.latest.revision: 7
 caps.handback.revision: 4
+translationtype: Human Translation
 ---
 # 对 System Center Configuration Manager 的 Active Directory 域的支持
 所有 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 站点系统必须均为受支持的 Windows Active Directory 域的成员。[!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 客户端计算机可以是域成员，也可以是工作组成员。  

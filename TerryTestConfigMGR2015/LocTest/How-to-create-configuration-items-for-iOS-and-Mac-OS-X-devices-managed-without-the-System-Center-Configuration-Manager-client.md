@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: c378e0f7-be49-4b96-a46b-7c5d9638bd96
 caps.latest.revision: 15
 caps.handback.revision: 15
+translationtype: Human Translation
 ---
 # 如何为没有使用 System Center Configuration Manager 客户端管理的 iOS 和 Mac OS X 设备创建配置项目
 使用 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)]**iOS 和 Mac OS X** 配置项目为已在 Microsoft Intune 中注册或通过 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 进行本地管理的 iOS 和 Mac OS X 的设备管理设置。  

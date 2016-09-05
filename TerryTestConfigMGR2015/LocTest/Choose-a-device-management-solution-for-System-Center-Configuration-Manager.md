@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 24633725-791a-4df7-8dce-2c24c1a19a03
 caps.latest.revision: 14
 caps.handback.revision: 9
+translationtype: Human Translation
 ---
 # 选择 System Center Configuration Manager 的设备管理解决方案
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 提供用于管理 PC、服务器和设备的不同解决方案。 你可以根据进行管理所需的设备平台和所需的管理功能来选择最适合的解决方案。  

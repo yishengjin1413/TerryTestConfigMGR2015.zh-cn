@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: d566d85c-bf7a-40e7-8239-57640a1db5f4
 caps.latest.revision: 7
 caps.handback.revision: 6
+translationtype: Human Translation
 ---
 # 创建任务序列以捕获和还原 System Center Configuration Manager 中的用户状态
 在希望保留当前操作系统的用户状态的操作系统部署方案中，你可以使用 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 任务序列来捕获和还原用户状态数据。 捕获和还原步骤可能会自动添加为任务序列的一部分，具体取决于创建的任务序列的类型。 在其他方案中，你可能需要手动将捕获和还原步骤添加到任务序列。 本主题提供必须添加到现有任务序列以捕获和还原用户状态数据的步骤。  

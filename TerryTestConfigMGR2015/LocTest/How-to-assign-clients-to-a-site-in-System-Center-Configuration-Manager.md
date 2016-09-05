@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: ba9b623f-6e86-4006-93f2-83d563de0cd0
 caps.latest.revision: 10
 caps.handback.revision: 10
+translationtype: Human Translation
 ---
 # 如何在 System Center Configuration Manager 中将客户端分配到一个站点
 在安装 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 客户端之后，它必须先加入 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 主站点，然后才能被管理。 客户端加入的站点称为其分配的站点。 无法将客户端分配给管理中心站点或辅助站点。  

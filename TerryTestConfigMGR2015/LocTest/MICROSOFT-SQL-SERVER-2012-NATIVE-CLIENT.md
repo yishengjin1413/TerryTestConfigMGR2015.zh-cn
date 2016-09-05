@@ -11,6 +11,7 @@ ms.assetid: 72c505eb-f0bf-4f4d-97fd-327df76f17fc
 caps.latest.revision: 7
 caps.handback.revision: 6
 robots: noindex,nofollow
+translationtype: Human Translation
 ---
 # MICROSOFT SQL SERVER 2012 NATIVE CLIENT
 **微软软件许可条款**  

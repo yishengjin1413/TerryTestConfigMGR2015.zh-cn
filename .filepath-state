@@ -1,0 +1,524 @@
+{
+  "8b61c8aa2c3a8514ceeeede4e934c0ab77e6eb6d": [
+    "TerryTestConfigMGR2015\\LocTest\\About-client-installation-properties-in-System-Center-Configuration-Manager.md"
+  ],
+  "4c986ccd79d415dd0691e579b9e97c2feafd7412": [
+    "TerryTestConfigMGR2015\\LocTest\\Asset-Intelligence-in-System-Center-Configuration-Manager.md"
+  ],
+  "763b52cb2c57c75bbd3a77a19f475ab8ad5e3488": [
+    "TerryTestConfigMGR2015\\LocTest\\Associate-users-with-a-destination-computer-in-System-Center-Configuration-Manager.md"
+  ],
+  "3aeef14761083e7d830ff707f51133db6d2cff6d": [
+    "TerryTestConfigMGR2015\\LocTest\\Best-practices-for-client-deployment-in-System-Center-Configuration-Manager.md"
+  ],
+  "910b51d68cb9bc1bfaa754675c6f386462bcb1a6": [
+    "TerryTestConfigMGR2015\\LocTest\\Best-practices-for-collections-in-System-Center-Configuration-Manager.md"
+  ],
+  "4f2448b979c019cfa2f0928cd3da10f08df3decc": [
+    "TerryTestConfigMGR2015\\LocTest\\Best-practices-for-reporting-in-System-Center-Configuration-Manager.md"
+  ],
+  "ad3cfe7f44c3662aab092e3fcda276d8523d231f": [
+    "TerryTestConfigMGR2015\\LocTest\\Certificate-profiles-in-System-Center-Configuration-Manager.md"
+  ],
+  "de6716e4680e7a26c949d3a0408a265d69f7c38b": [
+    "TerryTestConfigMGR2015\\LocTest\\Certificate-profiles-technical-reference-for-System-Center-Configuration-Manager.md"
+  ],
+  "44a90afee598c3cf4858a5baa388d86249edb475": [
+    "TerryTestConfigMGR2015\\LocTest\\Checklist-for-installing-update-1602-for-System-Center-Configuration-Manager.md"
+  ],
+  "0023d450331fa130c34231242ae23d27e7db6168": [
+    "TerryTestConfigMGR2015\\LocTest\\Client-deployment-tasks-for-System-Center-Configuration-Manager.md"
+  ],
+  "283ffb92d1a5778db2385eac0eb17c75b91e7ca8": [
+    "TerryTestConfigMGR2015\\LocTest\\Client-installation-methods-in-System-Center-Configuration-Manager.md"
+  ],
+  "5a10f78527443b59f64ed89c01f01027a8facb96": [
+    "TerryTestConfigMGR2015\\LocTest\\Client-management-technical-reference-for-System-Center-Configuration-Manager.md"
+  ],
+  "3912d99c83ac0ca71811e66bb2e9691a413f2fb4": [
+    "TerryTestConfigMGR2015\\LocTest\\Collections-technical-reference-for-System-Center-Configuration-Manager.md"
+  ],
+  "80d5de8532e76076e0b2354badee26d6693f3907": [
+    "TerryTestConfigMGR2015\\LocTest\\Common-tasks-for-managing-compliance-with-System-Center-Configuration-Manager.md"
+  ],
+  "060f1113ad13f3c15d44604c08280360c03cc469": [
+    "TerryTestConfigMGR2015\\LocTest\\Communications-between-endpoints-in-System-Center-Configuration-Manager.md"
+  ],
+  "cc30ea5d8f4946b8ca4b3701e59dfd37bc71388a": [
+    "TerryTestConfigMGR2015\\LocTest\\Compliance-settings-technical-reference-for-System-Center-Configuration-Manager.md"
+  ],
+  "72d13942fa2e677632d08bdd412145edad24ca2d": [
+    "TerryTestConfigMGR2015\\LocTest\\Configuration-items-for-devices-managed-with-the-System-Center-Configuration-Manager-client.md"
+  ],
+  "f60bc1f02622c6bc903ab672eaabfdc5a3e360ef": [
+    "TerryTestConfigMGR2015\\LocTest\\Configuration-items-for-devices-managed-without-the-System-Center-Configuration-Manager-client.md"
+  ],
+  "791d1789da752ee841e4225d70e507c41295c0da": [
+    "TerryTestConfigMGR2015\\LocTest\\Configure-firewalls--ports--and-domains-for-System-Center-Configuration-Manager.md"
+  ],
+  "7cd45143e2dbe4c7085909480dc6ff1004051fe0": [
+    "TerryTestConfigMGR2015\\LocTest\\Configure-sites-and-hierarchies-for-System-Center-Configuration-Manager.md"
+  ],
+  "34615018d59d3c0eae279f60fb38b95a8a94c621": [
+    "TerryTestConfigMGR2015\\LocTest\\Configure-software-updates-in-System-Center-Configuration-Manager.md"
+  ],
+  "7e08123e1104407f9f99e8571cf6cf41f5de937c": [
+    "TerryTestConfigMGR2015\\LocTest\\Configuring-certificate-profiles-in-System-Center-Configuration-Manager.md"
+  ],
+  "e82ec783c069f8b0eb620c3c1593485afd60b766": [
+    "TerryTestConfigMGR2015\\LocTest\\Configuring-hardware-inventory-in-System-Center-Configuration-Manager.md"
+  ],
+  "7514be53d29cac255a268f3bcaf1fb86e59e81a8": [
+    "TerryTestConfigMGR2015\\LocTest\\Configuring-remote-control-in-System-Center-Configuration-Manager.md"
+  ],
+  "f967ab7a4ea521a0523eed96e98f2a02ee85e150": [
+    "TerryTestConfigMGR2015\\LocTest\\Configuring-software-inventory-in-System-Center-Configuration-Manager.md"
+  ],
+  "2d05f6f0ccfba0f622eaa12f5cf29afd248f74df": [
+    "TerryTestConfigMGR2015\\LocTest\\Considerations-for-upgrading-Configuration-Manager-clients-on-PCs-and-devices.md"
+  ],
+  "c104e59fbbf984cee4c991df587a9faabc193406": [
+    "TerryTestConfigMGR2015\\LocTest\\Create-an-image-for-an-OEM-in-factory-or-a-local-depot-with-System-Center-Configuration-Manager.md"
+  ],
+  "981259ebe51d53c4ddf6203417aba1098bc39234": [
+    "TerryTestConfigMGR2015\\LocTest\\Create-task-sequence-media-with-System-Center-Configuration-Manager.md"
+  ],
+  "4784ffe8c78b7e38c1257f317160dd9296d9f7c1": [
+    "TerryTestConfigMGR2015\\LocTest\\Creating-Mac-computer-applications-with-System-Center-Configuration-Manager.md"
+  ],
+  "7f62add8e5fb37ca43b75250ea3f07059a1e9970": [
+    "TerryTestConfigMGR2015\\LocTest\\Customer-Experience-Improvement-Program--CEIP--for-System-Center-Configuration-Manager.md"
+  ],
+  "1148c5322f7456cfab46ce3ca5ae9c1fc993072a": [
+    "TerryTestConfigMGR2015\\LocTest\\Customize-operating-system-images-with-System-Center-Configuration-Manager.md"
+  ],
+  "5c1a5d62a2e2ba4220295c18dcadcbd13b6602b1": [
+    "TerryTestConfigMGR2015\\LocTest\\Data-transfers-between-sites-in-System-Center-Configuration-Manager.md"
+  ],
+  "a149e88d4397a184d3a31e78574294917bb2a01a": [
+    "TerryTestConfigMGR2015\\LocTest\\Deploy-and-manage-software-updates-in-System-Center-Configuration-Manager.md"
+  ],
+  "663af25d63349e7a8335ad753dfc79c3e3e51910": [
+    "TerryTestConfigMGR2015\\LocTest\\Deploy-clients-in-System-Center-Configuration-Manager.md"
+  ],
+  "0110133fa923c22dcf3735ace5e6302f2f4701c4": [
+    "TerryTestConfigMGR2015\\LocTest\\Determine-whether-to-block-clients-in-System-Center-Configuration-Manager.md"
+  ],
+  "509623897340d85c8e8b60b17472c918ae4836b9": [
+    "TerryTestConfigMGR2015\\LocTest\\Determine-whether-to-migrate-data-to-System-Center-Configuration-Manager.md"
+  ],
+  "836f42454143904da89dab4518f068d11590d16d": [
+    "TerryTestConfigMGR2015\\LocTest\\Email-profiles-in-System-Center-Configuration-Manager.md"
+  ],
+  "26945519d1d70b9c91cdfdd0df0d3e28dc304ece": [
+    "TerryTestConfigMGR2015\\LocTest\\Fundamental-concepts-for-content-management-in-System-Center-Configuration-Manager.md"
+  ],
+  "5ff50822dafb6561811bcd68a55dec4a3057e95e": [
+    "TerryTestConfigMGR2015\\LocTest\\Fundamentals-of-System-Center-Configuration-Manager.md"
+  ],
+  "a89be69022ba39299e2012a1e5ebdea0c9043676": [
+    "TerryTestConfigMGR2015\\LocTest\\Get-started-with-application-management-in-System-Center-Configuration-Manager.md"
+  ],
+  "f7c0cb2e815811c79ae84249a7916f047c40be4d": [
+    "TerryTestConfigMGR2015\\LocTest\\Graphics-option-A.md"
+  ],
+  "d522a8a8cf03a2902aeda78278344f8ca3075343": [
+    "TerryTestConfigMGR2015\\LocTest\\Graphics-option-B.md"
+  ],
+  "70f0bafe9b604ceedf4ff22cd6473f5aa0abb8da": [
+    "TerryTestConfigMGR2015\\LocTest\\Hardware-inventory-in-System-Center-Configuration-Manager.md"
+  ],
+  "30843fea5bbb29670ce3617afd5a0ee46bc523d6": [
+    "TerryTestConfigMGR2015\\LocTest\\Hierarchy-Maintenance-Tool--Preinst.exe--for-System-Center-Configuration-Manager.md"
+  ],
+  "50ed1f107f068996b6a1c924a4dd1c9fd5e996a6": [
+    "TerryTestConfigMGR2015\\LocTest\\How-diagnostics-and-usage-data-is-collected-by-System-Center-Configuration-Manager.md"
+  ],
+  "1189e239bb5aa80af51079874b994bdcfe5faea5": [
+    "TerryTestConfigMGR2015\\LocTest\\How-to-assign-clients-to-a-site-in-System-Center-Configuration-Manager.md"
+  ],
+  "796de4be0f755a3b14c0f9c2cc8355c527e0c90e": [
+    "TerryTestConfigMGR2015\\LocTest\\How-to-configure-client-settings-in-System-Center-Configuration-Manager.md"
+  ],
+  "100acbaabf318d49ec8207f81d6f90cada478739": [
+    "TerryTestConfigMGR2015\\LocTest\\How-to-configure-software-inventory-in-System-Center-Configuration-Manager.md"
+  ],
+  "339b61f7202e810f6e751e50a3140652af716641": [
+    "TerryTestConfigMGR2015\\LocTest\\How-to-create-and-deploy-Windows-Firewall-policies-for-Endpoint-Protection-in-System-Center-Configuration-Manager.md"
+  ],
+  "11be96eb9f0de5f2e8a3b50f946d0868e261dfd2": [
+    "TerryTestConfigMGR2015\\LocTest\\How-to-create-configuration-items-for-Android-and-Samsung-KNOX-devices-managed-without-the-System-Center-Configuration-Manager-client.md"
+  ],
+  "c08ba0390c374f8aa0aa3b42f6757336f345734d": [
+    "TerryTestConfigMGR2015\\LocTest\\How-to-create-configuration-items-for-iOS-and-Mac-OS-X-devices-managed-without-the-System-Center-Configuration-Manager-client.md"
+  ],
+  "3ff11a20d9f116c15de7595deb5f36021f195d13": [
+    "TerryTestConfigMGR2015\\LocTest\\How-to-create-configuration-items-for-Mac-OS-X-devices-managed-with-the-System-Center-Configuration-Manager-client.md"
+  ],
+  "d17a3219c9dccd59a58c78e9175e779b7a49957e": [
+    "TerryTestConfigMGR2015\\LocTest\\How-to-create-configuration-items-for-Windows-8.1-and-Windows-10-devices-managed-without-the-System-Center-Configuration-Manager-client.md"
+  ],
+  "b3d035d1d97d176ad9023d55b9b0e75316a3f993": [
+    "TerryTestConfigMGR2015\\LocTest\\How-to-create-configuration-items-in-System-Center-Configuration-Manager.md"
+  ],
+  "898d803f053a2fb215cce1f87977af6d0ef28e11": [
+    "TerryTestConfigMGR2015\\LocTest\\How-to-create-custom-configuration-items-for-Windows-desktop-and-server-computers-managed-with-the-System-Center-Configuration-Manager-client.md"
+  ],
+  "3c788f3d68524e73c276bdaa8d8142d1e7da33f5": [
+    "TerryTestConfigMGR2015\\LocTest\\How-to-create-Wi-Fi-profiles-in-System-Center-Configuration-Manager.md"
+  ],
+  "77d0bc6dc2326316c5212db9ff442dcd1077c96c": [
+    "TerryTestConfigMGR2015\\LocTest\\How-to-deploy-applications-with-System-Center-Configuration-Manager.md"
+  ],
+  "c265d9e70e4d9c117ad700a0c67f5077c136722e": [
+    "TerryTestConfigMGR2015\\LocTest\\How-to-deploy-clients-to-UNIX-and-Linux-servers-in-System-Center-Configuration-Manager.md"
+  ],
+  "2d1a82a19cb536fc1fecff9a4ead9c9f08e40c53": [
+    "TerryTestConfigMGR2015\\LocTest\\How-to-deploy-clients-to-Windows-computers-in-System-Center-Configuration-Manager.md"
+  ],
+  "713749381fdcfbfb761ad528dc477b8874b11733": [
+    "TerryTestConfigMGR2015\\LocTest\\How-to-extend-hardware-inventory-in-System-Center-Configuration-Manager.md"
+  ],
+  "b8fd8d0f1452de53fbaac0fb4bc13f31b35df999": [
+    "TerryTestConfigMGR2015\\LocTest\\How-to-manage-clients-in-System-Center-Configuration-Manager.md"
+  ],
+  "4b126a6a5129292c9cc2dae7601255cefc80cdf4": [
+    "TerryTestConfigMGR2015\\LocTest\\How-to-monitor-client-deployment-status-in-System-Center-Configuration-Manager.md"
+  ],
+  "b23baaff9e6ae36b357584430ce0a60ca181b291": [
+    "TerryTestConfigMGR2015\\LocTest\\How-to-monitor-clients-for-Mac-computers-in-System-Center-Configuration-Manager.md"
+  ],
+  "56fe6dea503d11d03a10c253d7e056eaa3ee5cba": [
+    "TerryTestConfigMGR2015\\LocTest\\How-to-report-inventory-with-On-premises-Mobile-Device-Management-in-System-Center-Configuration-Manager.md"
+  ],
+  "09611802e61776f3a8742d0ab7372584d87b12e3": [
+    "TerryTestConfigMGR2015\\LocTest\\How-to-retire-and-wipe-devices-with-On-premises-Mobile-Device-Management-in-System-Center-Configuration-Manager.md"
+  ],
+  "f54ad5c2d42ba116336163ea42b4cc96e191c936": [
+    "TerryTestConfigMGR2015\\LocTest\\How-to-set-up-resource-access-with-On-premises-Mobile-Device-Management-in-System-Center-Configuration-Manager.md"
+  ],
+  "fbe1c833f1de0b418b6857872e917442365c4a0c": [
+    "TerryTestConfigMGR2015\\LocTest\\How-to-test-client-upgrades-in-a-preproduction-collection-in-System-Center-Configuration-Manager.md"
+  ],
+  "0b79a17db6dbfb2579953a3b80f6db2261ca60eb": [
+    "TerryTestConfigMGR2015\\LocTest\\How-to-use-Resource-Explorer-to-view-hardware-inventory-in-System-Center-Configuration-Manager.md"
+  ],
+  "80287b7c5c76cc2393a18e3bd9cd8951b08a37d8": [
+    "TerryTestConfigMGR2015\\LocTest\\Hybrid-mobile-device-management--MDM--with-System-Center-Configuration-Manager-and-Microsoft-Intune.md"
+  ],
+  "399938f0f01c1225a10271779b8493c0e63d816c": [
+    "TerryTestConfigMGR2015\\LocTest\\Infrastructure-requirements-for-managing-Configuration-Manager-clients.md"
+  ],
+  "09a8068e74d689d6e628d9a990e0b461bcdb4d05": [
+    "TerryTestConfigMGR2015\\LocTest\\Installing-System-Center-Configuration-Manager-sites.md"
+  ],
+  "fb0ea55a7f3fd5801882ce3d0e276541f32d94d6": [
+    "TerryTestConfigMGR2015\\LocTest\\Introduction-to-certificate-profiles-in-System-Center-Configuration-Manager.md"
+  ],
+  "4e9118e90b111a6f71c1850bfd1e956b7894a3f0": [
+    "TerryTestConfigMGR2015\\LocTest\\Introduction-to-email-profiles-in-System-Center-Configuration-Manager.md"
+  ],
+  "c99540762a71598bb2797a67ae77aec45d8a216b": [
+    "TerryTestConfigMGR2015\\LocTest\\Introduction-to-power-management-in-System-Center-Configuration-Manager.md"
+  ],
+  "3bf7517f10a38b31250829ed602effc1971e17d3": [
+    "TerryTestConfigMGR2015\\LocTest\\Introduction-to-remote-control-in-System-Center-Configuration-Manager.md"
+  ],
+  "2be075b6f333dd1903e689997cf09d13fab48072": [
+    "TerryTestConfigMGR2015\\LocTest\\Introduction-to-reporting-in-System-Center-Configuration-Manager.md"
+  ],
+  "4a08c3851e5c6e7827f0fbf7bed27036ef480930": [
+    "TerryTestConfigMGR2015\\LocTest\\Introduction-to-System-Center-Configuration-Manager.md"
+  ],
+  "d1b005dae28ef31a93aee93bd072947cf58617a3": [
+    "TerryTestConfigMGR2015\\LocTest\\Inventory-in-System-Center-Configuration-Manager.md"
+  ],
+  "93f1f1a180d534998909442bfe3d8c92ab24b08b": [
+    "TerryTestConfigMGR2015\\LocTest\\Learn-more-about-available-updates-for-System-Center-Configuration-Manager.md"
+  ],
+  "d54dfbc21b23c92806b3686ee14c0f0870cc5d56": [
+    "TerryTestConfigMGR2015\\LocTest\\Levels-of-diagnostic-usage-data-collection-for-System-Center-Configuration-Manager.md"
+  ],
+  "bc5ea1922f22bd0646169e1f984b3c900eb9d016": [
+    "TerryTestConfigMGR2015\\LocTest\\Manage-access-to-services-in-System-Center-Configuration-Manager.md"
+  ],
+  "0dc8743cb44f61d0fe8a62d11abd761604d7bab3": [
+    "TerryTestConfigMGR2015\\LocTest\\Manage-and-protect-apps-with-System-Center-Configuration-Manager.md"
+  ],
+  "c0e0b5d2e76e7ef28cdc6aa1e95aaae7ea2f2013": [
+    "TerryTestConfigMGR2015\\LocTest\\Manage-boot-images-with-System-Center-Configuration-Manager.md"
+  ],
+  "c19e5119108dabcdfcf42b4216b6a77049da3485": [
+    "TerryTestConfigMGR2015\\LocTest\\Manage-drivers-in-System-Center-Configuration-Manager.md"
+  ],
+  "a3006683a5effec5888414df76a01afdf3d97676": [
+    "TerryTestConfigMGR2015\\LocTest\\Manage-Internet-access-using-managed-browser-policies-with-System-Center-Configuration-Manager.md"
+  ],
+  "85c1d0cff7fe3a24af6db493a3cc559e9f6fd90d": [
+    "TerryTestConfigMGR2015\\LocTest\\Manage-iOS-Activation-Lock-with-System-Center-Configuration-Manager.md"
+  ],
+  "24e7e9a9b8880ff8d3c57b42c96f8fc6f96c00f8": [
+    "TerryTestConfigMGR2015\\LocTest\\Manage-operating-system-images-with-System-Center-Configuration-Manager.md"
+  ],
+  "15fd9efb5f7e9e6e4f78a287b78a6b3910f2fbbb": [
+    "TerryTestConfigMGR2015\\LocTest\\Manage-operating-system-upgrade-packages-with-System-Center-Configuration-Manager.md"
+  ],
+  "da01e6b8c4abf74ed660ce14960b4c0f6b22ad87": [
+    "TerryTestConfigMGR2015\\LocTest\\Manage-SharePoint-Online-access-in-System-Center-Configuration-Manager.md"
+  ],
+  "da0499a432b5f504a70bc5c62e99fbdf36162732": [
+    "TerryTestConfigMGR2015\\LocTest\\Manage-software-updates-in-System-Center-Configuration-Manager.md"
+  ],
+  "3da4a26f953b0c60053ae61b208f83e1b458131d": [
+    "TerryTestConfigMGR2015\\LocTest\\Managing-mobile-devices-with-Configuration-Manager-and-Office-365.md"
+  ],
+  "4e84ed934607f5eb9a770f47fd96ca8dfd17b873": [
+    "TerryTestConfigMGR2015\\LocTest\\MICROSOFT-SYSTEM-CENTER-CONFIGURATION-MANAGER-EVALUATION.md"
+  ],
+  "cd2d286a321dcfc4a4c5ab31fac189c80c9a0abd": [
+    "TerryTestConfigMGR2015\\LocTest\\MICROSOFT-SYSTEM-CENTER-CONFIGURATION-MANAGER-SUPPLEMENTAL-PLACEHOLDER-EULA.md"
+  ],
+  "b1255676403c5cbf7d51a2573fdb27e44da8c4e2": [
+    "TerryTestConfigMGR2015\\LocTest\\MICROSOFT-SYSTEM-CENTER-ENDPOINT-PROTECTION-SUPPLEMENTAL-PLACEHOLDER-EULA.md"
+  ],
+  "30e9683469923cad6dc3b88e14f457494bad68bd": [
+    "TerryTestConfigMGR2015\\LocTest\\Monitor-applications-with-System-Center-Configuration-Manager.md"
+  ],
+  "8932f08eaf3946235f4181aa93c49d58ad9f8e69": [
+    "TerryTestConfigMGR2015\\LocTest\\Operations-and-maintenance-for-certificate-profiles-in-System-Center-Configuration-Manager.md"
+  ],
+  "c6fa57626263c81d1ac63d2ba53a2f701be89674": [
+    "TerryTestConfigMGR2015\\LocTest\\Operations-and-maintenance-for-email-profiles-in-System-Center-Configuration-Manager.md"
+  ],
+  "eaba0f7ce9a3ca00d1a098f7ef3a2cf92d9829fe": [
+    "TerryTestConfigMGR2015\\LocTest\\Operations-and-maintenance-for-Endpoint-Protection-in-System-Center-Configuration-Manager.md"
+  ],
+  "e50fd0c490607e709c5d59b39fe63bc206cd89d7": [
+    "TerryTestConfigMGR2015\\LocTest\\Operations-and-maintenance-for-hardware-inventory-in-System-Center-Configuration-Manager.md"
+  ],
+  "be936bd4593fdb9351879863ddaf8a477106383d": [
+    "TerryTestConfigMGR2015\\LocTest\\Operations-and-maintenance-for-power-management-in-System-Center-Configuration-Manager.md"
+  ],
+  "355a4a2a6bbff25b633040588bee3a252284df39": [
+    "TerryTestConfigMGR2015\\LocTest\\Operations-and-maintenance-for-queries-in-System-Center-Configuration-Manager.md"
+  ],
+  "954218cb1a1378e50c0eaa9d900302af3379cf0b": [
+    "TerryTestConfigMGR2015\\LocTest\\Operations-and-maintenance-for-remote-control-in-System-Center-Configuration-Manager.md"
+  ],
+  "ff6e648d97842f3cce5a33a38c5ed2f6df168e7b": [
+    "TerryTestConfigMGR2015\\LocTest\\Operations-and-maintenance-for-software-inventory-in-System-Center-Configuration-Manager.md"
+  ],
+  "545fa9a76bf10f68cd9c2eb62cb8823673783dc2": [
+    "TerryTestConfigMGR2015\\LocTest\\Operations-and-maintenance-for-VPN-profiles-in-System-Center-Configuration-Manager.md"
+  ],
+  "e823eb8749ec85da2302ed2f158b2890a1ebdba0": [
+    "TerryTestConfigMGR2015\\LocTest\\Packages-and-programs-in-System-Center-Configuration-Manager.md"
+  ],
+  "d7464afe1e0a815febf85779546fe1dca165a069": [
+    "TerryTestConfigMGR2015\\LocTest\\Plan-for-and-configure-application-management-in-System-Center-Configuration-Manager.md"
+  ],
+  "f03d736df600b6a4ff5afe491c2e54bde1fdb68b": [
+    "TerryTestConfigMGR2015\\LocTest\\Plan-for-managing-Internet-based-clients-in-System-Center-Configuration-Manager.md"
+  ],
+  "34dd6d3aece9f0f3305c06e4b56c0c80da4505b8": [
+    "TerryTestConfigMGR2015\\LocTest\\Plan-for-On-premises-Mobile-Device-Management-in-System-Center-Configuration-Manager.md"
+  ],
+  "3072d8e0065399543d95b5647592006a079de783": [
+    "TerryTestConfigMGR2015\\LocTest\\Plan-for-operating-system-deployment-in-System-Center-Configuration-Manager.md"
+  ],
+  "7d178afdaf2a685cca30a8a96d1731cd88492b2b": [
+    "TerryTestConfigMGR2015\\LocTest\\Plan-for-site-system-servers-and-site-system-roles-for-System-Center-Configuration-Manager.md"
+  ],
+  "366779ef4ec374779910f8b5eab0555f2dd28617": [
+    "TerryTestConfigMGR2015\\LocTest\\Planning-considerations-for-deploying-clients-in-System-Center-Configuration-Manager.md"
+  ],
+  "82e73cdbb7864e8de7ea207a757033caa3496d9f": [
+    "TerryTestConfigMGR2015\\LocTest\\Planning-for-certificate-profiles-in-System-Center-Configuration-Manager.md"
+  ],
+  "b025b85b9feba74818db1bd0e45873c3e5d9b056": [
+    "TerryTestConfigMGR2015\\LocTest\\Planning-for-client-deployment-to-Linux-and-UNIX-computers-in-System-Center-Configuration-Manager.md"
+  ],
+  "7533c59b35a5ced82173edc9ac186c7a1947ac25": [
+    "TerryTestConfigMGR2015\\LocTest\\Planning-for-collections-in-System-Center-Configuration-Manager.md"
+  ],
+  "86c6276fc36f96e593f5347d28d9388c186d1161": [
+    "TerryTestConfigMGR2015\\LocTest\\Planning-for-Endpoint-Protection-in-System-Center-Configuration-Manager.md"
+  ],
+  "9dab4fbc638fb58da736f6fd8e3802b7ab91b89f": [
+    "TerryTestConfigMGR2015\\LocTest\\Planning-for-hardware-inventory-in-System-Center-Configuration-Manager.md"
+  ],
+  "31abf9bc541cea429e468c84e676b19441b1928b": [
+    "TerryTestConfigMGR2015\\LocTest\\Planning-for-power-management-in-System-Center-Configuration-Manager.md"
+  ],
+  "6050a65264b8c0947b93a7801771b661f5b3fdb7": [
+    "TerryTestConfigMGR2015\\LocTest\\Planning-for-remote-control-in-System-Center-Configuration-Manager.md"
+  ],
+  "d517874690d1b62eec6a2d25b451fb5cc6c993ab": [
+    "TerryTestConfigMGR2015\\LocTest\\Planning-for-software-inventory-in-System-Center-Configuration-Manager.md"
+  ],
+  "f6b9c3b32970b376990746d77efa723bc5d106ad": [
+    "TerryTestConfigMGR2015\\LocTest\\Power-management-technical-reference-for-System-Center-Configuration-Manager.md"
+  ],
+  "50bb01e43d7e0ccb08dda797c5266c7043d1a4e9": [
+    "TerryTestConfigMGR2015\\LocTest\\Prepare-for-operating-system-deployment-in-System-Center-Configuration-Manager.md"
+  ],
+  "d00dc3716545a3a768ce625d7d55f927702c658c": [
+    "TerryTestConfigMGR2015\\LocTest\\Prepare-for-unknown-computer-deployments-in-System-Center-Configuration-Manager.md"
+  ],
+  "39384f93762795197c5d6d6ab0db48e71d51e721": [
+    "TerryTestConfigMGR2015\\LocTest\\Prerequisites-for-certificate-profiles-in-System-Center-Configuration-Manager.md"
+  ],
+  "e2508096036bb2720c9b1133535d3c8aaf6d3a95": [
+    "TerryTestConfigMGR2015\\LocTest\\Prerequisites-for-deploying-clients-to-Windows-computers-in-System-Center-Configuration-Manager.md"
+  ],
+  "20660f70fc04736fc79fa19332b6ce2d6a4d666b": [
+    "TerryTestConfigMGR2015\\LocTest\\Prerequisites-for-hardware-inventory-in-System-Center-Configuration-Manager.md"
+  ],
+  "7bf4276133e15ae2e53cd6b7da13a3ef06ff4bb3": [
+    "TerryTestConfigMGR2015\\LocTest\\Prerequisites-for-migration-in-System-Center-Configuration-Manager.md"
+  ],
+  "df960a0ef3d46f7f1fa00f4501b5dffd418433f8": [
+    "TerryTestConfigMGR2015\\LocTest\\Prerequisites-for-power-management-in-System-Center-Configuration-Manager.md"
+  ],
+  "9961bbb066cb3a34147a30d794c10169d12710d7": [
+    "TerryTestConfigMGR2015\\LocTest\\Prerequisites-for-software-inventory-in-System-Center-Configuration-Manager.md"
+  ],
+  "6046dec127c264fb7afca9bfcaa8c69f8ca75b1f": [
+    "TerryTestConfigMGR2015\\LocTest\\Prerequisites-for-VPN-profiles-in-System-Center-Configuration-Manager.md"
+  ],
+  "2035553efd2b8a4c4db9337784d78f940d3bf0ac": [
+    "TerryTestConfigMGR2015\\LocTest\\Prerequisites-for-Wi-Fi-Profiles-in-System-Center-Configuration-Manager.md"
+  ],
+  "8ca78eaf317a6689b75248e454fc3b23f9a7f37b": [
+    "TerryTestConfigMGR2015\\LocTest\\Protect-apps-using-mobile-application-management-policies-in-System-Center-Configuration-Manager.md"
+  ],
+  "24447127f857834a5680ce628267a7bac7384031": [
+    "TerryTestConfigMGR2015\\LocTest\\Proxy-server-support-in-System-Center-Configuration-Manager.md"
+  ],
+  "4077d1c9250afd5879a56ac49aa47cc513e794dd": [
+    "TerryTestConfigMGR2015\\LocTest\\Queries-technical-reference-for-System-Center-Configuration-Manager.md"
+  ],
+  "81f1ac854c0ff93481917ecbabdeb875484f156a": [
+    "TerryTestConfigMGR2015\\LocTest\\Recommended-hardware-for-System-Center-Configuration-Manager.md"
+  ],
+  "cc3054c121075e500ee0f06a0198aba2ca82e19c": [
+    "TerryTestConfigMGR2015\\LocTest\\Reference-for-maintenance-tasks-for-System-Center-Configuration-Manager.md"
+  ],
+  "55bc61c1f5bc966a94e53bf7a6fab4cce5c4136d": [
+    "TerryTestConfigMGR2015\\LocTest\\Remote-control-technical-reference-for-System-Center-Configuration-Manager.md"
+  ],
+  "f156d0daa1e28ab18ae1a79172df7618d6795aef": [
+    "TerryTestConfigMGR2015\\LocTest\\Removed-and-deprecated-features-for-System-Center-Configuration-Manager.md"
+  ],
+  "43bc4e19b5de664a1d76ad3d038bc59c7ebc82a6": [
+    "TerryTestConfigMGR2015\\LocTest\\Reporting-in-System-Center-Configuration-Manager.md"
+  ],
+  "089ac1d1203093a4b52aa73f516b77cd5a35b3d9": [
+    "TerryTestConfigMGR2015\\LocTest\\Scenarios-to-deploy-enterprise-operating-systems-with-System-Center-Configuration-Manager.md"
+  ],
+  "0334f3abf2c081a8c362e4a04e79d1d88c8f9f9f": [
+    "TerryTestConfigMGR2015\\LocTest\\Security-and-privacy-for-certificate-profiles-in-System-Center-Configuration-Manager.md"
+  ],
+  "868784378bfa29a3a3cd8b95c59d387c4ea800d8": [
+    "TerryTestConfigMGR2015\\LocTest\\Security-and-privacy-for-clients-in-System-Center-Configuration-Manager.md"
+  ],
+  "7e92f6ccce96d4a5ebe2a4008c0bb41d39ef64d4": [
+    "TerryTestConfigMGR2015\\LocTest\\Security-and-privacy-for-content-management-for-System-Center-Configuration-Manager.md"
+  ],
+  "e8c054d818f7f16fc2c416de35ee268e19ca669f": [
+    "TerryTestConfigMGR2015\\LocTest\\Security-and-privacy-for-email-profiles-in-System-Center-Configuration-Manager.md"
+  ],
+  "48b050ec90d555f5d95e5e75ca226b95412860c9": [
+    "TerryTestConfigMGR2015\\LocTest\\Security-and-privacy-for-hardware-inventory-in-System-Center-Configuration-Manager.md"
+  ],
+  "497f979dcdb9d0b17dc1e54095efc39e5a443da9": [
+    "TerryTestConfigMGR2015\\LocTest\\Security-and-privacy-for-operating-system-deployment-in-System-Center-Configuration-Manager.md"
+  ],
+  "5fbc641210e1ea3f45f1634662dece45eee5b5ed": [
+    "TerryTestConfigMGR2015\\LocTest\\Security-and-privacy-for-reporting-in-System-Center-Configuration-Manager.md"
+  ],
+  "9daa87cb0890eca22a5742131930fd66d230502c": [
+    "TerryTestConfigMGR2015\\LocTest\\Security-and-privacy-for-site-administration-in-System-Center-Configuration-Manager.md"
+  ],
+  "f92524f1dbb8b8d81a4a26838ab7ea7cb8d3f9a8": [
+    "TerryTestConfigMGR2015\\LocTest\\Security-and-privacy-for-VPN-profiles-in-System-Center-Configuration-Manager.md"
+  ],
+  "4d1bad398b4dd7063a76d4c90ec2eecaf57e23c5": [
+    "TerryTestConfigMGR2015\\LocTest\\Set-up-Android-hybrid-device-management-with-System-Center-Configuration-Manager-and-Microsoft-Intune.md"
+  ],
+  "70f8d47aeb4faa6ab5f0b3e3543f19babe614b15": [
+    "TerryTestConfigMGR2015\\LocTest\\Set-up-certificates-for-trusted-communications-for-On-premises-Mobile-Device-Management-in-System-Center-Configuration-Manager.md"
+  ],
+  "5b2db8b41b7c61774d2e6b6c393d69f1f9d09c35": [
+    "TerryTestConfigMGR2015\\LocTest\\Set-up-device-enrollment-for-On-premises-Mobile-Device-Management-in-System-Center-Configuration-Manager.md"
+  ],
+  "4cebd511c376ae51d1b2c54c1006693083220269": [
+    "TerryTestConfigMGR2015\\LocTest\\Set-up-iOS-hybrid-device-management-with-System-Center-Configuration-Manager-and-Microsoft-Intune.md"
+  ],
+  "67524cc81c1ba2f292f8906ad03d90bf4c51d2d9": [
+    "TerryTestConfigMGR2015\\LocTest\\Set-up-Windows-hybrid-device-management-with-System-Center-Configuration-Manager-and-Microsoft-Intune.md"
+  ],
+  "925350989716e301b3e0886421117dfd77fb466c": [
+    "TerryTestConfigMGR2015\\LocTest\\Set-up-Windows-Phone-and-Windows-10-Mobile-hybrid-device-management-with-System-Center-Configuration-Manager-and-Microsoft-Intune.md"
+  ],
+  "cbaa0815aaef4a5522c7f4bcea80fd138fdd549a": [
+    "TerryTestConfigMGR2015\\LocTest\\Site-and-hierarchy-infrastructure-technical-reference-for-System-Center-Configuration-Manager.md"
+  ],
+  "a60b9fe229380b10852a58b7ee455f79da75fd0a": [
+    "TerryTestConfigMGR2015\\LocTest\\Site-installation-technical-reference-for-System-Center-Configuration-Manager.md"
+  ],
+  "6364acb7f8dff8c07c23cd66bd8e6f6cfb9212d5": [
+    "TerryTestConfigMGR2015\\LocTest\\Software-inventory-in-System-Center-Configuration-Manager.md"
+  ],
+  "c6179a7e9c4759ba4f25c5ceb110cebf17fe4bdc": [
+    "TerryTestConfigMGR2015\\LocTest\\Software-updates-technical-reference-for-System-Center-Configuration-Manager.md"
+  ],
+  "1806ec8084c029b08132db519391f530c4ec7561": [
+    "TerryTestConfigMGR2015\\LocTest\\Step-by-step-example-deployment-of-the-PKI-certificates-for-System-Center-Configuration-Manager--Windows-Server-2008-Certification-Authority.md"
+  ],
+  "f16392156f622ad64b8ff001dc7b88c60bd934cc": [
+    "TerryTestConfigMGR2015\\LocTest\\Supported-operating-systems-for-System-Center-Configuration-Manager--site-system-servers.md"
+  ],
+  "d86bd31d68d0898ff306036a8fe1187f158e4f51": [
+    "TerryTestConfigMGR2015\\LocTest\\Task-sequence-built-in-variables-in-System-Center-Configuration-Manager.md"
+  ],
+  "ed309e13e0bdc2c42036c46f5a99a6954ff44e9e": [
+    "TerryTestConfigMGR2015\\LocTest\\Technical-reference-for-Asset-Intelligence-in-System-Center-Configuration-Manager.md"
+  ],
+  "83550bc1038df14d3ebddf88c73d1a8530e28708": [
+    "TerryTestConfigMGR2015\\LocTest\\Technical-reference-for-remote-control-in-System-Center-Configuration-Manager.md"
+  ],
+  "790f6a4fdd80af00ec8bcba6e12eb5fe44d7f49e": [
+    "TerryTestConfigMGR2015\\LocTest\\Technical-reference-for-reporting-in-System-Center-Configuration-Manager.md"
+  ],
+  "ec16413e9ecfbc28ff7e35e5ecc891673101e884": [
+    "TerryTestConfigMGR2015\\LocTest\\The-CD.Latest-folder-for-System-Center-Configuration-Manager.md"
+  ],
+  "1b7772e9260b9dd61af7c27672958cf411773c90": [
+    "TerryTestConfigMGR2015\\LocTest\\Upgrade-clients-in-System-Center-Configuration-Manager.md"
+  ],
+  "37a3b355f691cba3ca3a1588218b2394f3098c45": [
+    "TerryTestConfigMGR2015\\LocTest\\Upgrade-to-System-Center-Configuration-Manager.md"
+  ],
+  "9294ced751f2c756fd31fa9fb39730fc60a77416": [
+    "TerryTestConfigMGR2015\\LocTest\\Use-a-cloud-based-distribution-point-with-System-Center-Configuration-Manager.md"
+  ],
+  "1cfe0fb0393dc3bb1ed52f76a8e1341f2e389be6": [
+    "TerryTestConfigMGR2015\\LocTest\\Use-Software-Center-to-deploy-Windows-over-the-network-with-System-Center-Configuration-Manager.md"
+  ],
+  "4e4c95d121ae560fb1482bd182911f7375a074c2": [
+    "TerryTestConfigMGR2015\\LocTest\\Use-the-Service-Connection-Tool-for-System-Center-Configuration-Manager.md"
+  ],
+  "c3afb484dd671bd73fd55d36db2c1a4507974447": [
+    "TerryTestConfigMGR2015\\LocTest\\Websites-for-site-system-servers-in-System-Center-Configuration-Manager.md"
+  ],
+  "846f06d8b1f543f1e9a9324bf173888af0af6a50": [
+    "TerryTestConfigMGR2015\\LocTest\\What-s-changed-in-System-Center-Configuration-Manager-from-System-Center-2012-Configuration-Manager.md"
+  ],
+  "893fdf69b4cd5f1d5c61a85c5aada643705a1edb": [
+    "TerryTestConfigMGR2015\\LocTest\\Windows-Hello-for-Business-settings-in-System-Center-Configuration-Manager.md"
+  ],
+  "83273e650547d4fb30b476610918eb2810e4fa64": [
+    "TerryTestConfigMGR2015\\LocTest\\Working-with-remote-connection-profiles-in-System-Center-Configuration-Manager.md"
+  ]
+}

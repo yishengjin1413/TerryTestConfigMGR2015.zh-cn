@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 3986a992-c175-4b6f-922e-fc561e3d7cb7
 caps.latest.revision: 17
 caps.handback.revision: 17
+translationtype: Human Translation
 ---
 # 如何在 System Center Configuration Manager 中管理客户端
 安装了 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 客户端并将其成功分配到 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 站点后，你将在“资产和符合性”  工作区的“设备”  节点中看到设备，并在“设备集合”  节点中看到一个或多个集合。 在选择设备或包含设备的集合时，你可以选择各种管理操作。 但是，也可以使用其他方式来管理客户端，其中可能涉及控制台中的其他工作区或不使用 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 控制台的任务。  

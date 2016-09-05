@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: aba688d9-fd5b-4c42-8cb4-f7e1b161ef50
 caps.latest.revision: 8
 caps.handback.revision: 7
+translationtype: Human Translation
 ---
 # 使用 System Center Configuration Manager 和 Exchange 管理移动设备
 当你希望使用 Microsoft Exchange ActiveSync 协议管理连接到 Exchange Server（本地或联机）的移动设备，并且无法使用 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 注册这些设备时，请使用 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 中的 Exchange Server 连接器。 你可从 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 控制台配置 Exchange 移动设备管理功能，例如远程设备擦除和针对多个 Exchange 服务器的设置控制。  

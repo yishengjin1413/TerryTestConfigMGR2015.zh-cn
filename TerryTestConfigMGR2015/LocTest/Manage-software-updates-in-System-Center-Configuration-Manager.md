@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 70f66926-c067-404d-94f1-3ad1309566a6
 caps.latest.revision: 17
 caps.handback.revision: 17
+translationtype: Human Translation
 ---
 # 在 System Center Configuration Manager 中管理软件更新
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的软件更新的总体过程包括四个主要操作阶段：同步、符合性评估、部署和监视。 同步阶段是指将软件更新元数据与 Microsoft 更新同步并将其插入到站点服务器数据库中的过程。 符合性评估阶段是指客户端计算机执行扫描以了解软件更新符合性并报告软件更新符合性状态的过程。 部署阶段是指将软件更新手动或自动部署到客户端的过程。 最后，监视阶段是指对软件更新部署符合性进行跟踪监视的过程。  
@@ -148,7 +149,7 @@ caps.handback.revision: 17
   
      单击“下一步” 。  
   
-5.  在“分发点”页上，指定将承载软件更新文件的分发点或分发点组，然后单击“下一步” 。 有关分发点的详细信息，请参阅[分发点配置](../Topic/Install%20and%20configure%20distribution%20points%20for%20System%20Center%20Configuration%20Manager.md#bkmk_configs)。  
+5.  在“分发点”页上，指定将承载软件更新文件的分发点或分发点组，然后单击“下一步” 。 有关分发点的详细信息，请参阅[分发点配置](../LocTest\Install-and-configure-distribution-points-for-System-Center-Configuration-Manager.md#bkmk_configs)。  
   
     > [!NOTE]  
     >  只有当你在创建新软件更新部署包时才能使用“分发点”页。  
@@ -167,7 +168,7 @@ caps.handback.revision: 17
   
         -   “手动将此包中的内容复制到分发点”：使用此设置以始终在分发点上预留内容。 此为默认设置。  
   
-         有关将内容预留到分发点的详细信息，请参阅[使用预留内容](../Topic/Deploy%20and%20manage%20content%20for%20System%20Center%20Configuration%20Manager.md#bkmk_prestage)。  
+         有关将内容预留到分发点的详细信息，请参阅[使用预留内容](../LocTest\Deploy-and-manage-content-for-System-Center-Configuration-Manager.md#bkmk_prestage)。  
   
      单击“下一步” 。  
   
@@ -425,7 +426,7 @@ caps.handback.revision: 17
   
         -   “手动将此包中的内容复制到分发点”：使用此设置以始终在分发点上预留内容。 此为默认设置。  
   
-         有关将内容预留到分发点的详细信息，请参阅[使用预留内容](../Topic/Deploy%20and%20manage%20content%20for%20System%20Center%20Configuration%20Manager.md#bkmk_prestage)。  
+         有关将内容预留到分发点的详细信息，请参阅[使用预留内容](../LocTest\Deploy-and-manage-content-for-System-Center-Configuration-Manager.md#bkmk_prestage)。  
   
      单击“下一步” 。  
   
@@ -586,7 +587,7 @@ caps.handback.revision: 17
   
     4.  “发送优先级”：指定部署包的发送优先级。 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 在将包发送到分发点时将使用部署包的发送优先级。 部署包按优先级顺序发送：高、中或低。 具有相同优先级的包按照其创建顺序发送。 如果没有囤积，则将立即处理包，而不考虑其优先级。  
   
-13. 在“分发点”页上，指定将承载软件更新文件的分发点或分发点组。 有关分发点的详细信息，请参阅[分发点配置](../Topic/Install%20and%20configure%20distribution%20points%20for%20System%20Center%20Configuration%20Manager.md#bkmk_configs)。  
+13. 在“分发点”页上，指定将承载软件更新文件的分发点或分发点组。 有关分发点的详细信息，请参阅[分发点配置](../LocTest\Install-and-configure-distribution-points-for-System-Center-Configuration-Manager.md#bkmk_configs)。  
   
 14. 在“下载位置”页上，指定是从 Internet 中还是从本地网络中下载软件更新文件。 配置下列设置：  
   
@@ -784,7 +785,7 @@ caps.handback.revision: 17
   
     4.  “发送优先级”：指定部署包的发送优先级。 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 在将包发送到分发点时将使用部署包的发送优先级。 部署包按优先级顺序发送：高、中或低。 具有相同优先级的包按照其创建顺序发送。 如果没有囤积，则将立即处理包，而不考虑其优先级。  
   
-13. 在“分发点”页上，指定将承载软件更新文件的分发点或分发点组。 有关分发点的详细信息，请参阅[分发点配置](../Topic/Install%20and%20configure%20distribution%20points%20for%20System%20Center%20Configuration%20Manager.md#bkmk_configs)。  
+13. 在“分发点”页上，指定将承载软件更新文件的分发点或分发点组。 有关分发点的详细信息，请参阅[分发点配置](../LocTest\Install-and-configure-distribution-points-for-System-Center-Configuration-Manager.md#bkmk_configs)。  
   
     > [!NOTE]  
     >  只有当你在创建新的软件更新部署包时才能使用本页。  

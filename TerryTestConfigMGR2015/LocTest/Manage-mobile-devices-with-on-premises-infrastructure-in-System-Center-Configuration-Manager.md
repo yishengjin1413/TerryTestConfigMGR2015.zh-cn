@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 497c05c7-fe9f-4b88-983b-1c5b3d59308e
 caps.latest.revision: 8
 caps.handback.revision: 3
+translationtype: Human Translation
 ---
 # 在 System Center Configuration Manager 中使用本地基础结构管理移动设备
 [!INCLUDE[onprem_first](../LocTest/includes/onprem_first_md.md)] 是一个设备管理解决方案，它在使用企业的 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 基础结构管理和维护设备时，（基于开放移动联盟设备管理或 OMA DM 标准）需要依赖设备操作系统的内置管理功能。 这不同于 [!INCLUDE[mit_first](../LocTest/includes/mit_first_md.md)]，后者还依赖于内置的 OMA DM 功能，但所有管理功能都通过云服务提供。[!INCLUDE[onprem_next](../LocTest/includes/onprem_next_md.md)] 也不同于基于客户端的管理解决方案（过去由 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 提供），因为它依赖类似于企业的基础结构而不是使用其管理的计算机和设备上独立安装的客户端软件。  

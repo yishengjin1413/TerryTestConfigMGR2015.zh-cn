@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: ef1c1973-9bc2-4ba7-bd34-bb8145824cac
 caps.latest.revision: 7
 caps.handback.revision: 6
+translationtype: Human Translation
 ---
 # 使用 System Center Configuration Manager 管理计算机客户端
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 可以管理已安装 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 客户端软件的计算机和服务器。 管理包括诸如报告硬件和软件清单信息、安装软件以及配置符合性所需的设置等操作。[!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 提供了一些发现方法，你可以使用这些方法查找网络上的计算机，以帮助你在这些计算机上安装客户端软件，并对其进行监视、管理和更新。  

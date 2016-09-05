@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 230be984-d2cd-4d53-bd7a-bc24dd93fc22
 caps.latest.revision: 7
 caps.handback.revision: 7
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中的报表简介
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的报表提供了一套工具和资源，可帮助你使用 SQL Server Reporting Services (SSRS) 的高级报表功能和 Reporting Services 报表生成器提供的丰富创作体验。 报表可帮助你收集、整理和显示有关用户、硬件和软件清单、软件更新、应用程序、站点状态以及组织中其他 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 操作的信息。 “报表”为你提供了许多预定义的报表，你可以使用这些报表而不用做任何更改，或者可以进行修改以满足你的需求，并且，你可以创建自定义报表。  

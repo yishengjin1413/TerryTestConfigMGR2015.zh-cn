@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: a2275ba2-c83d-43e7-90ed-418963a707fe
 caps.latest.revision: 6
 caps.handback.revision: 5
+translationtype: Human Translation
 ---
 # 如何在 System Center Configuration Manager 中配置客户端状态
 在可以监视 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 客户端状态和修正所发现的问题之前，必须配置站点，以指定用于将客户端标记为不活动的参数，以及配置选项以便在客户端的活动程度低于指定的阈值时向你发出警报。 还可以禁止计算机自动修正客户端状态发现的任何问题。  

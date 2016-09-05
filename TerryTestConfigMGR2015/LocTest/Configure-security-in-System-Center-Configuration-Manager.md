@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 552e7e3d-e584-4a7c-9155-0f796a14b678
 caps.latest.revision: 5
 caps.handback.revision: 4
+translationtype: Human Translation
 ---
 # 配置 System Center Configuration Manager 中的安全性
 使用本主题中的信息来帮助你为 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 配置以下安全相关选项：  

@@ -15,6 +15,7 @@ ms.assetid: 272ee86b-d3d9-4fd9-b5c4-73e490e1a1e4
 caps.latest.revision: 6
 caps.handback.revision: 3
 author: barlanmsft
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中的远程控制的安全和隐私
 本主题包含 [!INCLUDE[cm5short](../LocTest/includes/cm5short_md.md)] 中的远程控制的安全和隐私信息。  

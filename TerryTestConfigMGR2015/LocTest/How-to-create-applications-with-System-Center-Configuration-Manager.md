@@ -15,6 +15,7 @@ ms.assetid: cc230ff4-7056-4339-a0a6-6a44cdbb2857
 caps.latest.revision: 14
 caps.handback.revision: 12
 author: barlanmsft
+translationtype: Human Translation
 ---
 # 如何使用 System Center Configuration Manager 创建应用程序
 <?xml version="1.0" encoding="UTF-8"?>

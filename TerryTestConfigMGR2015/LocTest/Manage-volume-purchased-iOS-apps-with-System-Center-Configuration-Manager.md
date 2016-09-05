@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: b5e7cead-e257-405b-a2aa-b0130e48dc40
 caps.latest.revision: 23
 caps.handback.revision: 5
+translationtype: Human Translation
 ---
 # 使用 Configuration Manager 管理通过批量采购计划购买的应用
 一些应用商店使你能够为你想在公司中运行的应用购买多个许可证。 这有助于降低跟踪多个已购买应用副本的管理成本。  

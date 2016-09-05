@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 54dd2e8e-66f3-4a10-987a-ed7dde4d32f6
 caps.latest.revision: 3
 caps.handback.revision: 3
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 的客户端部署任务
 你可以使用许多其他方法（具体可根据需要进行选择）将 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 客户端部署到你组织中的 PC、服务器和其他设备。 以下页面中的信息详细说明了有关如何将 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 客户端部署到各类目标平台的方法。  

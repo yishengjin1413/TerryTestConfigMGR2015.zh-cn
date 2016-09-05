@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 29ae59b7-2695-4a0f-a9ff-4f29222f28b3
 caps.latest.revision: 7
 caps.handback.revision: 7
+translationtype: Human Translation
 ---
 # 在 System Center Configuration Manager 中配置证书配置文件
 你必须执行本主题描述的配置步骤，然后才能使用 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 在设备上以及为用户注册证书。  

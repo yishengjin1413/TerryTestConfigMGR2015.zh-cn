@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: d827cf91-b18f-4ee7-b538-24ba6f003ab9
 caps.latest.revision: 6
 caps.handback.revision: 5
+translationtype: Human Translation
 ---
 # 如何在 System Center Configuration Manager 中监视 Linux 和 UNIX 服务器的客户端
 可以使用查看基于 Windows 的客户端的信息的相同方法在 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 控制台中查看来自于 Linux 和 UNIX 服务器的信息。  

@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: a7d3df90-062d-4d57-9e9d-e137d3e7cd7f
 caps.latest.revision: 8
 caps.handback.revision: 8
+translationtype: Human Translation
 ---
 # 使用 System Center Configuration Manager 为工厂中的 OEM 或本地 depot 创建映像
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的预留媒体部署允许将操作系统部署到未完全设置的计算机。 预留媒体是 Windows 映像格式 (WIM) 文件，可以由制造商 (OEM) 安装在裸机上，也可以安装在未连接到 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 环境的企业暂存中心。 之后在 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 环境中，计算机使用媒体提供的启动映像启动，预留媒体上会运行哈希检查以确保其有效性，然后计算机连接到站点管理点以执行完成下载过程可用的任务序列。 

@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: f5ad22d5-7df1-49c6-8a0f-db1c3f0cda19
 caps.latest.revision: 8
 caps.handback.revision: 7
+translationtype: Human Translation
 ---
 # 使用 System Center Configuration Manager 在新计算机（裸机）上安装新版本的 Windows
 本主题提供了 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中在新计算机上安装操作系统的常规步骤。 对于此方案，可以从许多不同的部署方法中选择，如 PXE、OEM、或独立媒体。 如果你不确定这是正确的操作系统部署方案，请参阅 [使用 System Center Configuration Manager 部署企业版操作系统的方案](../LocTest/Scenarios-to-deploy-enterprise-operating-systems-with-System-Center-Configuration-Manager.md)。  

@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: a7975dc8-46ab-4dae-86b6-dc3e3cf3b2f0
 caps.latest.revision: 19
 caps.handback.revision: 18
+translationtype: Human Translation
 ---
 # 修改你的 System Center Configuration Manager 基础结构
 安装一个或多个站点后，你可能需要修改配置，或采取会影响你部署的基础结构的操作。  

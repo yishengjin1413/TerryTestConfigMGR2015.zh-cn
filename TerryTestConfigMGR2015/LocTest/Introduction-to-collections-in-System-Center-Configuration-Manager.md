@@ -15,6 +15,7 @@ ms.assetid: d17e1188-d277-438f-9236-db9cd213b421
 caps.latest.revision: 8
 caps.handback.revision: 4
 author: barlanmsft
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中的集合简介
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的集合使你可以将资源组织到可管理的单元，然后进一步能够使你创建组织结构，在逻辑上表示要执行的任务类型。 集合还用于一次在多个资源执行 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 操作。 下表显示了如何使用 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 中的集合的示例：  

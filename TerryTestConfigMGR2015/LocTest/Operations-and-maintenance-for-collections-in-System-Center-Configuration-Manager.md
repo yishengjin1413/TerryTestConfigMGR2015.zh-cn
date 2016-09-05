@@ -15,6 +15,7 @@ ms.assetid: 839c7aef-4863-439b-8e56-9b5d4c3d9ac4
 caps.latest.revision: 6
 caps.handback.revision: 4
 author: barlanmsft
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中集合的操作和维护
 在此部分使用以下主题来帮助你在 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 层次结构中创建并管理集合。  

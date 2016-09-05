@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 07c3c6d9-f056-4c4d-bc70-ede5ca933807
 caps.latest.revision: 9
 caps.handback.revision: 9
+translationtype: Human Translation
 ---
 # 将用户与 System Center Configuration Manager 中的目标计算机关联
 使用 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 部署操作系统时，你可以将用户与在其中部署操作系统的目标计算机关联。 此配置操作包括以下各项：  

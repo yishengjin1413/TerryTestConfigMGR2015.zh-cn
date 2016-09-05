@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 1ef60106-8f31-46d6-95a6-25a6495f22c7
 caps.latest.revision: 4
 caps.handback.revision: 3
+translationtype: Human Translation
 ---
 # 用于 System Center Configuration Manager 中本地移动设备管理的准备步骤
 使用 [!INCLUDE[onprem_first](../LocTest/includes/onprem_first_md.md)] 管理设备需要设置 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 基础结构，以便所需的站点系统角色（注册代理点、注册点、设备管理点和分发点）可以跨整个受信任通道与要管理的移动设备进行通信。  

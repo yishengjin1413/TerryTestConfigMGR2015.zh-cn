@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: f2df88b4-c348-4dcf-854a-54fd6eedf485
 caps.latest.revision: 5
 caps.handback.revision: 4
+translationtype: Human Translation
 ---
 # 在 SQL Server Reporting Services 中的 System Center Configuration Manager 创建自定义报表模型
 示例报表模型包括在 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中，但你也可以定义报表模型来满足自己的业务需求，然后将报表模型部署到 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 以在创建基于模型的新报表时使用。 下表提供了创建和部署基本报表模型的步骤。  

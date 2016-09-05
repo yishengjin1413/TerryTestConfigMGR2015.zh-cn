@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: eab0e09d-b09e-4c14-ab14-c5f87472522e
 caps.latest.revision: 5
 caps.handback.revision: 4
+translationtype: Human Translation
 ---
 # 在 System Center Configuration Manager 中规划证书配置文件的证书模板权限
 下列信息可以帮助你规划如何为 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 在你部署证书配置文件时使用的证书模板配置权限。  

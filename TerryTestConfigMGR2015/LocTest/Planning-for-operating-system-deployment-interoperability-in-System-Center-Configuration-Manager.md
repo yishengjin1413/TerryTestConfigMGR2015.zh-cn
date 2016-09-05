@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: e327ce38-6c07-4a27-b6eb-7e5bf74ed04b
 caps.latest.revision: 10
 caps.handback.revision: 7
+translationtype: Human Translation
 ---
 # 在 System Center Configuration Manager 中规划操作系统部署互操作性
 <?xml version="1.0" encoding="utf-8"?>

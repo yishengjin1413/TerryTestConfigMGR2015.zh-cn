@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 45a10878-ff48-4318-9c6d-c014b38a4039
 caps.latest.revision: 9
 caps.handback.revision: 5
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 支持的配置
 本主题以及以下主题指定在你的环境中实施和维护 Microsoft [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 的要求。  

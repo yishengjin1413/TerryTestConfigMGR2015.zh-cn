@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: b89bcfbf-f5b6-4fb1-bb5e-a5cc18ec0c78
 caps.latest.revision: 5
 caps.handback.revision: 4
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中报告的操作和维护
 <?xml version="1.0" encoding="utf-8"?>

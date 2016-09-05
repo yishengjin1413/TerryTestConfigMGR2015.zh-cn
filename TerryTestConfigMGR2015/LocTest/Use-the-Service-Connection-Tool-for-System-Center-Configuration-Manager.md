@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 6e4964c5-43cb-4372-9a89-b62ae6a4775c
 caps.latest.revision: 11
 caps.handback.revision: 11
+translationtype: Human Translation
 ---
 # 使用适用于 System Center Configuration Manager 的服务连接工具
 当 Configuration Manager 站点系统服务器未连接到 Internet 但你仍想保持 Configuration Manager 的最新更新时，请使用**服务连接工具**。  

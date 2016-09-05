@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: ef3ab519-9cf7-47fc-8831-d400e0e96df8
 caps.latest.revision: 4
 caps.handback.revision: 3
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中 Wi-Fi 配置文件的安全和隐私
 本主题包含 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中 Wi\-Fi 配置文件的安全和隐私信息。  

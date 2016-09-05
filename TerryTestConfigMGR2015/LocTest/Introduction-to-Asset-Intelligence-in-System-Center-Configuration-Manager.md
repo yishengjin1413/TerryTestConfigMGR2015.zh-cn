@@ -15,6 +15,7 @@ ms.assetid: 0bdfdef5-390f-4099-8bde-de51d9a89175
 caps.latest.revision: 7
 caps.handback.revision: 4
 author: barlanmsft
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中的资产智能简介
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的资产智能使你可以使用资产智能目录清查和管理整个企业中的软件许可证使用情况。 许多硬件清单 Windows Management Instrumentation \(WMI\) 类扩大了收集的有关所用硬件和软件标题的信息的广度。 超过 60 个报表以易于使用的格式显示此信息。 这些报表有很多链接至更具针对性的报表，在其中可以查询常规信息和钻取至更详细的信息。 可以将自定义信息添加到资产智能目录，如自定义软件类别、软件家族、软件标签和硬件要求。 还可以连接到 System Center Online，用最新的可用信息动态更新资产智能目录。 Microsoft 客户可以通过将软件许可证信息导入 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 站点数据库中，来协调企业软件许可证与已购买并正在使用的软件许可证的使用。  

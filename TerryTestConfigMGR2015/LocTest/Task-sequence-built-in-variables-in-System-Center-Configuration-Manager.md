@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 02bc6bd4-ca53-4e22-8b80-d8ee5fe72567
 caps.latest.revision: 15
 caps.handback.revision: 15
+translationtype: Human Translation
 ---
 # ystem Center Configuration Manager 中的任务序列内置变量
 ||  

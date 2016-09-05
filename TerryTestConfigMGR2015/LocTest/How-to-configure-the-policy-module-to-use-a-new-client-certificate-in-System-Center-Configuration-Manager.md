@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 4f27b819-f43a-4dc8-847a-a81d8c880e5d
 caps.latest.revision: 4
 caps.handback.revision: 3
+translationtype: Human Translation
 ---
 # 如何配置策略模块以在 System Center Configuration Manager 中使用新客户端证书
 将 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 策略模块与网络设备注册服务角色服务一起运行的服务器使用客户端证书向 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的证书注册点站点系统服务器验证策略模块。 通常，客户端身份验证证书的有效期为一年。 在证书过期之前，请续订证书，针对新证书更新注册表，然后重启运行网络设备注册服务的 Web 服务器。  

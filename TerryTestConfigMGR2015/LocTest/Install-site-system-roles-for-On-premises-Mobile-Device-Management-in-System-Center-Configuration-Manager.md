@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: c3cf9f64-c2b9-4ace-9527-2aba6d4eef04
 caps.latest.revision: 9
 caps.handback.revision: 8
+translationtype: Human Translation
 ---
 # 在 System Center Configuration Manager 中为本地移动设备管理安装站点系统角色
 [!INCLUDE[onprem_first](../LocTest/includes/onprem_first_md.md)] 在你的 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 站点基础结构中要求以下站点系统角色：  

@@ -15,6 +15,7 @@ ms.assetid: 08f711ba-83bf-4b5f-9520-a0778c6ae7eb
 caps.latest.revision: 18
 caps.handback.revision: 18
 author: barlanmsft
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中的应用程序管理入门
 在本主题中，你将学习开始使用 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 应用程序之前需要了解的基础知识。  

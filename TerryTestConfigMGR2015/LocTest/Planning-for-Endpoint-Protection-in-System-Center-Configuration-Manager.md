@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 7610bbd3-a67f-4a09-8115-e35d40d43b42
 caps.latest.revision: 16
 caps.handback.revision: 16
+translationtype: Human Translation
 ---
 # 在 System Center Configuration Manager 中规划 Endpoint Protection
 使用本部分中的以下主题来帮助你在 [!INCLUDE[epshort](../LocTest/includes/epshort_md.md)] 中规划 [!INCLUDE[cm5short](../LocTest/includes/cm5short_md.md)]的使用。  

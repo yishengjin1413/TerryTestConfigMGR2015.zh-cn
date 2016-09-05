@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 1ecfe2c6-45bc-4d8a-a7f6-53525c958e0f
 caps.latest.revision: 7
 caps.handback.revision: 6
+translationtype: Human Translation
 ---
 # 如何在 System Center Configuration Manager 中部署证书配置文件
 若要在 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中将证书部署到用户或设备，你必须将证书配置文件部署到一个或多个用户或设备集合。  

@@ -15,6 +15,7 @@ ms.assetid: d0c6f7a0-dcae-4e6d-aa28-35d464d97ff7
 caps.latest.revision: 5
 caps.handback.revision: 4
 author: barlanmsft
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中资产智能的安全和隐私
 本主题包含 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中资产智能的安全和隐私信息。  

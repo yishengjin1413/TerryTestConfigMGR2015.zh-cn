@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: c28e3492-851a-40fc-ba13-67ebc2d8b41a
 caps.latest.revision: 6
 caps.handback.revision: 5
+translationtype: Human Translation
 ---
 # 用于迁移到 System Center Configuration Manager 的操作
 对于 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的迁移，在成功从支持的源层次结构中的源站点收集数据后，你可以开始迁移数据和客户端。 使用下列部分中的信息来创建和运行迁移作业以便迁移数据、客户端并随后完成迁移过程。  

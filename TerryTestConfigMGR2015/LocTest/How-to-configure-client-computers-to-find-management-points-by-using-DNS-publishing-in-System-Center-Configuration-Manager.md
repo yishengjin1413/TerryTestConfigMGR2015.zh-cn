@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 03cec407-0f9f-454f-a360-b005af738d29
 caps.latest.revision: 6
 caps.handback.revision: 5
+translationtype: Human Translation
 ---
 # 如何在 System Center Configuration Manager 中配置客户端计算机以使用 DNS 发布查找管理点
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的客户端必须找到管理点才能完成站点分配，并作为持续的进程一直受到管理。 Active Directory 域服务为 Intranet 上的客户端提供了找到管理点的最安全的方法。 但是，如果客户端无法使用此服务位置方法（例如，你未扩展 Active Directory 架构，或者客户端来自工作组），则使用 DNS 发布作为首选的备用服务位置方法。  

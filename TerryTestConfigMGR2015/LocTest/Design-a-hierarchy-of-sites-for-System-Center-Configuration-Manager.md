@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 07ce872e-1558-42ad-b5ad-582c5b1bdbb4
 caps.latest.revision: 22
 caps.handback.revision: 21
+translationtype: Human Translation
 ---
 # 设计 System Center Configuration Manager 的站点层次结构
 安装新的 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 层次结构的第一个站点前，应该先了解 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 的可用拓扑、站点的可用类型及其彼此之间的关系以及每个站点类型提供的管理范围。 然后，在考虑了可减少需安装的站点数的内容管理选项后，可以计划能够高效地为你的当前业务需求提供服务，并且可之后进行拓展以满足将来增长的需求的拓扑。  

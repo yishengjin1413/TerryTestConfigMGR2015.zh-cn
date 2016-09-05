@@ -16,6 +16,7 @@ applies_to:
 ms.assetid: 6e154d91-bec3-451d-8186-72f2cbbc8d82
 caps.latest.revision: 4
 caps.handback.revision: 3
+translationtype: Human Translation
 ---
 # System Center Configuration Manager
 欢迎使用 Microsoft System Center Configuration Manager。 使用 Configuration Manager 通过对服务器、桌面和移动设备启用安全和可缩放的软件部署、符合性设置管理以及综合资产管理来提供更有效的 IT 服务。  

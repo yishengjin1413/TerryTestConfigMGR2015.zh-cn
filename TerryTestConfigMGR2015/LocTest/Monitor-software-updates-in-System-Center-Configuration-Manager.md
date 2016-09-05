@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 9afd7b0f-5c8e-48bc-9a65-1f7d74103688
 caps.latest.revision: 5
 caps.handback.revision: 4
+translationtype: Human Translation
 ---
 # 在 System Center Configuration Manager 中监视软件更新
 为了帮助你监视软件更新对象、过程和符合性信息，[!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 控制台提供下列项目：  

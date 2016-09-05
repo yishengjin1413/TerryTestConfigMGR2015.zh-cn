@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: ede1f05e-051f-4ab1-9eba-f867d5bf8edc
 caps.latest.revision: 4
 caps.handback.revision: 4
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中 Endpoint Protection 的操作和维护
 使用此部分中的信息来了解有关 [!INCLUDE[cm5short](../LocTest/includes/cm5short_md.md)] 中的 [!INCLUDE[epshort](../LocTest/includes/epshort_md.md)] 的操作和维护的详细信息。  

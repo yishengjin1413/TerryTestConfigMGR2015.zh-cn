@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: c6b0ff4c-235a-4e4c-99c0-d14d202de478
 caps.latest.revision: 9
 caps.handback.revision: 8
+translationtype: Human Translation
 ---
 # 使用 System Center Configuration Manager 管理企业操作系统
 操作系统部署向 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 管理用户提供一个用于创建操作系统映像的工具，这些映像可通过使用 CD 集、DVD 或 USB 闪存驱动器等可启动媒体部署到由 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 托管的计算机以及非托管计算机。 操作系统映像为 Windows 映像格式 \(WIM\) 的格式文件，包含所需的 Windows 操作系统版本和必须安装在计算机上的任何业务线应用程序。  

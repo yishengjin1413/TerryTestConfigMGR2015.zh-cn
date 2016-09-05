@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 4db1e15f-e832-4cf9-be33-d3971e635a55
 caps.latest.revision: 6
 caps.handback.revision: 5
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 的站点和层次结构基础知识
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 部署必须安装在 Active Directory 域中，并具有一个或多个可形成站点层次结构的 Configuration Manager 站点的基础。 从单站点到多站点层次结构，安装的站点类型和位置在必要时提供扩展（扩大）部署的能力，并向托管用户和设备提供重要服务。 

@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: fae7f9e0-d5e7-422f-a6ed-6f6d73f6a617
 caps.latest.revision: 13
 caps.handback.revision: 10
+translationtype: Human Translation
 ---
 # 如何为未使用 System Center Configuration Manager 客户端管理的 Windows Phone 设备创建配置项目
 <?xml version="1.0" encoding="UTF-8"?>

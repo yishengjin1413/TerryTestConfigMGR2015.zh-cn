@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 9fcbcc81-cd6f-496e-b075-ef1afa2b8ccc
 caps.latest.revision: 6
 caps.handback.revision: 5
+translationtype: Human Translation
 ---
 # 如何在 System Center Configuration Manager 中创建用户数据和配置文件的配置项目
 使用以下过程创建、部署和监视 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 用户数据和配置文件的配置项目。  

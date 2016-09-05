@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 24fca61e-9cdb-447a-ad7a-f4d2e4fd6704
 caps.latest.revision: 10
 caps.handback.revision: 9
+translationtype: Human Translation
 ---
 # 将云服务用于 System Center Configuration Manager
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 支持多个基于云的选项，这些选项补充你的本地基础结构，还有助于解决以下业务问题，如：  

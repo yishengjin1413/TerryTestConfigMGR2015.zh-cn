@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 2299c6af-9793-485c-97c4-d844999644d7
 caps.latest.revision: 5
 caps.handback.revision: 4
+translationtype: Human Translation
 ---
 # 在 System Center Configuration Manager 中自动执行任务
 你可以创建在 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 环境内要自动执行各种任务的任务序列。 这些任务涉及从捕获引用计算机上的操作系统到向一个或多个目标计算机部署操作系统在内的各种任务。  

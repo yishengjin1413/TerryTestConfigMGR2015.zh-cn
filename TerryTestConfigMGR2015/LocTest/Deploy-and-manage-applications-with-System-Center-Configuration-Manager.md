@@ -15,6 +15,7 @@ ms.assetid: 62668e7b-b45c-433f-a8d7-435b19212fa8
 caps.latest.revision: 12
 caps.handback.revision: 11
 author: barlanmsft
+translationtype: Human Translation
 ---
 # 使用 System Center Configuration Manager 部署并管理应用程序
 很多公司使用 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 的一个主要原因是用来管理大量目前适用的应用。  

@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: dc1f70f5-64ab-42ab-aa91-d3858803e12f
 caps.latest.revision: 9
 caps.handback.revision: 9
+translationtype: Human Translation
 ---
 # Set up Windows hybrid device management with System Center Configuration Manager and Microsoft Intune
 可以结合 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 使用  [!INCLUDE[mit_next](../LocTest/includes/mit_next_md.md)] 来管理台式机、笔记本电脑和其他将 Windows 作为移动设备运行的设备。 在管理作为移动设备的 Windows 设备之前，必须启用针对这些操作系统的移动设备注册。  

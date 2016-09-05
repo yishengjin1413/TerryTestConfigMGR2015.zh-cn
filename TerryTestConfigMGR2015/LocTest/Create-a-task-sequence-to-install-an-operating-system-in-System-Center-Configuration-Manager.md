@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 217c8a0e-5112-420e-a325-2a6d75326290
 caps.latest.revision: 13
 caps.handback.revision: 12
+translationtype: Human Translation
 ---
 # 在 System Center Configuration Manager 中创建用于安装操作系统的任务序列
 在 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中使用任务序列在目标计算机上自动安装操作系统映像。 创建一个任务序列，该任务序列引用用于启动目标计算机的启动映像、要安装在目标计算机上的操作系统映像以及要安装的任何其他附加内容（例如其他应用程序或软件更新）。 然后将任务序列部署到包含目标计算机的集合。  

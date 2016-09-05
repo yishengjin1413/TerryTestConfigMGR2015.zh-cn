@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: e2315b8b-98bc-40e1-8ef9-bfb5e69ab109
 caps.latest.revision: 4
 caps.handback.revision: 3
+translationtype: Human Translation
 ---
 # 如何在 System Center Configuration Manager 中监视 Wi-Fi 配置文件
 将 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] Wi\-Fi 配置文件部署到层次结构中的用户后，你可以使用下列过程来监视 Wi\-Fi 配置文件的符合性状态：  

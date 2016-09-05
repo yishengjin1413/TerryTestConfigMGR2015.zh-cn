@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 681f0893-e83b-476e-9ec0-a5dc7c9deeb6
 caps.latest.revision: 15
 caps.handback.revision: 15
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中的站点系统服务器网站
 多个 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 站点系统角色需要使用 Microsoft Internet Information Services (IIS) 和默认的 IIS 网站来托管站点系统服务。 当必须在同一服务器上运行其他 Web 应用程序，且设置与 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 不兼容时，请考虑使用 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 的自定义网站。  

@@ -15,6 +15,7 @@ ms.assetid: acdada17-2bfe-4d3b-aedf-589f537512e0
 caps.latest.revision: 4
 caps.handback.revision: 4
 author: barlanmsft
+translationtype: Human Translation
 ---
 # 使用 System Center Configuration Manager 监视应用程序
 在本节内容中,你将找到有关如何监视使用 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 部署的应用程序的状态以及如何通过软件计数调查应用使用情况的信息。  

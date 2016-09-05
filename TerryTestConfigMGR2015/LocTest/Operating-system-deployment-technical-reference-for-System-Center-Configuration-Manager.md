@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 08b90088-2d3b-49a0-be14-308f83911a1f
 caps.latest.revision: 4
 caps.handback.revision: 3
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 的操作系统部署技术参考
 本主题列出 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的软件更新的技术参考信息。  

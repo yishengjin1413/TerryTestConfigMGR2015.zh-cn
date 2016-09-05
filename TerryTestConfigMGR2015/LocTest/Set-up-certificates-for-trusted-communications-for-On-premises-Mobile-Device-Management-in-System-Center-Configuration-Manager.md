@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 2a7d7170-1933-40e9-96d6-74a6eb7278e2
 caps.latest.revision: 27
 caps.handback.revision: 27
+translationtype: Human Translation
 ---
 # Set up certificates for trusted communications for On-premises Mobile Device Management in System Center Configuration Manager
 [!INCLUDE[onprem_first](../LocTest/includes/onprem_first_md.md)] 需要为与托管设备之间的受信任通信设置注册点、注册代理点、分发点、设备管理点站点系统角色。 托管一个或多个这些角色的任何站点系统服务器必须具有绑定到该系统上的 Web 服务器的唯一 PKI 证书。 根与服务器上的证书的根相同的证书大多也存储在托管设备上，以与它们建立受信任通信。  

@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 7a555e06-e6d7-4ebb-8252-412b7c5ad1c1
 caps.latest.revision: 4
 caps.handback.revision: 4
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中的报表的安全和隐私
 本主题包含 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的报表的安全最佳方案和隐私信息。  

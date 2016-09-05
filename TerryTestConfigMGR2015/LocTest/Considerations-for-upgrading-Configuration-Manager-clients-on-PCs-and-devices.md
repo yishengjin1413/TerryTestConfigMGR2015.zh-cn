@@ -9,6 +9,7 @@ ms.topic: article
 ms.assetid: f4bc6310-1c47-49b7-bd91-37403a182b95
 caps.latest.revision: 2
 caps.handback.revision: 2
+translationtype: Human Translation
 ---
 # 有关在 PC 和设备上升级 Configuration Manager 客户端的注意事项
 在此处插入说明。  

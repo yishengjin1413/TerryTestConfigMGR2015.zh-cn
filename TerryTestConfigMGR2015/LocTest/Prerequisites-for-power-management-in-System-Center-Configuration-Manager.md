@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 9c062f13-3c1f-4621-9cae-de0e322aa03f
 caps.latest.revision: 4
 caps.handback.revision: 4
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中电源管理的先决条件
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的电源管理具有外部依赖关系和产品内部的依赖关系。  

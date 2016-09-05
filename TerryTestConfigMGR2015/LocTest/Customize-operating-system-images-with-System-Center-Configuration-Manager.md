@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 95033a9b-ff13-4b70-b1de-bcb25bcb6024
 caps.latest.revision: 12
 caps.handback.revision: 12
+translationtype: Human Translation
 ---
 # 使用 System Center Configuration Manager 自定义操作系统映像
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的操作系统映像是 WIM 文件，并且表示在计算机上成功安装和配置操作系统所需的参考文件和文件夹的压缩集合。 自定义操作系统映像是通过一台引用计算机构建和捕获的。在该计算机上，你配置了所有必需的操作系统文件、支持文件、软件更新、工具和其他软件应用。 由你决定将引用计算机手动配置到何种程度。 你可以通过使用构建和捕获任务序列完全自动完成配置引用计算机的过程，可以手动配置引用计算机的某些方面然后使用任务序列自动完成其余配置，或者可以在不使用任务序列的情况下手动配置引用计算机。  

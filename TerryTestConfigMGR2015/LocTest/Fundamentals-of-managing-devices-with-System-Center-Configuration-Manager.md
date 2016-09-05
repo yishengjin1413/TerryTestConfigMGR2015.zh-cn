@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 2bca3db9-115a-451d-8c93-f073ceefe0c7
 caps.latest.revision: 6
 caps.handback.revision: 5
+translationtype: Human Translation
 ---
 # 使用 System Center Configuration Manager 管理设备的基础知识
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 可管理两大类设备：

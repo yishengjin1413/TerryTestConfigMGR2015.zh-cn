@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 6ecdfad1-6305-45a8-ae75-3f33b967cb8f
 caps.latest.revision: 5
 caps.handback.revision: 5
+translationtype: Human Translation
 ---
 # 如何在 System Center Configuration Manager 中为 Endpoint Protection 创建和部署 Windows 防火墙策略
 [!INCLUDE[cm5short](../LocTest/includes/cm5short_md.md)] 中的 [!INCLUDE[epshort](../LocTest/includes/epshort_md.md)] 的防火墙策略让你可以对层次结构中的客户端计算机上执行基本的 Windows 防火墙配置和维护任务。 可以使用 Windows 防火墙策略来执行以下任务：  

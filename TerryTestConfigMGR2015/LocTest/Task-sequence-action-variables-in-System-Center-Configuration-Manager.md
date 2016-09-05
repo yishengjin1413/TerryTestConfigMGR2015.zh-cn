@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: e2269031-0977-4f01-a274-420e00630575
 caps.latest.revision: 10
 caps.handback.revision: 7
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中的任务序列操作变量
 任务序列操作变量指定在 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 任务序列中单个步骤使用的配置设置。 默认情况下，任务序列步骤采用的设置在运行步骤前会被初始化，并且只有当运行相关联的任务序列步骤时才可用。 也就是说，任务序列变量设置在运行任务序列步骤之前添加到任务序列环境，并且在任务序列步骤运行之后该值会从任务序列环境删除。  

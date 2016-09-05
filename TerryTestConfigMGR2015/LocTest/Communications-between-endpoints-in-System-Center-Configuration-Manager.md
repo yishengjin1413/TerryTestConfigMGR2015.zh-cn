@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 68fe0e7e-351e-4222-853a-877475adb589
 caps.latest.revision: 10
 caps.handback.revision: 10
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中终结点之间的通信
 在此处插入说明。  
@@ -47,7 +48,7 @@ caps.handback.revision: 10
   
 -   你可以安装一个分发点作为预留的分发点。 预留的分发点允许你使用手动放在分发点服务器上的内容，并且不需要在网络中传输内容文件。  
   
- 有关详细信息,请参阅[管理用于内容管理的网络带宽](Manage%20network%20bandwidth%20for%20content%20management%20in%20System%20Center%20Configuration%20Manager.md)。 
+ 有关详细信息,请参阅[管理用于内容管理的网络带宽](../LocTest\Manage-network-bandwidth-for-content-management-in-System-Center-Configuration-Manager.md)。 
   
   
 ##  <a name="Planning_Client_to_Site_System"></a> 从客户端到站点系统和服务的通信  

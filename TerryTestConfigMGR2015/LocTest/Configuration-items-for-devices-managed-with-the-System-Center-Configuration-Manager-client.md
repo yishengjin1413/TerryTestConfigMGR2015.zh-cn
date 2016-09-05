@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 7daf71dc-3775-40d7-92e0-8679d7d90a78
 caps.latest.revision: 4
 caps.handback.revision: 4
+translationtype: Human Translation
 ---
 # 为使用 System Center Configuration Manager 客户端管理的设备配置项目
 此主题列出了 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 客户端管理的设备（例如 Windows PC 和 Mac 计算机）可以使用的 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 配置项目类型。  

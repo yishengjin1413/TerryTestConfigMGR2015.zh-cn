@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: dc526e8d-fac3-4bb5-b206-03ad29b0ae11
 caps.latest.revision: 12
 caps.handback.revision: 12
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中的站点间数据传输
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 使用 **基于文件的复制** 和 **数据库复制** 在站点之间传输不同类型的信息。  本主题中的以下内容可帮助你了解 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 如何在站点间移动数据，并了解如何管理你的网络上的数据传输：  

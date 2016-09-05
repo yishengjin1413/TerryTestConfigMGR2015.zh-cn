@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: cc4cdb35-f0b4-42b5-9cec-6431a8c30793
 caps.latest.revision: 11
 caps.handback.revision: 11
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 基础知识
 如果你不熟悉 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)]，请在运行安装程序安装第一个站点之前，阅读基础主题以了解有关 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 的基本概念。 如果你熟悉 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)]，则可以立即着手，建议从 [System Center Configuration Manager 中的新增功能](../Topic/What's%20new%20in%20System%20Center%20Configuration%20Manager.md)开始。  

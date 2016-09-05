@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 4cafb7fc-380b-41b1-b83e-045aebfb7131
 caps.latest.revision: 13
 caps.handback.revision: 12
+translationtype: Human Translation
 ---
 # 使用多播与 System Center Configuration Manager 一起通过网络部署 Windows
 在 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 环境中，多个客户端可能会同时下载同一个操作系统映像，而多播是一种可以在此环境中使用的网络优化方法。 在使用多播时，多台计算机同时下载操作系统映像，这是因为分发点多播此映像，而不是通过单独的连接将此数据的副本发送给每个客户端。  

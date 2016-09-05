@@ -15,6 +15,7 @@ ms.assetid: 79eb49da-cd2b-4ffc-b355-b595aeba3aea
 caps.latest.revision: 5
 caps.handback.revision: 4
 author: barlanmsft
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中的软件清单简介
 使用 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的软件清单可收集有关组织中的客户端设备所含文件的信息。 而且，软件清单可从客户端设备收集文件并将其存储在站点服务器上。 在客户端设置中启用“在客户端上启用软件清单”设置时会收集软件清单。  

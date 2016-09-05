@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 51b5964b-374d-4abc-8619-414a9fffad2d
 caps.latest.revision: 9
 caps.handback.revision: 9
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中的客户端安装方法
 可以使用不同的方法在企业的 Windows 设备、UNIX/Linux 服务器以及 Mac 计算机上安装 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 客户端软件。 可以按照自己的要求使用这些方法中的一种或其任意组合。  

@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: c262291a-80fe-47f3-a6d0-a605fe8b1f06
 caps.latest.revision: 20
 caps.handback.revision: 20
+translationtype: Human Translation
 ---
 # 如何为没使用 System Center Configuration Manager 客户端管理的 Windows 8.1 和 Windows 10 设备创建配置项目
 ||  

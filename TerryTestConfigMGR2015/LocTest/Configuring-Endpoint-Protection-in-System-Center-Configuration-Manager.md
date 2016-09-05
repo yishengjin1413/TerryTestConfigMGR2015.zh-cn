@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: e63f2394-6eb1-4a33-bec5-8377fc62a34e
 caps.latest.revision: 21
 caps.handback.revision: 15
+translationtype: Human Translation
 ---
 # 在 System Center Configuration Manager 中配置 Endpoint Protection
 必须先执行本主题中详述的配置步骤，然后才能使用 [!INCLUDE[epshort](../LocTest/includes/epshort_md.md)] 管理 [!INCLUDE[cm5short](../LocTest/includes/cm5short_md.md)] 客户端计算机上的安全性和恶意软件。  

@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 0a7415ba-2c53-4433-983e-780e92aa662f
 caps.latest.revision: 11
 caps.handback.revision: 11
+translationtype: Human Translation
 ---
 # 为 System Center Configuration Manager 规划站点系统服务器和站点系统角色
 每个安装的 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 站点都包括一个站点服务器，即**站点系统服务器**。 该站点还可以包括远离站点服务器的计算机上的其他站点系统服务器。   站点系统服务器（站点服务器或远程站点系统服务器）支持**站点系统角色**。  本主题包括下列主体：  
@@ -70,7 +71,7 @@ caps.handback.revision: 11
   
 -   **分发点** - 一种站点系统角色，其中包含供客户端下载的源文件，例如应用程序内容、软件包、软件更新、操作系统映像以及启动映像。 默认情况下，当站点安装时，此角色安装在新主站点和辅助站点的站点服务器计算机上，但其在管理中心站点中不受支持。  你可以在支持的一个站点和同一层次结构中的多个站点中安装此角色的多个实例。  有关详细信息，请参阅 [System Center Configuration Manager 中内容管理的基本概念](../LocTest/Fundamental-concepts-for-content-management-in-System-Center-Configuration-Manager.md)和[为 System Center Configuration Manager 管理内容和内容基础结构](../LocTest/Manage-content-and-content-infrastructure-for-System-Center-Configuration-Manager.md)。  
   
--   **回退状态点** - 一种站点系统角色，该角色可帮助你监视客户端安装并确定因无法与其管理点通信而不受管理的客户端。  尽管此角色仅在主站点中受支持，你可以在一个站点或同一层次结构中的多个站点中安装此角色的多个实例。  有关详细信息，请参阅[内容源位置方案](Content%20source%20location%20scenarios%20in%20System%20Center%20Configuration%20Manager.md)。
+-   **回退状态点** - 一种站点系统角色，该角色可帮助你监视客户端安装并确定因无法与其管理点通信而不受管理的客户端。  尽管此角色仅在主站点中受支持，你可以在一个站点或同一层次结构中的多个站点中安装此角色的多个实例。  有关详细信息，请参阅[内容源位置方案](../LocTest\Content-source-location-scenarios-in-System-Center-Configuration-Manager.md)。
 
   
 -   **Endpoint Protection 点** - 一种站点系统角色，[!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 使用该角色来接受 Endpoint Protection 许可条款并为 Microsoft Active Protection Service 配置默认成员身份。 层次结构仅支持此角色的单一实例，并且它必须位于层次结构的顶层站点（管理中心站点或独立主站点）。 如果将独立主站点扩展到更大的层次结构中，必须从主站点中卸载此角色，然后可将其安装在管理中心站点上。 有关详细信息，请参阅 [System Center Configuration Manager 中的 Endpoint Protection](../LocTest/Endpoint-Protection-in-System-Center-Configuration-Manager.md)。  
@@ -125,7 +126,7 @@ caps.handback.revision: 11
   
 -   **资产智能同步点** - 此站点系统角色连接到 Microsoft，并将在托管资产智能同步点的计算机上使用代理服务器配置。  
   
--   **基于云的分发点** - 当你使用基于云的分发点时，用于管理基于云的分发点的主站点必须能够连接到 Microsoft Azure 以设置、监视并将内容分发到分发点。 如果此连接需要代理服务器，你必须在主站点服务器上配置代理服务器。 无法在 Windows Azure 中基于云的分发点上配置代理服务器。  有关详细信息，请参阅[在 Microsoft Azure 中为 System Center Configuration Manager 安装基于云的分发点](../Topic/Install%20cloud-based%20distribution%20points%20in%20Microsoft%20Azure%20for%20System%20Center%20Configuration%20Manager.md)主题的[为管理云服务的主站点配置代理设置](../Topic/Install%20cloud-based%20distribution%20points%20in%20Microsoft%20Azure%20for%20System%20Center%20Configuration%20Manager.md#BKMK_ConfigProxyforCloud)部分。  
+-   **基于云的分发点** - 当你使用基于云的分发点时，用于管理基于云的分发点的主站点必须能够连接到 Microsoft Azure 以设置、监视并将内容分发到分发点。 如果此连接需要代理服务器，你必须在主站点服务器上配置代理服务器。 无法在 Windows Azure 中基于云的分发点上配置代理服务器。  有关详细信息，请参阅[在 Microsoft Azure 中为 System Center Configuration Manager 安装基于云的分发点](../LocTest\Install-cloud-based-distribution-points-in-Microsoft-Azure-for-System-Center-Configuration-Manager.md)主题的[为管理云服务的主站点配置代理设置](../LocTest\Install-cloud-based-distribution-points-in-Microsoft-Azure-for-System-Center-Configuration-Manager.md#BKMK_ConfigProxyforCloud)部分。  
   
 -   **Exchange Server 连接器** - 此站点系统角色连接到 Exchange Server，并将在托管 Exchange Server 连接器的计算机上使用代理服务器配置。  
   

@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 295fdf07-93cc-490c-acdd-ce3ee88cb36f
 caps.latest.revision: 7
 caps.handback.revision: 6
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中针对迁移规划的管理员清单
 使用以下管理员清单帮助你规划迁移到 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)]的策略：  

@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: b9b22655-b8c1-461f-8047-3a7e906f647a
 caps.latest.revision: 12
 caps.handback.revision: 12
+translationtype: Human Translation
 ---
 # 使用 System Center Configuration Manager 管理操作系统升级包
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的升级包包含用于在计算机上升级现有操作系统的 Windows 安装程序源文件。 使用以下部分在 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 中管理操作系统升级包：  

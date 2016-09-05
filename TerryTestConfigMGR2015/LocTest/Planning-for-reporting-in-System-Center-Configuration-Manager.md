@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: ff920c84-d5c8-458c-b67f-bc7219b05690
 caps.latest.revision: 6
 caps.handback.revision: 5
+translationtype: Human Translation
 ---
 # 规划 System Center Configuration Manager 中的报告
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的报表功能提供了一组工具和资源，可帮助你使用 SQL Server Reporting Services 的高级报表功能。 使用下列部分来帮助你在 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 中规划报表。  

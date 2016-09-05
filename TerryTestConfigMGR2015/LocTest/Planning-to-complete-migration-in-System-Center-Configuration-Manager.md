@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: f4854b50-2e8c-414c-a872-9579554dca98
 caps.latest.revision: 5
 caps.handback.revision: 4
+translationtype: Human Translation
 ---
 # 规划在 System Center Configuration Manager 中完成迁移
 对于 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)]，当源层次结构不再包含要迁移到目标层次结构的数据时，你可以完成迁移过程。 完成迁移包括下列常规步骤：  

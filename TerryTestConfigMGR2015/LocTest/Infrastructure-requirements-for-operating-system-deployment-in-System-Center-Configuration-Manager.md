@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 1dc74219-7ff5-4e3b-b4f6-5aad663bb75b
 caps.latest.revision: 24
 caps.handback.revision: 21
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中的操作系统部署的基础架构要求
 [!INCLUDE[cm5short](../LocTest/includes/cm5short_md.md)] 中的操作系统部署有外部依赖关系和产品内的依赖关系。 使用以下部分的内容帮助你准备操作系统的部署。  

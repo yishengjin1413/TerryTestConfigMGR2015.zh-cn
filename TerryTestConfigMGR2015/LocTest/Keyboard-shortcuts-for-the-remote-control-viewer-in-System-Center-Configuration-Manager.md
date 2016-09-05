@@ -15,6 +15,7 @@ ms.assetid: f660dde3-a3c5-45ef-a75b-fd915c12cad1
 caps.latest.revision: 5
 caps.handback.revision: 4
 author: barlanmsft
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中的远程控制器的键盘快捷键
 当你使用 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 远程控制查看器时，你可以使用以下键盘快捷键来控制正在被管理的客户端计算机。  

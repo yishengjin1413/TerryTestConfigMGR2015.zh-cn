@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 99222dc8-0e1e-4513-8302-7a1acf671e9b
 caps.latest.revision: 6
 caps.handback.revision: 6
+translationtype: Human Translation
 ---
 # 确定是否将数据迁移到 System Center Configuration Manager
 在 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中，迁移提供了一个进程，可将你从 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 的受支持版本执行的数据和配置迁移到新的层次结构。  可用它来执行以下操作：  

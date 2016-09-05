@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 6c64f276-b88c-4b1e-8073-331876a03038
 caps.latest.revision: 11
 caps.handback.revision: 10
+translationtype: Human Translation
 ---
 # 准备 Windows PE 对等缓存以减少 System Center Configuration Manager 中的 WAN 流量
 在 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中部署新的操作系统时，运行任务序列的计算机可使用 Windows PE 对等缓存从本地对等计算机（对等缓存源）中获取内容，而无需从分发点下载内容。 这有助于最大限度减小没有本地分发点的分支机构场景中的广域网 \(WAN\) 流量。  

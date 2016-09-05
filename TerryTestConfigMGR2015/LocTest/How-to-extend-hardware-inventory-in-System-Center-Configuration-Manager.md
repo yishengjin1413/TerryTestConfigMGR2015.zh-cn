@@ -15,6 +15,7 @@ ms.assetid: d5bfab4f-c55e-4545-877c-5c8db8bc1891
 caps.latest.revision: 10
 caps.handback.revision: 10
 author: barlanmsft
+translationtype: Human Translation
 ---
 # How to extend hardware inventory in System Center Configuration Manager
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 硬件清单通过使用 Windows Management Instrumentation (WMI) 从 Windows PC 读取有关设备的信息。 WMI 是基于 Web 的企业管理 (WBEM) 的 Microsoft 实现，它是用于访问企业环境中管理信息的行业标准。 在以前版本的 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)], ，您可以通过修改站点服务器上的文件 sms_def.mof 扩展硬件清单。 此文件包含可以通过阅读的 WMI 类的列表 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 硬件清单。 如果编辑此文件，则你可以启用和禁用现有类，还能将新类创建到清单。  

@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 08085d94-295c-432f-b5e3-9736bce0193b
 caps.latest.revision: 6
 caps.handback.revision: 5
+translationtype: Human Translation
 ---
 # 在 System Center Configuration Manager 中监视操作系统部署
 为帮助你监视操作系统部署对象，[!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 控制台提供了以下内容：  

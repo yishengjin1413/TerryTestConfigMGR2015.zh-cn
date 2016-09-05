@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 3a832943-580a-4a40-b454-961d0854ac2b
 caps.latest.revision: 51
 caps.handback.revision: 43
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 的更新
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 使用称为**更新和服务**的控制台中服务方法，可轻松为你的 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 基础结构找到并安装建议的更新。此控制台中服务方法由带外更新补充，例如适用于需要解决其环境特定问题的客户的修补程序。  

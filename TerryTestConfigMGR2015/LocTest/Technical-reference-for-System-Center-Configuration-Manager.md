@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: bab0f1c9-bc78-4b3f-aecb-cd2ab826724d
 caps.latest.revision: 7
 caps.handback.revision: 6
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 的技术参考
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 文档库中的“技术参考”部分包含重要信息，但这些信息通常作为常见方案和任务的参考更为有用，其（自身）不表示常见方案。  

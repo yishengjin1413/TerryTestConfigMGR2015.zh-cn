@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 7d2bb377-1005-4a55-bd1f-b80a6d0b22e1
 caps.latest.revision: 6
 caps.handback.revision: 5
+translationtype: Human Translation
 ---
 # 如何在 System Center Configuration Manager 中升级 Linux 和 UNIX 服务器的客户端
 可以将计算机上的适用于 Linux 和 UNIX 的客户端版本升级到较新的客户端版本，而不用先卸载当前的客户端。 要实现此操作，请使用 **\-keepdb** 命令行属性在计算机上安装新的客户端安装包。 安装适用于 Linux 和 UNIX 的客户端时，它将用新的客户端文件覆盖现有的客户端数据。 但是，**–keepdb** 命令行属性将指示安装过程保留客户端唯一标识符 \(GUID\)、本地信息数据库和证书存储。 然后，新的客户端安装将使用这些信息。  

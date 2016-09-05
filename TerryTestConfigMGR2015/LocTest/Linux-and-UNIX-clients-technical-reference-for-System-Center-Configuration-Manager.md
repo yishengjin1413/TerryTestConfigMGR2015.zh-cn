@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: e5a8c79f-5791-49c5-8055-086d742e5559
 caps.latest.revision: 6
 caps.handback.revision: 5
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 的 Linux 和 UNIX 客户端技术参考 
 此主题包含适用于 Linux 和 UNIX 的 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 客户端的技术信息。  

@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: d8c8b44c-1e8a-42b6-bab4-23c72a0a6169
 caps.latest.revision: 15
 caps.handback.revision: 15
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 的已删除和已弃用的功能
 本主题介绍将 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 不再支持或在将来更新中删除（弃用）的功能、产品和操作系统。 目的是针对可能会影响使用 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)]的将来更改提供早期警告。  

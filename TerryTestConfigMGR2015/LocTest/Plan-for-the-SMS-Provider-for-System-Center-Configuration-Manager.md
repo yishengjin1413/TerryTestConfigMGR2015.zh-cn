@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 5d5d6273-0d8a-43c7-865a-cdb1736dcae3
 caps.latest.revision: 8
 caps.handback.revision: 7
+translationtype: Human Translation
 ---
 # 为 System Center Configuration Manager 规划 SMS 提供程序
 若要管理 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)]，请使用连接到 [!INCLUDE[cmconsole](../LocTest/includes/cmconsole_md.md)] SMS 提供程序 **实例的**。   默认情况下，SMS 提供程序会在站点安装期间安装在管理中心站点或主站点上。  

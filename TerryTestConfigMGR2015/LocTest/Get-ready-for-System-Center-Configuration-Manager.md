@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 3e839a3e-e476-4ec2-bf29-21e78180441d
 caps.latest.revision: 6
 caps.handback.revision: 5
+translationtype: Human Translation
 ---
 # 为 System Center Configuration Manager 做准备
 当你已准备好开始规划你的 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 部署时，使用下列主题中的信息：  

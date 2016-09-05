@@ -10,6 +10,7 @@ ms.topic: article
 ms.assetid: 3f6b68a9-21b3-429e-a815-f8a3009a629f
 caps.latest.revision: 2
 caps.handback.revision: 2
+translationtype: Human Translation
 ---
 # 如何在 Configuration Manager 本地移动设备管理 (MDM) 中报告清单
 在此处插入说明。  

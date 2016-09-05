@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: bec00fb4-1ac0-4e49-b330-0871b3722459
 caps.latest.revision: 5
 caps.handback.revision: 4
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 隐私声明 – Configuration Manager Cmdlet 库
 应结合 [Microsoft System Center 2012 R2 Configuration Manager 隐私声明](hhttp://www.microsoft.com/privacystatement/en-us/SystemCenter2012R2/Default.aspx)一起阅读本隐私声明。 该文档中的条款同样适用。 本隐私声明涵盖 System Center Configuration Manager Cmdlet 库的功能。  

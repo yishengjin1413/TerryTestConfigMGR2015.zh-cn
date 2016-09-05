@@ -9,6 +9,7 @@ ms.topic: article
 ms.assetid: 5f4ce2e5-3140-4889-9192-ae9484906e78
 caps.latest.revision: 2
 caps.handback.revision: 2
+translationtype: Human Translation
 ---
 # 使用 Configuration Manager 和 Office 365 来管理移动设备
 在此处插入说明。  

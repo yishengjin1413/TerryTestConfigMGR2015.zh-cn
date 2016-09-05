@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 15a1a2aa-854a-45df-aeb4-35de0189ac80
 caps.latest.revision: 5
 caps.handback.revision: 4
+translationtype: Human Translation
 ---
 # 将请求分发点用于 System Center Configuration Manager
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 的请求分发点是一个标准分发点，该分发点通过从源位置（例如客户端）下载来获取分发内容，而不是将内容从站点服务器推送到分发点来获取。  

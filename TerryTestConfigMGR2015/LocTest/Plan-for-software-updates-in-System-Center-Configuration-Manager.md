@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: d071b0ec-e070-40a9-b7d4-564b92a5465f
 caps.latest.revision: 19
 caps.handback.revision: 17
+translationtype: Human Translation
 ---
 # 在 System Center Configuration Manager 中规划软件更新
 在 [!INCLUDE[cm5short](../LocTest/includes/cm5short_md.md)] 生产环境中实施软件更新之前，你必须首先规划此实施。 使用本主题中的下列部分在 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 层次结构中规划软件更新：  

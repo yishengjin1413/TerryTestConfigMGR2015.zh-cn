@@ -9,6 +9,7 @@ ms.topic: article
 ms.assetid: 5685fa28-b50f-4f0d-8858-91111cb9a437
 caps.latest.revision: 4
 caps.handback.revision: 3
+translationtype: Human Translation
 ---
 # 如何配置软件更新点以使用网络负载平衡 (NLB) 群集
 > [!NOTE]  

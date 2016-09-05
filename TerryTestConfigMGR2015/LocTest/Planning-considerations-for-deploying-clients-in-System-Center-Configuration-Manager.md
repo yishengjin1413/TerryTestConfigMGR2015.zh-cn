@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 518f9882-ce71-48c3-9f47-cd968cfb658d
 caps.latest.revision: 3
 caps.handback.revision: 3
+translationtype: Human Translation
 ---
 # 在 System Center Configuration Manager 中部署客户端的规划注意事项
 在 PC、服务器以及 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的其他设备上安装客户端之前，应考虑如何部署客户端软件并相应准备 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 基础结构。  

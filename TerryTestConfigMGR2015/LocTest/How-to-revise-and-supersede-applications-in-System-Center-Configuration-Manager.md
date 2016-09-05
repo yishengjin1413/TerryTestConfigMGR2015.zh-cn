@@ -15,6 +15,7 @@ ms.assetid: 30170d70-489f-47f7-bebf-9ed0115db26b
 caps.latest.revision: 7
 caps.handback.revision: 4
 author: barlanmsft
+translationtype: Human Translation
 ---
 # 如何在 System Center Configuration Manager 中修订和取代应用程序
 在本主题中，你将学习如何处理 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 应用程序版本以及如何使用新版本取代应用程序。  

@@ -15,6 +15,7 @@ ms.assetid: d5420109-6538-4430-9ca6-db352ee84c2e
 caps.latest.revision: 10
 caps.handback.revision: 5
 author: barlanmsft
+translationtype: Human Translation
 ---
 # 使用 System Center Configuration Manager 创建 iOS 应用程序
 除了创建应用程序的其他 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 要求和过程，还必须在创建和部署适用于 iOS 设备的应用程序时考虑以下注意事项。  

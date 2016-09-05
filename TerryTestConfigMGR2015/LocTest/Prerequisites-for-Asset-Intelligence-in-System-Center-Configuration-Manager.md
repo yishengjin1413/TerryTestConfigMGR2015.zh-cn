@@ -15,6 +15,7 @@ ms.assetid: 23ab4f94-7bfe-436e-8a6a-029409a2730c
 caps.latest.revision: 10
 caps.handback.revision: 6
 author: barlanmsft
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中的资产智能先决条件
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的资产智能具有外部依赖关系和产品内部的依赖关系。  

@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: b06f781b-ab25-4d9a-b128-02cbd7cbcffe
 caps.latest.revision: 9
 caps.handback.revision: 8
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 管理点的数据库副本
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 主站点可以使用数据库副本来减少管理点在处理来自客户端的请求时放在站点数据库服务器上的 CPU 负载。  

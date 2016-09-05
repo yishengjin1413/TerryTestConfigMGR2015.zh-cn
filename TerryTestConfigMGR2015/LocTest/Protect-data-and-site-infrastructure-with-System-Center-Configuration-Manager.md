@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 2117f786-d521-4790-9e8d-ec096c63c9d7
 caps.latest.revision: 8
 caps.handback.revision: 6
+translationtype: Human Translation
 ---
 # 使用 System Center Configuration Manager 保护数据和站点基础架构
 建议让用户能够安全访问你组织的资源，从而使基础结构和数据免于泄露或受恶意攻击。 这些主题中的信息描述了如何允许这种访问，以及如何帮助保护你组织的资源。  

@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 13f99e4e-c163-4375-9fa2-be5f7e41e099
 caps.latest.revision: 4
 caps.handback.revision: 4
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中的报表的技术参考
 本节包含 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的报表的技术参考信息。  

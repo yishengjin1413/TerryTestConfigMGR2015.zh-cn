@@ -15,6 +15,7 @@ ms.assetid: 3c9648c4-645e-4e47-ae10-2da817b8c83b
 caps.latest.revision: 5
 caps.handback.revision: 4
 author: barlanmsft
+translationtype: Human Translation
 ---
 # 如何使用 System Center Configuration Manager 远程管理 Windows 客户端计算机
 使用以下过程来远程管理 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的计算机。  

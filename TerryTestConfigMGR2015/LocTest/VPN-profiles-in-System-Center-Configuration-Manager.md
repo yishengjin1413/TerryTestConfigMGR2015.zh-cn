@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: c0f094f1-852e-4606-91db-97846d8f0772
 caps.latest.revision: 6
 caps.handback.revision: 3
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中的 VPN 配置文件
 使用 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的 VPN 配置文件以将 VPN 设置部署到机构中的用户。 通过部署这些设置，你可以最大限度减少最终用户连接到公司网络资源需要进行的工作。  

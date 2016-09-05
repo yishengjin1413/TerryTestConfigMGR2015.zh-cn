@@ -15,6 +15,7 @@ ms.assetid: caad0507-9913-415a-b13d-d36f8f0a1b80
 caps.latest.revision: 8
 caps.handback.revision: 8
 author: barlanmsft
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中的包和程序
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 继续支持在 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 2007 中使用的包和程序。 部署以下任何一项时，使用包和程序的部署可能比使用某个应用程序的部署更适用：  

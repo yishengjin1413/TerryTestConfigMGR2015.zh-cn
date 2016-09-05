@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 1fd90f43-aacf-485c-ad55-b9334f74a1ea
 caps.latest.revision: 4
 caps.handback.revision: 3
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 的示例方案
 使用本主题来帮助你找到指向 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 示例方案的链接，该方案将帮你了解有关该产品功能的详细信息。  

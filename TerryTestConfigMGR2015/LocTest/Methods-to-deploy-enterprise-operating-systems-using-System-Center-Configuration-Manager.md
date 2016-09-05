@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 3646d62d-355a-43fc-8569-c08dc2257ee5
 caps.latest.revision: 6
 caps.handback.revision: 5
+translationtype: Human Translation
 ---
 # 使用 System Center Configuration Manager 部署企业版操作系统的方法
 可以使用不同的方法在 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 环境中部署操作系统。  

@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 030947fd-f5e0-4185-8513-2397fb2ec96f
 caps.latest.revision: 41
 caps.handback.revision: 36
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 的发行说明
 在 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)]中，产品发行说明限于尚未在产品（通过在控制台中更新可用）中解决的或者未在 Microsoft 知识库文章中详细介绍的紧急问题。  
@@ -91,7 +92,7 @@ caps.handback.revision: 36
   
 -   对由 System Center Configuration Manager 管理的电脑进行条件访问。 有关详细信息，请参阅[管理对由 System Center Configuration Manager 管理的电脑的 O365 服务的访问](../LocTest/Manage-access-to-O365-services-for-PCs-managed-by-System-Center-Configuration-Manager.md)  
   
--   维护群集感知集合。 有关详细信息，请参阅 [Technical Preview 1605 for System Center Configuration Manager 中的功能](../Topic/Capabilities%20in%20Technical%20Preview%201605%20for%20System%20Center%20Configuration%20Manager.md)中的[为服务器组提供服务](../Topic/Capabilities%20in%20Technical%20Preview%201605%20for%20System%20Center%20Configuration%20Manager.md#BKMK_ServerGroups)。  
+-   维护群集感知集合。 有关详细信息，请参阅 [Technical Preview 1605 for System Center Configuration Manager 中的功能](../LocTest\Capabilities-in-Technical-Preview-1605-for-System-Center-Configuration-Manager.md)中的[为服务器组提供服务](../LocTest\Capabilities-in-Technical-Preview-1605-for-System-Center-Configuration-Manager.md#BKMK_ServerGroups)。  
   
  预发行功能包含在产品中，用于在生产环境中进行早期测试，但不应将其视为生产就绪。  
  
