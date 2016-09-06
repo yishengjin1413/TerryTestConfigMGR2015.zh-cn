@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 5ab94b85-ac63-45b1-a4f6-17b0113920fd
 caps.latest.revision: 5
 caps.handback.revision: 5
+translationtype: Human Translation
 ---
 # 不使用 System Center Configuration Manager 客户端管理的设备配置项目
 此主题列出了未由 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 客户端管理的设备（例如注册 Microsoft Intune 的设备）可以使用的 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 配置项目类型。  

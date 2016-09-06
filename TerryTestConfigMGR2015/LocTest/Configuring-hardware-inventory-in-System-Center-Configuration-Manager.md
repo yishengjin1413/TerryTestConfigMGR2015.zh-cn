@@ -15,6 +15,7 @@ ms.assetid: b63b1747-3450-4b09-aa04-120771e836e3
 caps.latest.revision: 4
 caps.handback.revision: 4
 author: barlanmsft
+translationtype: Human Translation
 ---
 # 在 System Center Configuration Manager 中配置硬件清单
 使用以下主题来帮助你在 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中配置硬件清单。  

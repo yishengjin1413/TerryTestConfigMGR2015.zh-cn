@@ -10,6 +10,7 @@ ms.topic: article
 ms.assetid: bbe331ec-d258-48d9-b460-7e4de39c0d1f
 caps.latest.revision: 4
 caps.handback.revision: 1
+translationtype: Human Translation
 ---
 # 什么是通过 Configuration Manager 实现本地移动设备管理 (MDM)？
 在此处插入说明。  

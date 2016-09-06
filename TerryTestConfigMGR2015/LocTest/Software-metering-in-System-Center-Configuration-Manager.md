@@ -15,6 +15,7 @@ ms.assetid: 8e071ea6-aba7-47be-97d7-63dcbb61d1d9
 caps.latest.revision: 9
 caps.handback.revision: 6
 author: barlanmsft
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中的软件计数
 本主题包含使用 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 软件计数时，可能执行的所有操作的参考。 有关如何使用软件计数的示例方案，请参阅[在 System Center Configuration Manager 中使用软件计数监视应用使用情况](../LocTest/Monitor-app-usage-with-software-metering-in-System-Center-Configuration-Manager.md)。  

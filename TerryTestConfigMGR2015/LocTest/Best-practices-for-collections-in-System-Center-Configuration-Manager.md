@@ -15,6 +15,7 @@ ms.assetid: 7a2abb79-9ae5-4a25-9e18-5dcf528de3bf
 caps.latest.revision: 4
 caps.handback.revision: 4
 author: barlanmsft
+translationtype: Human Translation
 ---
 # 在 System Center Configuration Manager 中集合的最佳实践
 在 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中使用以下集合的最佳实践。  

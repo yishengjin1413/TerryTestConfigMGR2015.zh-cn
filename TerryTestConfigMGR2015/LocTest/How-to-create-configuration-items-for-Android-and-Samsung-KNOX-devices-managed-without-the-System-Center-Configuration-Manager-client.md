@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: c28d5ef5-3ea7-4ba2-af01-6600aa805d48
 caps.latest.revision: 17
 caps.handback.revision: 17
+translationtype: Human Translation
 ---
 # 如何为没有使用 System Center Configuration Manager 客户端管理的 Android 和 Samsung KNOX 设备创建配置项目
 ||  

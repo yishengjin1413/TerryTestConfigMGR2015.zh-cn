@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 17cf034f-eaff-43ce-bc8e-917213c1db74
 caps.latest.revision: 8
 caps.handback.revision: 7
+translationtype: Human Translation
 ---
 # 发布 System Center Configuration Manager 的站点数据
 为 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 扩展 Active Directory 架构之后，你可以将 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 站点发布到 Active Directory 域服务 \(AD DS\)，以便 Active Directory 计算机能够安全地从受信任来源检索站点信息。 尽管基本 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 功能无需将站点信息发布到 AD DS，但此配置可以减少管理开销。  

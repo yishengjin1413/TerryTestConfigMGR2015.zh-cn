@@ -10,6 +10,7 @@ ms.assetid: 4d7b19db-a915-4bc8-9962-2d1515ddff6c
 caps.latest.revision: 7
 caps.handback.revision: 7
 robots: noindex,nofollow
+translationtype: Human Translation
 ---
 # MICROSOFT SYSTEM CENTER CONFIGURATION MANAGER 评估
 **微软评估软件许可条款**  

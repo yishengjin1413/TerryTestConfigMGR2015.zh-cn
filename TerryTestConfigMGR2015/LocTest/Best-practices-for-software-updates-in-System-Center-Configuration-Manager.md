@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 6d20389a-9de2-4a64-bced-9fc4fa519174
 caps.latest.revision: 6
 caps.handback.revision: 5
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中软件更新的最佳方案
 本主题包括 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中软件更新的最佳方案。 此信息分类为初始安装和当前操作的最佳方案。  

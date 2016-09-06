@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 104fb4cc-6e83-40a3-8e6b-ac909fb9ec7d
 caps.latest.revision: 5
 caps.handback.revision: 3
+translationtype: Human Translation
 ---
 # 为 System Center Configuration Manager 规划站点数据库
 站点数据库服务器是一台计算机，该计算机运行用于存储 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 站点信息的 Microsoft SQL Server 受支持版本。[!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 层次结构中的每个站点都包含站点数据库以及分配了站点数据库服务器角色的服务器。  

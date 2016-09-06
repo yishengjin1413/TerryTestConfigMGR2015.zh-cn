@@ -15,6 +15,7 @@ ms.assetid: 4d26deed-3b16-4116-b640-f618f2c20f5a
 caps.latest.revision: 8
 caps.handback.revision: 5
 author: barlanmsft
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中应用程序管理的安全和隐私
 本主题包含关于 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中应用程序管理的安全和隐私的信息。 本主题还包括应用程序目录和软件中心。  

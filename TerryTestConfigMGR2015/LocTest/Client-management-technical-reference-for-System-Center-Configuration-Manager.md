@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 5406afc1-8891-4aac-977b-e6abd0194ca2
 caps.latest.revision: 4
 caps.handback.revision: 4
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中客户端管理的技术参考
 此部分的 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 技术参考包括 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 客户端规划、部署和管理支持的相关信息。  

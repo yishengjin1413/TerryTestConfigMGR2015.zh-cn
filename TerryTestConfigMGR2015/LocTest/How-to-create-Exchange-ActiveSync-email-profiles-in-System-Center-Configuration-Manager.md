@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 15f0fd50-e196-44e5-b435-234d7ff6a5cd
 caps.latest.revision: 4
 caps.handback.revision: 3
+translationtype: Human Translation
 ---
 # 如何在 System Center Configuration Manager 中创建 Exchange ActiveSync 电子邮件配置文件
 在 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中创建电子邮件配置文件以将电子邮件设置部署到公司中的用户。 通过部署这些设置，你可以减少对于使用 Exchange ActiveSync 的设备连接到公司网络上的公司电子邮件所需的最终用户工作。  

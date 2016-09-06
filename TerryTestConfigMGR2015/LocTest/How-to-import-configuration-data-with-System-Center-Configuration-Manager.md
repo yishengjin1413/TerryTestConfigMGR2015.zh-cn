@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 309b9a09-a611-4ba2-90ab-dde51582cf87
 caps.latest.revision: 6
 caps.handback.revision: 5
+translationtype: Human Translation
 ---
 # 如何使用 System Center Configuration Manager 导入配置数据
 除了在 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 控制台中创建配置基线和配置项目之外，你还可以导入配置数据（如果它采用 CAB \(.cab\) 文件格式包含在内并符合支持的 SML 架构）。 您可以从下列来源导入配置数据：  

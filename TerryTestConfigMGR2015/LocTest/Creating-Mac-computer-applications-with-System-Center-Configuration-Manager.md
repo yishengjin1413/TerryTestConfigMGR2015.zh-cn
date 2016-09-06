@@ -15,6 +15,7 @@ ms.assetid: ab1aecdd-d943-44f5-b0a9-e8fe7439e5d6
 caps.latest.revision: 9
 caps.handback.revision: 9
 author: barlanmsft
+translationtype: Human Translation
 ---
 # 使用 System Center Configuration Manager 创建 Mac 计算机应用程序
 除了创建应用程序的其他 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 要求和过程，在创建和部署适用于 Mac 计算机的应用程序时还必须考虑以下注意事项。  

@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 19a291d1-77b1-4604-a6ae-8b6d83000b56
 caps.latest.revision: 4
 caps.handback.revision: 4
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中电源管理的操作和维护
 使用此部分中的信息来了解有关 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中电源管理的操作和维护的详细信息。  

@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: b60d7b1d-eb27-4a33-81c7-ac3aba77e1f1
 caps.latest.revision: 3
 caps.handback.revision: 3
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中电子邮件配置文件的操作和维护
 使用此部分的信息来了解有关 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中电子邮件配置文件的操作和维护：  

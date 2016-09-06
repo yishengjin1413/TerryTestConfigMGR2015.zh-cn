@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 95e9858a-bad4-4651-9e61-2e31dc5050fa
 caps.latest.revision: 5
 caps.handback.revision: 5
+translationtype: Human Translation
 ---
 # 如何在 System Center Configuration Manager 中配置客户端设置
 你通过 Configuration Manager 控制台的“管理”工作区中的“客户端设置”节点来管理 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的所有客户端设置。 如果要为层次结构中未应用任何自定义设置的所有用户和设备配置设置，请修改默认设置。 如果要将不同设置仅应用于某些用户或设备，请创建自定义设置并将它们部署到集合。  

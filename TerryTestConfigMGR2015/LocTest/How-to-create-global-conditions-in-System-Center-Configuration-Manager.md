@@ -15,6 +15,7 @@ ms.assetid: 2d5f871a-19dc-4bd3-a3ad-4230c7a69f1b
 caps.latest.revision: 7
 caps.handback.revision: 4
 author: barlanmsft
+translationtype: Human Translation
 ---
 # 如何在 System Center Configuration Manager 中创建全局条件
 在 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中，全局条件是表示业务或技术条件的规则，你可以使用这些条件指定向客户端设备提供和部署应用程序的方式。 你可以从 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 控制台的“全局条件”节点中或在创建部署类型向导中创建全局条件。 可以从创建部署类型向导的“要求”页中访问全局条件。  

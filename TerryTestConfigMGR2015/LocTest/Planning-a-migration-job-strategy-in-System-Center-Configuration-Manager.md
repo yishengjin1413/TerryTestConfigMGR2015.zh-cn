@@ -15,6 +15,7 @@ ms.assetid: a70bfbd4-757a-4468-9312-1c3b373ef9fc
 caps.latest.revision: 6
 caps.handback.revision: 5
 robots: noindex
+translationtype: Human Translation
 ---
 # 在 System Center Configuration Manager 中规划迁移作业策略
 使用迁移作业来配置要迁移到你的 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 环境的特定数据。 迁移作业确定你计划迁移的对象，并且在目标层次结构中的顶层站点上运行。 你可以为每个源站点配置一个或多个迁移作业。 这允许你一次迁移所有对象，或限制随每个作业一起迁移的数据子集。  

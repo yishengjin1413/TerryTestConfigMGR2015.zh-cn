@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: d466edd2-97f0-44c1-a73e-d71abbdbf4a8
 caps.latest.revision: 6
 caps.handback.revision: 4
+translationtype: Human Translation
 ---
 # 在 System Center Configuration Manager 中卸载站点和层次结构
 必须卸载 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 站点时，请使用以下详细信息作为指南。  

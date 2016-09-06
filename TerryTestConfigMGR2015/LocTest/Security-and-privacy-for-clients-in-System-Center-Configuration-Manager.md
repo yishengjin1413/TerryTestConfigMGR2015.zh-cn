@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: c1d71899-308f-49d5-adfa-3a3ec0163ed8
 caps.latest.revision: 10
 caps.handback.revision: 10
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中客户端的安全和隐私
 本部分包含 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的客户端以及 Exchange Server 连接器所管理的移动设备的安全和隐私信息：  

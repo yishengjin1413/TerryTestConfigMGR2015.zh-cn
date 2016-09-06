@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 14226fbe-dd07-4432-910b-130790624a4e
 caps.latest.revision: 17
 caps.handback.revision: 11
+translationtype: Human Translation
 ---
 # 如何为使用 System Center Configuration Manager 客户端管理的 Windows 10 设备创建配置项目
 使用 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)]“Windows 10”配置项目可为由 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 客户端管理的 Windows 10 计算机管理设置。  

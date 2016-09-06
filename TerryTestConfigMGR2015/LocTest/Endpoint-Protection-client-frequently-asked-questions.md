@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: e3aaa9d2-a40e-42b1-ad75-5a115351729e
 caps.latest.revision: 15
 caps.handback.revision: 12
+translationtype: Human Translation
 ---
 # Endpoint Protection 客户端的常见问题
 <?xml version="1.0" encoding="utf-8"?>

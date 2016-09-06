@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 10049c89-b37c-472b-b317-ce4f56cd4be7
 caps.latest.revision: 8
 caps.handback.revision: 5
+translationtype: Human Translation
 ---
 # 在 Windows Embedded 设备上部署和管理 System Center Configuration Manager 客户端的示例场景
 该场景演示了如何使用 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 管理已启用写入筛选器的 Windows Embedded 设备。如果你的嵌入式设备不支持写入筛选器，则这些设备将用作标准 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 客户端，并且你无需执行管理写入筛选器所需的此场景中的步骤。  

@@ -15,6 +15,7 @@ ms.assetid: 77419bd8-548c-4f0f-beed-1ea0f752a4c7
 caps.latest.revision: 4
 caps.handback.revision: 4
 author: barlanmsft
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中的硬件清单
 使用 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 硬件清单可收集有关组织中的客户端设备硬件的详细信息。  

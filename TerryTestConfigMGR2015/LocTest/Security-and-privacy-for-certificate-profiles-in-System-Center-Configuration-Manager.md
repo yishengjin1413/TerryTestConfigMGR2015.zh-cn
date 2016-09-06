@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 3393db41-900a-44c5-b950-2d46a35a198c
 caps.latest.revision: 7
 caps.handback.revision: 7
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中证书配置文件的安全和隐私
 本主题包含 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)]中的证书配置文件的安全和隐私信息。  

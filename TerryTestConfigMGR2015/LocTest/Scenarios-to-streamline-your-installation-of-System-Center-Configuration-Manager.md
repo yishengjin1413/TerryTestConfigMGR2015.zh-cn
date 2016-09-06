@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 35586a85-4af9-4c8b-925a-0e32dc8b7346
 caps.latest.revision: 6
 caps.handback.revision: 5
+translationtype: Human Translation
 ---
 # 简化 System Center Configuration Manager 安装的方案
 随着 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 当前分支更新版本的发布提供了新方案，对将新层次结构安装到更新版本（例如 1602 更新）以及从 [!INCLUDE[cm5long](../LocTest/includes/cm5long_md.md)] 进行升级进行了简化。  

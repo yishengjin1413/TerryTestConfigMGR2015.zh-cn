@@ -15,6 +15,7 @@ ms.assetid: 68ac8a07-8e54-4a3c-91e3-e50dc1cabf5d
 caps.latest.revision: 9
 caps.handback.revision: 6
 author: barlanmsft
+translationtype: Human Translation
 ---
 # 使用 System Center Configuration Manager 更新和停用应用程序
 稍后，你可能希望对应用程序进行更改、将其卸载或将已部署的应用程序替换为新的应用程序。[!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 包括以下功能，可帮助你：  

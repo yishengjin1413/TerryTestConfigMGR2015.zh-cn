@@ -15,6 +15,7 @@ ms.assetid: 08e0382d-de05-4a76-ba5c-7223173f7066
 caps.latest.revision: 7
 caps.handback.revision: 3
 author: barlanmsft
+translationtype: Human Translation
 ---
 # 在 System Center Configuration Manager 中配置资产智能
 必须先完成一些配置步骤，然后才能使用 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的资产智能清查和管理整个企业中的软件许可证使用情况。  

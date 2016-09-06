@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 3343eccf-bf09-41cd-9e68-03e893c7f904
 caps.latest.revision: 16
 caps.handback.revision: 16
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 简介
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 属于 Microsoft System Center 管理解决方案套件的一部分，可以帮助你在本地和云中管理设备和用户。  
@@ -86,7 +87,7 @@ caps.handback.revision: 16
  你可以在其他计算机上安装 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 控制台，并且通过使用基于   
                 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 角色的管理权限来限制访问并限制管理用户可以在控制台中看到的内容。  
   
- 有关详细信息，请参阅[安装 System Center Configuration Manager 控制台](Install%20System%20Center%20Configuration%20Manager%20consoles.md)
+ 有关详细信息，请参阅[安装 System Center Configuration Manager 控制台](../LocTest/Install-System-Center-Configuration-Manager-consoles.md)
   
 ##  <a name="BKMK_ApplicationCatalog"></a> 应用程序目录、软件中心和公司门户  
  **应用程序目录**是一个网站，用户可在其中浏览并请求适用于基于 Windows 的电脑的软件。 要使用应用程序目录，你必须为站点安装应用程序目录 Web 服务点和应用程序目录网站点。  

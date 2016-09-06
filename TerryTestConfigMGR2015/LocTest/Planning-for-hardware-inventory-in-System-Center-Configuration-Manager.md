@@ -15,6 +15,7 @@ ms.assetid: e1e30e23-9528-4c2b-a0e2-6f21b51da33b
 caps.latest.revision: 4
 caps.handback.revision: 4
 author: barlanmsft
+translationtype: Human Translation
 ---
 # 在 System Center Configuration Manager 中规划硬件清单
 查看此部分中的信息可帮助你在 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中规划硬件清单。  

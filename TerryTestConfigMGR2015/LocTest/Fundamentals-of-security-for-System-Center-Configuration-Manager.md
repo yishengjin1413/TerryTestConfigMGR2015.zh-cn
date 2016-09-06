@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 035b7f73-8b78-4ed1-835e-a31f9a5c4a02
 caps.latest.revision: 5
 caps.handback.revision: 4
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 安全性的基础知识
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 的安全性由多个层次构成。 第一层是由 Windows 安全功能为操作系统和网络提供的，它包括以下内容：  

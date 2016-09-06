@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 0a2d6c3f-a4e4-4c19-b087-3caada480de9
 caps.latest.revision: 10
 caps.handback.revision: 9
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 的基于角色的管理基础
 在 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中，使用使用基于角色的管理来保护对管理员 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 以及你管理的对象（例如集合、部署和站点）的访问权限。   了解在本主题中引入的概念后，你可以[为 System Center Configuration Manager 配置基于角色的管理](../LocTest/Configure-role-based-administration-for-System-Center-Configuration-Manager.md)。  

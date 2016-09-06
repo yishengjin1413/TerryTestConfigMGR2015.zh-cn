@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 9e3b4726-2ea0-41bb-8bb3-86dbf87f15f1
 caps.latest.revision: 4
 caps.handback.revision: 4
+translationtype: Human Translation
 ---
 # 在 System Center Configuration Manager 中规划证书配置文件
 使用此部分中的下列主题来帮助你在 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中规划证书配置文件。  

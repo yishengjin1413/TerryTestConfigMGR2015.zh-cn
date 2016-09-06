@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 309b7936-a5ca-45c5-8bef-10424eb2e091
 caps.latest.revision: 13
 caps.handback.revision: 13
+translationtype: Human Translation
 ---
 # 使用 System Center Configuration Manager 中的移动应用程序管理策略保护应用
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 应用程序管理策略可让你修改你部署的应用的功能，以帮助其符合公司的合规性策略和安全策略。 例如，你可以限制在受限制的应用内进行剪切、复制和粘贴操作，或配置应用以打开托管浏览器内的所有 Web 链接。 应用管理策略支持：  

@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 435c923c-ea30-4dce-8afd-48962ed85502
 caps.latest.revision: 5
 caps.handback.revision: 4
+translationtype: Human Translation
 ---
 # 在 System Center Configuration Manager 中配置电源管理
 在 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中使用电源管理之前，必须执行下列配置步骤。  

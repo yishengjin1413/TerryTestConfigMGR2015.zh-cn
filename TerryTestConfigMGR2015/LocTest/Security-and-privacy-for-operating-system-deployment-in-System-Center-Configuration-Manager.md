@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 5ee5928f-3d72-4b00-8156-1e0d1030a96c
 caps.latest.revision: 6
 caps.handback.revision: 6
+translationtype: Human Translation
 ---
 # Security and privacy for operating system deployment in System Center Configuration Manager
 This topic contains security and privacy information for operating system deployment in [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)].  

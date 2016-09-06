@@ -12,6 +12,7 @@ applies_to:
 ms.assetid: 7568c9aa-b99e-4466-bfc8-0301aa376930
 caps.latest.revision: 8
 caps.handback.revision: 7
+translationtype: Human Translation
 ---
 # 使用 System Center Configuration Manager 确保设备的合规性
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的符合性设置为你提供管理你组织中设备的配置和符合性所需的工具与资源。 这可以帮助你支持以下业务要求：  

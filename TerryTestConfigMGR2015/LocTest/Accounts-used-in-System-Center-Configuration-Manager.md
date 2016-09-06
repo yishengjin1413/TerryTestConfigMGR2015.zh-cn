@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 72d7b174-f015-498f-a0a7-2161b9929198
 caps.latest.revision: 7
 caps.handback.revision: 6
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中使用的帐户
 使用以下信息来确定 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)]中使用的 Windows 组和帐户、它们的使用方式以及任何要求。  

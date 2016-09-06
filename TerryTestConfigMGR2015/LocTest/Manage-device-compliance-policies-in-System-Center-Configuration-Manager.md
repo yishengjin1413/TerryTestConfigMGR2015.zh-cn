@@ -15,6 +15,7 @@ ms.assetid: 353ec99a-9982-4dab-ae21-d7fb595b3c50
 caps.latest.revision: 22
 caps.handback.revision: 21
 robots: noindex
+translationtype: Human Translation
 ---
 # 在 System Center Configuration Manager 中管理设备合规性策略
 **中的** 合规性策略 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 定义设备必须遵从的规则和设置，以便将设备视为符合条件访问策略。 也可使用符合性策略来监视和修正独立于条件访问的设备符合性问题。  

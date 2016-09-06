@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: c32f757a-02da-43f2-b055-5cfd097d8c43
 caps.latest.revision: 6
 caps.handback.revision: 3
+translationtype: Human Translation
 ---
 # 使用 System Center Configuration Manager 部署和监视 Microsoft 每月发布的安全软件更新的示例方案
 本主题提供一个示例方案，以说明如何使用 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的软件更新来部署和监视 Microsoft 每月发布的安全软件更新。  

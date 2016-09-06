@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 1973f960-19c3-4b85-be71-063375357a5b
 caps.latest.revision: 14
 caps.handback.revision: 14
+translationtype: Human Translation
 ---
 # Set up Windows Phone and Windows 10 Mobile hybrid device management with System Center Configuration Manager and Microsoft Intune
 用户必须首先从 Windows Phone 应用商店安装公司门户应用并进行注册，然后才可以使用 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 通过 [!INCLUDE[mit_next](../LocTest/includes/mit_next_md.md)]来管理 Windows Phone 8.1 及更高版本的移动设备。  若要注册 Windows Phone 8.0 和将公司应用（包括公司门户应用）部署到 Windows Phone 8.1 和更高版本的设备，必须获取“Symantec 企业移动代码签名证书”。 不能使用自己的证书颁发机构所颁发的证书，因为 Windows Phone 设备仅信任 Symantec 证书。  

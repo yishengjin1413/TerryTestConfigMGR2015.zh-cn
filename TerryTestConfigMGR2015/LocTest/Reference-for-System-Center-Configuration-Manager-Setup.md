@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: cdb9fb0c-0912-41e4-b427-f40620971763
 caps.latest.revision: 22
 caps.handback.revision: 21
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 安装的参考
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 安装程序提供了几个主题的链接，以下部分对相关内容进行了详细介绍。 以下部分中的信息可帮助你准备安装 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 站点或层次结构，并帮助你为某些必须在安装过程中做出的决定做好准备。  

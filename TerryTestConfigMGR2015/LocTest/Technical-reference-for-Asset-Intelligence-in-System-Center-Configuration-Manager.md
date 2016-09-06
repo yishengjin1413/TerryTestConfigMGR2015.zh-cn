@@ -15,6 +15,7 @@ ms.assetid: 17ab7821-9eb3-4473-9206-9cb6e7783420
 caps.latest.revision: 4
 caps.handback.revision: 4
 author: barlanmsft
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中的资产智能的技术参考
 本节包含 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的资产智能的技术参考信息。  

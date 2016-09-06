@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 727bca0d-6458-48dc-9a63-3b66d9799ddb
 caps.latest.revision: 4
 caps.handback.revision: 4
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中查询的技术参考
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的查询可根据指定条件从站点数据库中返回信息。 你可以使用查询来检索站点内资源或清单数据和状态消息的相关信息。  

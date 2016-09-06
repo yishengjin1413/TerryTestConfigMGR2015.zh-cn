@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 9f7142e1-c972-4384-853b-2da1568cb3e3
 caps.latest.revision: 5
 caps.handback.revision: 4
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中电源管理的最佳方案
 下列最佳方案适用于 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的电源管理。  

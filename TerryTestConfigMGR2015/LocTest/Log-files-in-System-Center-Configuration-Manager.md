@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: c1ff371e-b0ad-4048-aeda-02a9ff08889e
 caps.latest.revision: 11
 caps.handback.revision: 9
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中的日志文件
 在 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)]中，客户端和站点服务器组件都将过程信息记录在单独的日志文件中。 默认情况下， [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)]中的客户端和服务器组件日志记录已启用。 你可以使用这些日志文件中的信息来帮助你排除在 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 层次结构中可能出现的问题。  

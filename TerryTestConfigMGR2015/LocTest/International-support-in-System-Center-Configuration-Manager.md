@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 46dd9cb2-a812-4b6a-a747-b840f92fef8b
 caps.latest.revision: 6
 caps.handback.revision: 5
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 的国际支持
 下列部分提供技术详细信息，以帮助你配置 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)]，使其符合特定的国际要求。  

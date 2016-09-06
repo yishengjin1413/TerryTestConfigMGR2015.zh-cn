@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: c7c94ba0-d709-4129-8077-075a8abaea1c
 caps.latest.revision: 4
 caps.handback.revision: 3
+translationtype: Human Translation
 ---
 # 使用 System Center Configuration Manager 预先设置在 Windows PE 中的 BitLocker
 利用 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的“预设置 BitLocker”任务序列步骤，你可以在部署操作系统之前从 Windows 预安装环境 \(Windows PE\) 中启用 BitLocker。 由于仅加密使用的磁盘空间，因此加密时间要短得多。 这是通过在运行 Windows 设置进程之前将随机生成的清除保护程序应用于格式化的卷并对卷进行加密来完成的。 Windows 8 和 Windows Server 2012 引入了预设置 BitLocker 的功能。 但是，只要遵循特定步骤，即可在硬盘上预设置 BitLocker 并安装 Windows 7。 当 Windows 7 安装程序完成后，你必须设置 BitLocker 密钥保护程序，因为 Windows 7 BitLocker 控制面板不使用清除保护程序支持 BitLocker。 你必须执行“启用 BitLocker”步骤或者使用 manage\-bde.exe 命令行工具来添加密钥保护程序。  

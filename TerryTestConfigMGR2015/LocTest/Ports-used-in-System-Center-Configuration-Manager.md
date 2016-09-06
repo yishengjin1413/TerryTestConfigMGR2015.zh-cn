@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: c6777fb0-0754-4abf-8a1b-7639d23e9391
 caps.latest.revision: 8
 caps.handback.revision: 7
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中使用的端口
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 是分布式客户端\/服务器系统。[!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 的分布式性质意味着可在站点服务器、站点系统和客户端之间建立连接。 某些连接使用不可配置的端口，而某些连接支持你指定的自定义端口。 如果使用防火墙、路由器、代理服务器和 IPsec 等任何端口筛选技术，必须验证所需的端口是否可用。  

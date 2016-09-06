@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 8ca970dd-e71c-404f-9435-d36e773a0db2
 caps.latest.revision: 7
 caps.handback.revision: 6
+translationtype: Human Translation
 ---
 # 升级支持 System Center Configuration Manager 的本地基础结构
 使用以下信息来帮助你升级运行 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)]的基础结构。  

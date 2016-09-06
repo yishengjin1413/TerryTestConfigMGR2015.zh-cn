@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 3ddff2a7-99eb-4ef8-b969-f3f7f24053db
 caps.latest.revision: 4
 caps.handback.revision: 4
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中的电源管理简介
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的电源管理可满足众多组织监视和减少其计算机功耗的需求。 该功能利用 Windows 中的内置电源管理功能对组织中的计算机应用相关且一致的设置。 你可以在营业时间和非营业时间对计算机应用不同的电源设置。 例如，你可能想要在非营业时间对计算机应用限制性更强的电源计划。 在计算机必须始终保持开机状态的情况下，可以禁止应用电源管理设置。  

@@ -12,6 +12,7 @@ ms.topic: article
 ms.assetid: e3ad36c2-51d4-4467-8bdc-fde18485583e
 caps.latest.revision: 6
 caps.handback.revision: 5
+translationtype: Human Translation
 ---
 # 管理 Skype for Business Online 访问
 基于你指定的条件，使用 **Skype for Business Online** 的条件访问策略管理对 Skype for Business Online 的访问权限。  

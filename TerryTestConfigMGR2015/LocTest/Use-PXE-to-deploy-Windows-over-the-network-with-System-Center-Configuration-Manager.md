@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: da5f8b61-2386-4530-ad54-1a5c51911f07
 caps.latest.revision: 19
 caps.handback.revision: 16
+translationtype: Human Translation
 ---
 # 使用 PXE 与 System Center Configuration Manager 一起通过网络部署 Windows
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中启动了 PXE 的操作系统部署允许客户端计算机通过网络请求和部署操作系统。 在此操作系统部署方案中，操作系统映像包以及 x86 和 x64 Windows PE 启动映像会发送到配置为接受 PXE 启动请求的分发点。  

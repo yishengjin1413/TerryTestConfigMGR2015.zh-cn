@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: c976916e-2f0d-471d-ae19-721de9bbacfa
 caps.latest.revision: 4
 caps.handback.revision: 3
+translationtype: Human Translation
 ---
 # 如何在 System Center Configuration Manager 中部署电子邮件配置文件
 必须将 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的电子邮件配置文件部署到一个或多个用户或设备的集合，然后才能使用这些配置文件。  

@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 9ffaea91-1379-4b86-9953-b25e152f56a9
 caps.latest.revision: 10
 caps.handback.revision: 10
+translationtype: Human Translation
 ---
 # 为 System Center Configuration Manager 中的本地移动设备管理设置设备注册
 必须对用户授予权限，他们才能够为 [!INCLUDE[onprem_first](../LocTest/includes/onprem_first_md.md)] 注册其设备。 若要向用户授予注册设备的权限，请执行以下任务：  

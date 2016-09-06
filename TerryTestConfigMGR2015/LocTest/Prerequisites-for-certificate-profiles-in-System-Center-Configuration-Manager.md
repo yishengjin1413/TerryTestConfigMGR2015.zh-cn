@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 0317fd02-3721-4634-b18b-7c976a4e92bf
 caps.latest.revision: 9
 caps.handback.revision: 9
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中证书配置文件先决条件
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的证书配置文件有外部依赖关系和产品中的依赖关系。  

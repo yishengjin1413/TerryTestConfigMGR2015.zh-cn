@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: a8021bc8-2799-41f4-83c2-e27d1242028c
 caps.latest.revision: 5
 caps.handback.revision: 4
+translationtype: Human Translation
 ---
 # 如何将诊断和使用情况数据用于 System Center Configuration Manager
 为 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 收集的诊断和使用情况数据针对产品工作（或未工作）的方式为 Microsoft 提供近乎即时的反馈，并用于调整将来的更新。 我们也能查看配置数据，这些数据可帮助我们设计并测试生产中的配置。 例如：  

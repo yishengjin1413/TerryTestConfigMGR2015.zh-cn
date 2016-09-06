@@ -15,6 +15,7 @@ ms.assetid: 4c3cc80c-7ed8-43d8-950b-4544184e1dce
 caps.latest.revision: 6
 caps.handback.revision: 5
 author: barlanmsft
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中应用程序管理的技术参考
 本主题列出 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中应用程序管理的技术参考信息。  

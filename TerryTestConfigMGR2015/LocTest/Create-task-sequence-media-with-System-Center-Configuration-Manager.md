@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 90498b4b-6a9b-43cd-b465-1d6c9a52df1c
 caps.latest.revision: 8
 caps.handback.revision: 8
+translationtype: Human Translation
 ---
 # 使用 System Center Configuration Manager 创建任务序列媒体
 可以使用媒体从引用计算机中捕获操作系统映像，或者将操作系统部署到 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 环境中的目标计算机。 你创建的媒体可以是 CD、DVD 集或者 USB 闪存驱动器。  

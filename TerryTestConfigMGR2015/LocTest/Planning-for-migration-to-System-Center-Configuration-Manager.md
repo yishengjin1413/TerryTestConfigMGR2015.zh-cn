@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: b2bf493e-1e10-496f-a139-2646522703ed
 caps.latest.revision: 7
 caps.handback.revision: 6
+translationtype: Human Translation
 ---
 # 规划迁移到 System Center Configuration Manager
 在将数据迁移到 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 目标层次结构之前，请确保你熟知 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 中的站点和层次结构。 有关站点和层次结构的详细信息，请参阅[System Center Configuration Manager 基础知识](../LocTest/Fundamentals-of-System-Center-Configuration-Manager.md)。  

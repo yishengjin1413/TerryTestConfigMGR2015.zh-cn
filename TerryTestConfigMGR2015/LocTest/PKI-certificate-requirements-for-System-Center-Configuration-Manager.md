@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: d6a73e68-57d8-4786-842b-36669541d8ff
 caps.latest.revision: 17
 caps.handback.revision: 15
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 的 PKI 证书要求
 <?xml version="1.0" encoding="UTF-8"?>

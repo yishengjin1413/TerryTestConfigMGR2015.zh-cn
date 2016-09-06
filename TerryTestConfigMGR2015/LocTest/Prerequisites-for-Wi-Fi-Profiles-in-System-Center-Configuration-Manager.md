@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: d2dacb2d-ab3b-42a2-8dc8-94da31f993c2
 caps.latest.revision: 5
 caps.handback.revision: 5
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中 Wi-Fi 配置文件的先决条件
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的 Wi-Fi 配置文件只在产品内有依赖关系。  

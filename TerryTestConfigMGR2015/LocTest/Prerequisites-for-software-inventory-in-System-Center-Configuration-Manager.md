@@ -15,6 +15,7 @@ ms.assetid: a113b6db-c491-483e-91a0-801c8955e758
 caps.latest.revision: 4
 caps.handback.revision: 4
 author: barlanmsft
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中软件清单的先决条件
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的软件清单只包含产品内部的依赖关系。  

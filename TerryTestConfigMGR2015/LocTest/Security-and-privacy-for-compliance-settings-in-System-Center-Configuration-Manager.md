@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 1c409244-6778-4970-a99c-d2508c9cf62b
 caps.latest.revision: 5
 caps.handback.revision: 4
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中的符合性设置的安全和隐私
 本主题包含 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的符合性设置的安全和隐私信息。  

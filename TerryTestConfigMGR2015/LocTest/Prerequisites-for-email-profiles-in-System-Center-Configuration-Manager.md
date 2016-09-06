@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: dccf0b73-43bd-4545-8914-114168ebad36
 caps.latest.revision: 5
 caps.handback.revision: 2
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中电子邮件配置文件的先决条件
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的电子邮件配置文件在产品外部与产品内均有依赖关系。  

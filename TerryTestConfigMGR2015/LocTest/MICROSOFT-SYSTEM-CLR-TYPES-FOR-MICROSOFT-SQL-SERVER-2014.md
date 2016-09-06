@@ -10,6 +10,7 @@ ms.assetid: a0539a3d-c56b-40e2-b291-55fb8f74d714
 caps.latest.revision: 7
 caps.handback.revision: 6
 robots: noindex,nofollow
+translationtype: Human Translation
 ---
 # MICROSOFT SYSTEM CLR TYPES FOR MICROSOFT SQL SERVER 2014
 **微软软件许可条款**  

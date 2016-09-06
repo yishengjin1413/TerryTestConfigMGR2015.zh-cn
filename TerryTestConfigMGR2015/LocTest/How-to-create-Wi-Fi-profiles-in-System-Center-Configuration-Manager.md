@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 321b19b2-a093-4b8f-995f-41f74b886eb5
 caps.latest.revision: 13
 caps.handback.revision: 13
+translationtype: Human Translation
 ---
 # 如何在 System Center Configuration Manager 中创建 Wi-Fi 配置文件
 在 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中创建 Wi-Fi 配置文件以将无线网络设置部署到机构中的设备。 通过部署这些设置，你可以最大程度地减少最终用户连接到无线网络所需执行的工作。  

@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 8d15ae3f-de42-461f-a907-c43873da22d2
 caps.latest.revision: 6
 caps.handback.revision: 3
+translationtype: Human Translation
 ---
 # 在 System Center Configuration Manager 中规划 Mac 计算机的客户端部署
 你可以在运行 Mac OS X 操作系统并使用以下管理功能的 Mac 计算机上安装 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 客户端：  

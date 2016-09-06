@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 58a0d2ae-de76-401f-b854-7a5243949033
 caps.latest.revision: 16
 caps.handback.revision: 15
+translationtype: Human Translation
 ---
 # 在 System Center Configuration Manager 中使用独立媒体部署 Windows，而不使用网络
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的独立媒体包含在计算机上部署操作系统所需的所有内容。 这包括启动映像、操作系统映像和安装操作系统的任务序列（包括应用程序、驱动程序等）。 独立媒体部署允许在下列情况下部署操作系统：  

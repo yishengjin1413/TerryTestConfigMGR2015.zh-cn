@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: dce4b640-c92f-401a-9873-ce9aa9262014
 caps.latest.revision: 8
 caps.handback.revision: 4
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中客户端的 Windows 防火墙和端口设置
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中运行 Windows 防火墙的客户端计算机通常需要你配置例外，以便允许与它们的站点进行通信。 你必须配置的例外取决于你与 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 客户端一起使用的管理功能。  

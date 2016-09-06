@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: ead79e64-1b63-4d0d-8bd5-addff8919820
 caps.latest.revision: 11
 caps.handback.revision: 10
+translationtype: Human Translation
 ---
 # 使用 System Center Configuration Manager 创建可启动媒体
 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 中的可启动媒体包含启动映像、可选的预启动命令及关联的文件以及 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 文件。 为以下操作系统部署方案使用预留媒体：  

@@ -15,6 +15,7 @@ ms.assetid: 3bd1e487-ea18-43c1-b7c3-acbd9b86d429
 caps.latest.revision: 15
 caps.handback.revision: 12
 author: barlanmsft
+translationtype: Human Translation
 ---
 # 使用 System Center Configuration Manager 创建和部署应用程序
 在本主题中，你将直接开始使用 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 创建应用程序。 在此示例中，你将为 Windows PC 创建并部署一个包含业务线应用的应用程序，该应用程序名为“Contoso.msi”且必须安装在你公司中运行 Windows 10 的所有 PC 上。 与此同时，你将了解许多有关你可以执行哪些操作以帮助有效管理应用程序的内容。  

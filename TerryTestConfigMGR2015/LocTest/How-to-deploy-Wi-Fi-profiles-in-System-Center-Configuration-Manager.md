@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 3753608d-b539-44dc-8e3f-b631319e7687
 caps.latest.revision: 5
 caps.handback.revision: 2
+translationtype: Human Translation
 ---
 # 如何在 System Center Configuration Manager 中部署 Wi-Fi 配置文件
 必须将 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的 Wi\-Fi 配置文件部署到一个或多个集合，然后才能使用这些配置文件。  

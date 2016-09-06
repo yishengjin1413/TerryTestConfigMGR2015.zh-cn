@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 6143fd47-48ec-4bca-b53b-5b9b9f067bc3
 caps.latest.revision: 11
 caps.handback.revision: 10
+translationtype: Human Translation
 ---
 # How to upgrade clients for Windows computers in System Center Configuration Manager
 You can upgrade the client on Windows computers using client installation methods or the automatic client upgrade features in [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)]. The following client installation methods are valid ways to upgrade client software on Windows computers:  

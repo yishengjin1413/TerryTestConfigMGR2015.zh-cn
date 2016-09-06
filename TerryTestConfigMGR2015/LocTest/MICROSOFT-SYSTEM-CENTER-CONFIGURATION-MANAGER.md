@@ -12,6 +12,7 @@ ms.assetid: ab0c8731-2dac-483c-bdb6-32f172f60a92
 caps.latest.revision: 4
 caps.handback.revision: 3
 robots: noindex,nofollow
+translationtype: Human Translation
 ---
 # MICROSOFT SYSTEM CENTER CONFIGURATION MANAGER
 **请注意：**使用该软件时，必须遵守您（或您的公司）为从 Microsoft 处获得 Microsoft 服务器软件或在线服务访问权限而签订的许可协议的条款和条件。 例如，如果您是：  

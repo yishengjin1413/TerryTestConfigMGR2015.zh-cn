@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 58d52fdc-bd18-494d-9f3b-ccfc13ea3d35
 caps.latest.revision: 16
 caps.handback.revision: 15
+translationtype: Human Translation
 ---
 # 通过 SQL Server AlwaysOn 实现适用于 System Center Configuration Manager 的高可用性站点数据库
 

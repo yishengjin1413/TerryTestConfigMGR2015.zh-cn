@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 7b6e680a-ab8f-4144-bce3-bc36618b256c
 caps.latest.revision: 5
 caps.handback.revision: 4
+translationtype: Human Translation
 ---
 # 如何在 System Center Configuration Manager 中对软件更新启用 CRL 检查
 默认情况下，在验证 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 软件更新上的签名时不会检查证书吊销列表 \(CRL\)。 如果在每次使用证书时都检查 CRL，则能更好地抵御因使用已吊销的证书而造成的安全威胁，但这样做会使连接出现延迟，并在执行 CRL 检查的计算机上引发额外的处理操作。  

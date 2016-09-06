@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 1952b1cd-b270-4870-88f5-b784c74d0b19
 caps.latest.revision: 4
 caps.handback.revision: 4
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中证书配置文件的操作和维护
 使用此部分中的信息来了解有关 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中证书配置文件的操作和维护的详细信息。  

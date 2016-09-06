@@ -15,6 +15,7 @@ ms.assetid: 2be84a1d-ebb9-47ae-8982-c66d5b92a52a
 caps.latest.revision: 13
 caps.handback.revision: 13
 author: barlanmsft
+translationtype: Human Translation
 ---
 # 规划和配置 System Center Configuration Manager 中的应用程序管理
 使用本主题中的信息来帮助你实现部署 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)]中的应用程序所必需的先决条件。  

@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 4d3f9e6b-4d71-4fc4-9b91-47f1bfbd8c70
 caps.latest.revision: 9
 caps.handback.revision: 8
+translationtype: Human Translation
 ---
 # Terms and Conditions in System Center Configuration Manager
 你可以将 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 条款和条件部署到用户组，以解释设备如何注册、访问工作资源以及使用公司门户对设备和用户有何影响。 用户必须接受这些条款和条件，然后才能使用公司门户进行注册或访问工作。  

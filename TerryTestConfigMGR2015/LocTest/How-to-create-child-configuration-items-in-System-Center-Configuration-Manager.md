@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 113984fa-6150-41a1-89ed-d2a83b979732
 caps.latest.revision: 5
 caps.handback.revision: 4
+translationtype: Human Translation
 ---
 # 如何在 System Center Configuration Manager 中创建子配置项目
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的子配置项目是与原始配置项目保持关系的配置项目的副本；因此，它们从父配置项目继承原始配置。  

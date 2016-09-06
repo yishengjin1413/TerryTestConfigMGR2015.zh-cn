@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 5f38b726-dc00-433a-ba05-5b7dbb0d8e99
 caps.latest.revision: 8
 caps.handback.revision: 8
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中内容管理的安全和隐私
 本主题包含 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)]中的客户端管理的安全和隐私信息。 请结合以下主题阅读本主题：  
@@ -37,7 +38,7 @@ caps.handback.revision: 8
   
  **从站点服务器删除分发点角色** - 默认情况下，分发点和站点服务器安装在同一服务器上。 客户端不必与站点服务器直接通信，因此，为了减少攻击面，请将分发点角色分配给其他站点系统，并将其从站点服务器中删除。  
   
- **保护包访问级别的内容** - 分发点共享允许所有用户读取访问。 要限制可访问内容的用户，请在为 HTTP 配置了分发点时使用包访问帐户。 这一点不适用于基于云的分发点，这些分发点不支持包访问帐户。 有关包访问帐户的详细信息，请参阅[管理帐户以访问内容](Manage%20accounts%20to%20access%20content%20in%20System%20Center%20Configuration%20Manager.md)。
+ **保护包访问级别的内容** - 分发点共享允许所有用户读取访问。 要限制可访问内容的用户，请在为 HTTP 配置了分发点时使用包访问帐户。 这一点不适用于基于云的分发点，这些分发点不支持包访问帐户。 有关包访问帐户的详细信息，请参阅[管理帐户以访问内容](../LocTest/Manage-accounts-to-access-content-in-System-Center-Configuration-Manager.md)。
  
   
  **如果 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 在你添加分发点站点系统角色时安装 IIS，请在分发点安装完成时删除 HTTP 重定向以及 IIS 管理脚本和工具** - 分发点不需要 HTTP 重定向和 IIS 管理脚本和工具。 为了减少攻击面，请为 Web 服务器 (IIS) 角色删除这些角色服务。  有关分发点的 Web 服务器 (IIS) 角色服务的详细信息，请参阅 [System Center Configuration Manager 站点和客户端支持的操作系统](../Topic/Supported%20operating%20systems%20for%20sites%20and%20clients%20for%20System%20Center%20Configuration%20Manager.md)。  

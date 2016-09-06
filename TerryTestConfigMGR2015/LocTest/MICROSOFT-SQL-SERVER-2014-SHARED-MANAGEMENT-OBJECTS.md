@@ -10,6 +10,7 @@ ms.assetid: 77580c83-3fc5-479e-9f94-6bc59ac0fa69
 caps.latest.revision: 6
 caps.handback.revision: 5
 robots: noindex,nofollow
+translationtype: Human Translation
 ---
 # MICROSOFT SQL SERVER 2014 SHARED MANAGEMENT OBJECTS
 **微软软件许可条款**  

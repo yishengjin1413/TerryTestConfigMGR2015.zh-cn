@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: e9778b13-c8a3-40eb-8655-34ac8ce9cdaa
 caps.latest.revision: 12
 caps.handback.revision: 6
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中的软件更新简介
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的软件更新提供了一组工具和资源，可帮助管理跟踪软件更新并将其应用到企业中的客户端计算机的复杂任务。 要维持运行效率、克服安全问题和保持网络基础结构的稳定性，有效的软件更新管理过程是必不可少的。 但是，由于技术日新月异，并且新的安全威胁不断出现，因此需要始终如一地持续关注有效的软件更新管理。  

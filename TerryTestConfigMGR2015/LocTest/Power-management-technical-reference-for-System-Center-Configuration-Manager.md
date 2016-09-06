@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 79923a78-b076-4781-86f8-6178e5e1c892
 caps.latest.revision: 6
 caps.handback.revision: 6
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中电源管理的技术参考
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的电源管理提供一组工具和资源，可用于管理和监视企业中客户端计算机的功耗。  

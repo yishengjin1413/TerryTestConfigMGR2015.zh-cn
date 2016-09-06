@@ -14,9 +14,10 @@ applies_to:
 ms.assetid: 3ae68fa6-8b30-45dd-9d12-50bb67cb4a9d
 caps.latest.revision: 51
 caps.handback.revision: 51
+translationtype: Human Translation
 ---
 # 自 System Center 2012 Configuration Manager 以来 System Center Configuration Manager 中更改的内容
- [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 当前分支引入了自 System Center 2012 Configuration Manager 以来的重要更改。 本主题中的信息将帮助你识别 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 的基准版本 1511 中更显著的更改和新增功能。 若要了解有关 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 的后续更新中引入的其他更改，请参阅 [System Center Configuration Manager 增量版本中的新增功能](What%E2%80%99s%20new%20in%20System%20Center%20Configuration%20Manager%20incremental%20versions.md)。
+ [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 当前分支引入了自 System Center 2012 Configuration Manager 以来的重要更改。 本主题中的信息将帮助你识别 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 的基准版本 1511 中更显著的更改和新增功能。 若要了解有关 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 的后续更新中引入的其他更改，请参阅 [System Center Configuration Manager 增量版本中的新增功能](../LocTest/What’s-new-in-System-Center-Configuration-Manager-incremental-versions.md)。
 
   
 

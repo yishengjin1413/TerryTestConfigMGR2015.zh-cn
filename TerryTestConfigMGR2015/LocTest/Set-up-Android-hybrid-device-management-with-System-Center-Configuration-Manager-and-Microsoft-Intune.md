@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: c517fe34-0130-465b-a020-bdb555878778
 caps.latest.revision: 9
 caps.handback.revision: 9
+translationtype: Human Translation
 ---
 # Set up Android hybrid device management with System Center Configuration Manager and Microsoft Intune
 对于 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)]，用户可以从 Google Play 中下载 Android 公司门户应用，以便他们可以注册 Android（包括 Samsung KNOX）设备。 利用 Android 公司门户应用，你可以管理符合性设置、擦除或删除 Android 设备、部署应用以及收集软件和硬件清单。 如果 Android 设备上未安装 Android 公司门户应用，则你不会拥有所有的管理功能，如清单和符合性设置，但是你仍然可以将应用部署到 Android 设备。  

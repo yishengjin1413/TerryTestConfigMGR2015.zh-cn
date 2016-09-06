@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 4ec48875-512b-4130-9574-89e2a5dcb97b
 caps.latest.revision: 8
 caps.handback.revision: 5
+translationtype: Human Translation
 ---
 # 使用 System Center Configuration Manager 管理计算机和设备
 在站点的 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 层次结构中，你可以采用多种方式管理 PC、服务器和移动设备，具体取决于你在组织中具有的平台类型和管理这些平台所需的功能。[!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 可以管理  

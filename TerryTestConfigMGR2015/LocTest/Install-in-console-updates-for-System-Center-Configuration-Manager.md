@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: c14a3607-253b-41fb-8381-ae2d534a9022
 caps.latest.revision: 36
 caps.handback.revision: 34
+translationtype: Human Translation
 ---
 # 为 System Center Configuration Manager 安装控制台内部更新
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 与 Microsoft 云服务同步，以获取你随后可以从 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 控制台中进行安装的更新。 
@@ -48,7 +49,7 @@ caps.handback.revision: 34
   
 -   [流程图 - 下载 System Center Configuration Manager 的更新](../LocTest/Flowchart---Download-updates-for-System-Center-Configuration-Manager.md)。  
   
--   [流程图 - 更新 System Center Configuration Manager 的副本](../Topic/Flowchart%20-%20Update%20replication%20for%20System%20Center%20Configuration%20Manager.md)  
+-   [流程图 - 更新 System Center Configuration Manager 的副本](../LocTest/Flowchart---Update-replication-for-System-Center-Configuration-Manager.md)  
 
 ## 查看和管理更新和功能的权限
  安装更新 1606 之前，若要在控制台中查看更新，用户必须分配有安全角色，该角色在权限组**站点**中包括**读取**权限并且安全作用域为**全部**。 从更新 1606 开始，引入新的名为**更新包**的基于角色的管理安全类，授予查看和管理 Configuration Manager 控制台中更新的访问。    
@@ -89,7 +90,7 @@ caps.handback.revision: 34
   
 -   从 1511 更新到 1602：请参阅 [1602 的安装更新清单](../LocTest/Checklist-for-installing-update-1602-for-System-Center-Configuration-Manager.md)
 
-- 从 1511 或1602 更新到 1606：请参阅 [1606 的安装更新清单](Checklist%20for%20installing%20update%201606%20for%20System%20Center%20Configuration%20Manager.md)  
+- 从 1511 或1602 更新到 1606：请参阅 [1606 的安装更新清单](../LocTest/Checklist-for-installing-update-1606-for-System-Center-Configuration-Manager.md)  
   
   
 ###  <a name="bkmk_step2"></a> 步骤 2：安装更新之前测试数据库升级  

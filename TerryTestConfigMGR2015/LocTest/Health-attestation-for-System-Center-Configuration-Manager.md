@@ -12,6 +12,7 @@ ms.topic: article
 ms.assetid: 91f9de33-b277-4500-acd6-e7d90a2947c9
 caps.latest.revision: 17
 caps.handback.revision: 15
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 的运行状况证明
 管理员可以在 Configuration Manager 控制台中查看 [Windows 10 设备运行状况证明](https://technet.microsoft.com/library/mt592023.aspx)的状态。  此功能仅供由 Configuration Manager 管理的电脑和本地资源以及 Microsoft Intune 管理的移动设备使用。 管理员可以指定是通过云还是本地基础结构进行报告。 这使无法进行 Internet 访问的客户端电脑可以启用和监视使用运行状况证明的设备。 设备运行状况证明让管理员能够确保客户端计算机启用以下可信 BIOS、TPM 和启动软件配置：  

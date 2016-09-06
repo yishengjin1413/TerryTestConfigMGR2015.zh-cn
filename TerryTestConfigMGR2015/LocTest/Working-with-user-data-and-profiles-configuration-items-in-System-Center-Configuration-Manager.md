@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: a9439076-6a27-4361-a544-49bbfe7abc8a
 caps.latest.revision: 6
 caps.handback.revision: 5
+translationtype: Human Translation
 ---
 # 使用 System Center Configuration Manager 中的用户数据和配置文件的配置项目
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的用户数据和配置文件配置项目包含的设置可为层次结构中的用户管理运行 Windows 8 的计算机上的文件夹重定向、脱机文件和漫游配置文件。 例如，你能够：  

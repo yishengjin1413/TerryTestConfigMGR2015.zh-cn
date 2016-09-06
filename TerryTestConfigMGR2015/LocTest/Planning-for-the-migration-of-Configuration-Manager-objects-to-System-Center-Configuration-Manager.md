@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 066caf00-e419-4efb-93d3-ba4ba878297c
 caps.latest.revision: 7
 caps.handback.revision: 6
+translationtype: Human Translation
 ---
 # 规划将 Configuration Manager 对象迁移到 System Center Configuration Manager
 借助 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)]，你可以迁移与源站点上的不同功能关联的许多不同对象。 使用下列部分来帮助你规划层次结构之间的对象迁移。  

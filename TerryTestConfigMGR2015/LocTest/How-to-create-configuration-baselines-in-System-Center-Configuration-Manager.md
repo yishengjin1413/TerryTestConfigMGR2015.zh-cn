@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 678c9622-c61b-47d1-ba25-690616e431c7
 caps.latest.revision: 5
 caps.handback.revision: 3
+translationtype: Human Translation
 ---
 # 如何在 System Center Configuration Manager 中创建配置基线
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的配置基线包含预定义的配置项目，还可包含其他配置基线。 在创建配置基线之后，可以将其部署到集合以便该集合中的设备下载配置基线并评估其符合性。  

@@ -10,6 +10,7 @@ ms.topic: article
 ms.assetid: 8ca71609-fda1-4800-b28e-c8e786f3b16f
 caps.latest.revision: 2
 caps.handback.revision: 2
+translationtype: Human Translation
 ---
 # 如何在 Configuration Manager 本地移动设备管理 (MDM) 中设置资源访问
 在此处插入说明。  

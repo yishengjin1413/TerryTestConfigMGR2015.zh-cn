@@ -9,6 +9,7 @@ ms.topic: article
 ms.assetid: 242200ae-8163-48a9-bb9c-e716c5c474e3
 caps.latest.revision: 2
 caps.handback.revision: 2
+translationtype: Human Translation
 ---
 # 如何在 Configuration Manager 中监视 Mac 计算机
 在此处插入说明。  

@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: bc2282d5-0571-465b-9528-a555855eaacd
 caps.latest.revision: 19
 caps.handback.revision: 18
+translationtype: Human Translation
 ---
 # 关于 System Center Configuration Manager 中的服务连接点
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 服务连接点是一个站点系统角色，为层次结构提供几个重要的功能。 配置服务连接点之前，需了解和规划其使用范围，这会影响你配置此站点系统角色的方式：  

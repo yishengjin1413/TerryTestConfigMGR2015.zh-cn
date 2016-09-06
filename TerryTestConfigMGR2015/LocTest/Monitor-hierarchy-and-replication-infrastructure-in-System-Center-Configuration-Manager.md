@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 3fab4d67-8d2a-45ce-8b06-471280102cf6
 caps.latest.revision: 11
 caps.handback.revision: 10
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中的监视层次结构和复制基础结构
 要在 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)]中监视基础架构和操作，请使用 **控制台中的“监视”**[!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 工作区。  

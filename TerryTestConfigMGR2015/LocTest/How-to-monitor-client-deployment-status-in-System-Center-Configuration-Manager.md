@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 20a573b3-53cb-4ed5-bae1-7542f533ed20
 caps.latest.revision: 11
 caps.handback.revision: 11
+translationtype: Human Translation
 ---
 # 如何在 System Center Configuration Manager 中监视客户端部署状态
 在站点间部署客户端需要时间，并且首次进行某些安装并不会成功。 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 控制台提供了一种通过实时报告客户端部署状态，从而关注集合内客户端部署的方法。  

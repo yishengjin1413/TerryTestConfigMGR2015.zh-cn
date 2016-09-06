@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 4036f3d7-6658-4118-9bd0-6c1a3b276f56
 caps.latest.revision: 4
 caps.handback.revision: 3
+translationtype: Human Translation
 ---
 # 如何在 System Center Configuration Manager 中的 Android 设备上安装证书
 在 Android 设备上安装证书时，最终用户必须执行许多操作才能接受和安装证书。 对你的最终用户进行关于他们可能需要执行的操作方面的培训很重要，因为如果用户未执行正确的操作，那么将不会正确安装证书。  

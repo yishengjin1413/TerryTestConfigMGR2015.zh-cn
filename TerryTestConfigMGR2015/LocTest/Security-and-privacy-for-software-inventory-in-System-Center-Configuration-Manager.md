@@ -15,6 +15,7 @@ ms.assetid: 8e68e1fb-a8ec-4543-bb8a-cbbaf184a418
 caps.latest.revision: 5
 caps.handback.revision: 4
 author: barlanmsft
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中软件清单的安全和隐私
 本主题包含 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的软件清单的安全和隐私信息。  

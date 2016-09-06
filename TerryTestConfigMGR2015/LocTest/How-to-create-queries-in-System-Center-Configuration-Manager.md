@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 868049d3-3209-47ec-b34a-9cc26941893a
 caps.latest.revision: 5
 caps.handback.revision: 4
+translationtype: Human Translation
 ---
 # 如何在 System Center Configuration Manager 中创建查询
 使用本主题中的下列部分来帮助你在 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中创建或导入查询。  

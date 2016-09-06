@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 02979fb8-ea7e-4ec6-b7e0-ecbfda73e52d
 caps.latest.revision: 9
 caps.handback.revision: 9
+translationtype: Human Translation
 ---
 # 在 System Center Configuration Manager 中规划本地移动设备管理
 在准备用于处理 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 的 [!INCLUDE[onprem_next](../LocTest/includes/onprem_next_md.md)]基础结构之前，请考虑以下要求：  

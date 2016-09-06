@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: e562e2a0-8df8-4952-952f-e8c38461c612
 caps.latest.revision: 6
 caps.handback.revision: 3
+translationtype: Human Translation
 ---
 # 如何在 System Center Configuration Manager 中管理查询
 使用本主题中的信息来帮助你在 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中管理查询。  

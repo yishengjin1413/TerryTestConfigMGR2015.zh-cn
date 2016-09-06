@@ -11,6 +11,7 @@ applies_to:
 ms.assetid: fa2fcd1e-a733-4568-af7a-a43df957043b
 caps.latest.revision: 5
 caps.handback.revision: 4
+translationtype: Human Translation
 ---
 # Endpoint Protection
 Microsoft System Center Endpoint Protection 提供了适用于 Microsoft 平台的反恶意软件和安全解决方案。  

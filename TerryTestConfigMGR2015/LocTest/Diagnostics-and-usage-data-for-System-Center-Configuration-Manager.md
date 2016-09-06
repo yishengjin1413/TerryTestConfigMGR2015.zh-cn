@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 88ac4e55-d47b-4c94-b9c3-704c6a48b845
 caps.latest.revision: 9
 caps.handback.revision: 8
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 的诊断和使用情况数据
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 收集有关自身的诊断和使用情况数据，这些数据由 Microsoft 用于改进将来版本的安装体验、质量和安全性。  

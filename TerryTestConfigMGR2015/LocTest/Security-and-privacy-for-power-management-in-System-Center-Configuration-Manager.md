@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 469ff35f-59a1-484d-902b-107dd6070baf
 caps.latest.revision: 5
 caps.handback.revision: 4
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中电源管理的安全和隐私
 此部分包含 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中电源管理的安全和隐私信息。  

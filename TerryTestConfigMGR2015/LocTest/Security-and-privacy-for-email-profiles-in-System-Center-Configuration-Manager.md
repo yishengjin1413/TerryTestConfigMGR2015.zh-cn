@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 601e3a8d-e9e7-456f-a844-f19c3dae12a9
 caps.latest.revision: 3
 caps.handback.revision: 3
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中电子邮件配置文件的安全和隐私
 本主题包含 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的电子邮件配置文件的安全和隐私信息。  

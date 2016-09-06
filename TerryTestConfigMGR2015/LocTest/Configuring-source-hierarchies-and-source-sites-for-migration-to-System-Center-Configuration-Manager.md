@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: ccce7cb5-e18f-4337-8adf-2018edca3c00
 caps.latest.revision: 5
 caps.handback.revision: 4
+translationtype: Human Translation
 ---
 # 配置源层次结构和源站点以迁移到 System Center Configuration Manager
 为了能够将数据迁移到 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 环境，你必须配置支持的 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 源层次结构，以及该层次结构中一个或多个包含要迁移的数据的源站点。  

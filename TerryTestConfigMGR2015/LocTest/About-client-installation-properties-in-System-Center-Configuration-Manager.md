@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: c890fd27-7a8c-4f51-bbe2-f9908af1f42b
 caps.latest.revision: 15
 caps.handback.revision: 15
+translationtype: Human Translation
 ---
 # 关于 System Center Configuration Manager 中的客户端安装属性
 使用 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] CCMSetup.exe 命令，您可以在您的企业计算机上手动安装 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 客户端软件。  

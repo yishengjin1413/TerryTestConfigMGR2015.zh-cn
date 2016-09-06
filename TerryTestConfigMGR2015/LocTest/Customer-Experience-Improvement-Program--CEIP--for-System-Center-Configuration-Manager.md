@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: bd5b34c9-7304-4743-81c3-96f1e0c80702
 caps.latest.revision: 4
 caps.handback.revision: 4
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 的客户体验改善计划 (CEIP)
 在 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 控制台的安装过程中，你可以选择参与**客户体验改善计划** (CEIP)。 尽管 CEIP 在默认情况下处于关闭状态，但如果之前已启用，则它将保持启用状态。  

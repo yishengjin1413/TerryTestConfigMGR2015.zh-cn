@@ -15,6 +15,7 @@ ms.assetid: 30bf2451-5415-4be2-ba8d-21759370cd83
 caps.latest.revision: 5
 caps.handback.revision: 3
 author: barlanmsft
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中的集合的安全和隐私
 <?xml version="1.0" encoding="utf-8"?>

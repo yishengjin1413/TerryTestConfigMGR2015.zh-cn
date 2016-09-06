@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 44153689-70e8-42ad-9ae8-17ae35f6a2e3
 caps.latest.revision: 9
 caps.handback.revision: 9
+translationtype: Human Translation
 ---
 # 在 System Center Configuration Manager 中规划 Linux 和 UNIX 计算机的客户端部署
 你可以在运行 Linux 或 UNIX 的计算机上安装 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 客户端。 此客户端适用于作为工作组计算机运行的服务器，并且不支持与登录用户交互。 安装客户端软件后，客户端将与 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 站点建立通信，你可以使用 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 控制台和报表管理客户端。  

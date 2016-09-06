@@ -15,6 +15,7 @@ ms.assetid: a53e4cf1-518a-4210-9c16-022c4261d2fe
 caps.latest.revision: 7
 caps.handback.revision: 3
 author: barlanmsft
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中集合的先决条件
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的集合只包含产品内部的依赖关系。  

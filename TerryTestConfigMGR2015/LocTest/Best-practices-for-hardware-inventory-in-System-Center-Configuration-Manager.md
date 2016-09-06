@@ -15,6 +15,7 @@ ms.assetid: daed49d1-060c-4511-9cfe-3890d396ae68
 caps.latest.revision: 5
 caps.handback.revision: 4
 author: barlanmsft
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中硬件清单的最佳方案
 使用下面的最佳方案信息可帮助你在 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中使用硬件清单。  

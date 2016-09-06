@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: c4e2dc48-91c2-438f-9e1a-947b1125b0e2
 caps.latest.revision: 3
 caps.handback.revision: 3
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中的电子邮件配置文件简介
 电子邮件配置文件与 [!INCLUDE[mit_first](../LocTest/includes/mit_first_md.md)] 配合使用，使你可以通过使用 Exchange ActiveSync 来利用电子邮件配置文件和限制来配置设备。 这使用户只需进行最少的设置便可访问其设备上的企业电子邮件。  

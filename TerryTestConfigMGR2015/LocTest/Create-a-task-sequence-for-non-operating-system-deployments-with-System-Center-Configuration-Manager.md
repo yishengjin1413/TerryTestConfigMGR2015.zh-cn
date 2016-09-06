@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 92aaec8a-8751-442a-b64b-62ab05b5bf50
 caps.latest.revision: 6
 caps.handback.revision: 5
+translationtype: Human Translation
 ---
 # 使用 System Center Configuration Manager 创建用于非操作系统部署的任务序列
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的任务序列用于自动执行你环境中的各种任务。 这些任务经过测试主要设计用于部署操作系统。[!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 具有许多其他功能，这些功能将是以下这些方案采用的主要技术：[应用程序安装](http://technet.microsoft.com/library/mt627959\(TechNet.10\).aspx)、[软件更新安装](http://technet.microsoft.com/library/mt634340\(TechNet.10\).aspx)、[设置配置](http://technet.microsoft.com/library/mt629310\(TechNet.10\).aspx)或自定义自动化。 此外，你也可以考虑诸如 [Orchestrator](https://technet.microsoft.com/library/hh237242.aspx) 和 [Service Management Automation](https://technet.microsoft.com/library/dn469260.aspx) 等其他 Microsoft System Center 自动化技术。  

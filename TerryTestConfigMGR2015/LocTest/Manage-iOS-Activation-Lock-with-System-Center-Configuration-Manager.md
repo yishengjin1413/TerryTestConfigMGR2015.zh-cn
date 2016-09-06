@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: e2745bac-e1b4-4dac-8ac7-32f1c820bc9c
 caps.latest.revision: 9
 caps.handback.revision: 9
+translationtype: Human Translation
 ---
 # 使用 System Center Configuration Manager 管理 iOS 激活锁定
   

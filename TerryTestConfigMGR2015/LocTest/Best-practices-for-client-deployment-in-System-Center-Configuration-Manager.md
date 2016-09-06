@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: a933d69c-5feb-4b2b-84e8-56b3b64d5947
 caps.latest.revision: 11
 caps.handback.revision: 11
+translationtype: Human Translation
 ---
 # 在 System Center Configuration Manager 中部署客户端的最佳方案
 使用下列最佳方案信息来帮助你在 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)]中将客户端部署在计算机上。  
@@ -72,7 +73,7 @@ caps.handback.revision: 11
   
  如果可以选择要启用的写入筛选器类型，请选择基于文件的写入筛选器，并配置例外以在设备下次重新启动之前保持客户端状态和清单数据，以在 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 客户端上提高网络和 CPU 效率。 有关写入筛选器的详细信息，请参阅   [Planning for client deployment to Windows Embedded devices in System Center Configuration Manager](../LocTest/Planning-for-client-deployment-to-Windows-Embedded-devices-in-System-Center-Configuration-Manager.md)。  
   
- 有关主站点可支持的最大 Windows Embedded 客户端数量的详细信息，请参阅[客户端和设备支持的操作系统](Supported%20operating%20systems%20for%20clients%20and%20devices%20for%20System%20Center%20Configuration%20Manager.md)。  
+ 有关主站点可支持的最大 Windows Embedded 客户端数量的详细信息，请参阅[客户端和设备支持的操作系统](../LocTest/Supported-operating-systems-for-clients-and-devices-for-System-Center-Configuration-Manager.md)。  
   
 ## 另请参阅  
  [在 System Center Configuration Manager 中部署客户端的规划注意事项](../LocTest/Planning-considerations-for-deploying-clients-in-System-Center-Configuration-Manager.md)

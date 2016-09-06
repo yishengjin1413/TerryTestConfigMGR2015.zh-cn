@@ -15,6 +15,7 @@ ms.assetid: 784c295c-b8b8-4202-ab9f-665908d49d6d
 caps.latest.revision: 5
 caps.handback.revision: 4
 author: barlanmsft
+translationtype: Human Translation
 ---
 # 监视 System Center Configuration Manager 控制台中的应用程序
 在 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中，可以监视所有软件的部署，包括软件更新、符合性设置、应用程序、任务序列以及包和程序。 可以通过使用 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 控制台中的“监视”工作区或使用报表来监视部署。  

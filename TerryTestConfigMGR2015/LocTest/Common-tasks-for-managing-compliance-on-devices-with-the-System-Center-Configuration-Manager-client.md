@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 4e345791-74db-41ad-b472-024ce6521daf
 caps.latest.revision: 8
 caps.handback.revision: 7
+translationtype: Human Translation
 ---
 # 使用 System Center Configuration Manager 客户端在设备上管理符合性的常见任务
 本主题中的方案通过演示你可能遇到的一些常见方案介绍了如何使用 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 符合性设置。  

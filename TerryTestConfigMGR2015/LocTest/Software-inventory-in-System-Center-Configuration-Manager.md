@@ -15,6 +15,7 @@ ms.assetid: b40ecfc7-de38-479c-9f73-b66b2763d44e
 caps.latest.revision: 6
 caps.handback.revision: 6
 author: barlanmsft
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中的软件清单
 使用 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 软件清单来收集和报告有关存储在组织中客户端计算机上的文件的详细信息。 你也可以使用软件清单从客户端计算机中收集文件并将其存储在站点服务器上的文件夹中。  

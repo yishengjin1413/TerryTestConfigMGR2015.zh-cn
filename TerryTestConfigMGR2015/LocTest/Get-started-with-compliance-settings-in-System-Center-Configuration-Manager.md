@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: a2742d52-851e-4abc-b623-d12d91684c0b
 caps.latest.revision: 11
 caps.handback.revision: 10
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中的符合性设置入门
 在开始创建 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 配置项目之前，应当查看此主题以理解符合性设置如何工作，并了解需要了解的核心概念。  

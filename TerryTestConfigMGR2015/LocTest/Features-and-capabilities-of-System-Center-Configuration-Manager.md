@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 5d388399-07ca-431c-a9b2-56c69771aa87
 caps.latest.revision: 18
 caps.handback.revision: 15
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 的特性和功能
 <?xml version="1.0" encoding="UTF-8"?>

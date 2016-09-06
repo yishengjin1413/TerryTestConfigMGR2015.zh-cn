@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 7f0e9251-fcee-4459-8975-f291596b6109
 caps.latest.revision: 7
 caps.handback.revision: 5
+translationtype: Human Translation
 ---
 # 在 System Center Configuration Manager 中规划客户端管理
 当在 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中规划客户端管理时，了解在你的组织中部署客户端、更新客户端和管理客户端所需哪些基础结构和安全性很重要。  

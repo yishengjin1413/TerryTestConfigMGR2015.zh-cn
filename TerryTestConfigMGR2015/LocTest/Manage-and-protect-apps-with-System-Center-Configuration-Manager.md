@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 3c43bd1a-3c06-4471-9463-b09093b25ef4
 caps.latest.revision: 12
 caps.handback.revision: 12
+translationtype: Human Translation
 ---
 # 使用 System Center Configuration Manager 管理和保护应用
 在本部分中，你将找到有关如何保护、配置和管理 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 应用程序的详细信息。  
@@ -41,7 +42,7 @@ caps.handback.revision: 12
  ## 管理来自适用于企业的 Windows 应用商店的应用
  [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 可通过从应用商店导入许可证信息并跟踪已用的许可证数量，帮助你部署和管理通过适用于企业的 Windows 应用商店批量采购的应用。  
  
- [使用 System Center Configuration Manager 管理来自适用于企业的 Windows 应用商店的应用](Manage%20apps%20from%20the%20Windows%20Store%20for%20Business%20with%20System%20Center%20Configuration%20Manager.md)
+ [使用 System Center Configuration Manager 管理来自适用于企业的 Windows 应用商店的应用](../LocTest/Manage-apps-from-the-Windows-Store-for-Business-with-System-Center-Configuration-Manager.md)
   
 ## iOS 应用配置策略  
  一些 iOS 应用程序支持预配置应用程序应连接到的设置，如服务器或数据库。 Configuration Manager 现在支持将应用配置策略部署到设备，使用户无需知道该信息即可立即使用此应用，这能有助于减少支持呼叫。  

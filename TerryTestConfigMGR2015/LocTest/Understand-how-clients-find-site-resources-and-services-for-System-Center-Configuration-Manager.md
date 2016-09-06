@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: ae72df4b-5f5d-4e19-9052-bda28edfbace
 caps.latest.revision: 10
 caps.handback.revision: 9
+translationtype: Human Translation
 ---
 # 了解客户端如何查找 System Center Configuration Manager 的站点资源和服务
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 客户端使用名为**服务定位**的进程来查找可与之通信的站点系统服务器，此服务器提供客户端定向使用的服务。   了解客户端如何以及何时使用服务定位查找站点资源可以帮助配置你的站点以成功支持客户端操作。   这些配置可能需要站点与域和网络配置（如 Active Directory 域服务 \(AD DS\) 和 DNS）进行交互，或者需要你配置更复杂的替代项。  

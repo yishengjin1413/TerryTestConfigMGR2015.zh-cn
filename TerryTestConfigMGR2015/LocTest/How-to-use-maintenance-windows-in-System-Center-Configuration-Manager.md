@@ -15,6 +15,7 @@ ms.assetid: 4564ebcb-41a8-4eb0-afdb-2e1f0795cfa2
 caps.latest.revision: 6
 caps.handback.revision: 5
 author: barlanmsft
+translationtype: Human Translation
 ---
 # 如何在 Configuration Manager 中使用维护时段
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的维护时段提供了一种方法，利用该方法，管理用户可以定义对设备集合成员进行各种 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 操作的时间段。 可以使用维护时段来帮助确保在不会影响组织工作效率的时间段进行客户端配置更改。  

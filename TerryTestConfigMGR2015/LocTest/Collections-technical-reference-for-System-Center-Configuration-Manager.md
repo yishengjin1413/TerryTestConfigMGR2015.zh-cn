@@ -15,6 +15,7 @@ ms.assetid: 4074d4fd-7a9b-4b80-9a0d-f4bfc63914fa
 caps.latest.revision: 5
 caps.handback.revision: 5
 author: barlanmsft
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中集合的技术参考
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的集合提供了管理多组计算机、移动设备和组织中的其他资源的方法。  

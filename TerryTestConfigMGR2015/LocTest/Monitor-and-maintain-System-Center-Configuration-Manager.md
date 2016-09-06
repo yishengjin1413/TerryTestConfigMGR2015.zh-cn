@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 3ebeabcc-6057-4f5c-8d0f-c23a7c02cca5
 caps.latest.revision: 11
 caps.handback.revision: 10
+translationtype: Human Translation
 ---
 # 监视和维护 System Center Configuration Manager
 在启动并运行 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 基础结构后，你将想要监视和维护此基础结构以使其顺畅运行。 这可以包括：  

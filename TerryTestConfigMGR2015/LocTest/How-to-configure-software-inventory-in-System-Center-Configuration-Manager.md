@@ -15,6 +15,7 @@ ms.assetid: cc226259-0e28-410a-94d3-223bdc948818
 caps.latest.revision: 4
 caps.handback.revision: 4
 author: barlanmsft
+translationtype: Human Translation
 ---
 # 如何在 System Center Configuration Manager 中配置软件清单
 可以创建名为 **Skpswi.dat** 的隐藏文件并将其置于客户端硬盘的根目录中，以便从 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 软件清单中排除它。 还可将此文件放置在您希望从软件清单中排除的任何文件夹结构的根目录下。 此过程可用于在单个工作站或服务器客户端上（例如大型文件服务器）禁用软件清单。  

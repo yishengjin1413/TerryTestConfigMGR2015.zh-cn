@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 594eb284-0d93-4c5d-9ae6-f0f71203682a
 caps.latest.revision: 8
 caps.handback.revision: 7
+translationtype: Human Translation
 ---
 # 如何查看 System Center Configuration Manager 的诊断和使用情况数据
 可以查看 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 层次结构中的诊断和使用情况数据，以确认其中未包括敏感或身份信息。 遥测数据在站点数据库的 **TEL\_TelemetryResults** 表中汇总并存储，并设置为可用于高效编程的格式。 尽管以下选项可让你查看究竟向 Microsoft 发送了哪些数据，但这些数据不会用于其他目的（如数据分析）。  

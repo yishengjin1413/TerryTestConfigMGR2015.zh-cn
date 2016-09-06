@@ -15,6 +15,7 @@ ms.assetid: b20bbcef-4a13-4aef-9bb2-8f3267ece82e
 caps.latest.revision: 4
 caps.handback.revision: 4
 author: barlanmsft
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中硬件清单的先决条件
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的硬件清单只包含产品内部的依赖关系。  

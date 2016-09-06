@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 41d6d5d8-ba84-4efb-b105-4d1eed239824
 caps.latest.revision: 6
 caps.handback.revision: 3
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中软件更新的安全和隐私
 本主题包含 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的软件更新的安全和隐私信息。  

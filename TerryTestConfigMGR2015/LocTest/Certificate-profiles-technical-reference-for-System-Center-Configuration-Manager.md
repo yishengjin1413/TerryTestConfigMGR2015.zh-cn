@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 39945909-ac2f-46be-b8c3-b34b57b054d3
 caps.latest.revision: 4
 caps.handback.revision: 4
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中证书配置文件的技术参考
 使用此部分中的下列主题来查看有关 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中证书配置文件的技术参考信息  

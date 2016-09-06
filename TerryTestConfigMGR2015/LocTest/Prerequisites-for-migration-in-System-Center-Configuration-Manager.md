@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: ec976930-7467-4d3c-b33c-991bf408a74a
 caps.latest.revision: 10
 caps.handback.revision: 10
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中迁移的先决条件
 要从支持的源层次结构中进行迁移，你必须拥有每个适用的 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 源站点的访问权限以及 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 目标站点内的权限才能配置和运行迁移操作。  

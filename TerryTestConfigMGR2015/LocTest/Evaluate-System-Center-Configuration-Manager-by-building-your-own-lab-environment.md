@@ -15,6 +15,7 @@ ms.assetid: 01b30260-f03a-4851-a549-d1b76e8cfc69
 caps.latest.revision: 25
 caps.handback.revision: 24
 author: barlanmsft
+translationtype: Human Translation
 ---
 # 通过构建你自己的实验室环境来评估 System Center Configuration Manager
 了解如何创建实验室环境来评估 System Center Configuration Manager 在组织中的使用。  

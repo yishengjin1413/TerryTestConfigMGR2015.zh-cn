@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 948664f2-239d-47a8-92fc-f8efeebd5796
 caps.latest.revision: 7
 caps.handback.revision: 6
+translationtype: Human Translation
 ---
 # 如何在 System Center Configuration Manager 中管理 Linux 和 UNIX 服务器客户端
 当你使用 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 管理 Linux 和 UNIX 服务器时，你可以配置集合、维护时段和客户端设置，以帮助管理服务器。 此外，尽管适用于 Linux 和 UNIX 的 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 客户端没有用户界面，但你可以强制客户端手动轮询客户端策略。 以下各节提供有关这些配置的详细信息。  

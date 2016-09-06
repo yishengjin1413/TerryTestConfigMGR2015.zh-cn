@@ -15,6 +15,7 @@ ms.assetid: 9181c84e-d74f-44ea-9bb9-f7805eb465fc
 caps.latest.revision: 8
 caps.handback.revision: 7
 author: barlanmsft
+translationtype: Human Translation
 ---
 # 使用 System Center Configuration Manager 创建 Windows 应用程序
 除了创建应用程序的其他 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 要求和过程外，在创建和部署适用于 Windows 设备的应用程序时还必须考虑以下注意事项。  

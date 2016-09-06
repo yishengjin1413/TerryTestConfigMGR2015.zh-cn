@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 55ae86a7-f0ab-4c09-b4da-89cd0e7fa0e0
 caps.latest.revision: 6
 caps.handback.revision: 5
+translationtype: Human Translation
 ---
 # 配置 System Center Configuration Manager 中的报表
 在 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 控制台中创建、修改和运行报表之前，必须执行许多配置任务。 使用本主题中的下列部分帮助你在 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 层次结构中配置报表：  

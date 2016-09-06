@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 7591e386-a9ab-4640-8643-332dce5aa006
 caps.latest.revision: 12
 caps.handback.revision: 7
+translationtype: Human Translation
 ---
 # 创建任务序列来升级 System Center Configuration Manager 中的操作系统
 在 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中使用任务序列将目标计算机上的操作系统从 Windows 7 或更高版本升级到 Windows 10。 你创建一个任务序列，该任务序列引用要安装在目标计算机上的操作系统映像，以及要安装的任何其他附加内容（例如应用程序或软件更新）。 用于升级操作系统的任务序列属于[使用 System Center Configuration Manager 将 Windows 升级到最新版本](../LocTest/Upgrade-Windows-to-the-latest-version-with-System-Center-Configuration-Manager.md)方案的一部分。  

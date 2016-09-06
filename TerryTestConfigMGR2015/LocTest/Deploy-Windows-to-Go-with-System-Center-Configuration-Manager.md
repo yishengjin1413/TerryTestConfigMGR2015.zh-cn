@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 8eed50f5-80a4-422e-8aa6-a7ccb2171475
 caps.latest.revision: 8
 caps.handback.revision: 7
+translationtype: Human Translation
 ---
 # 使用 System Center Configuration Manager 部署 Windows to Go
 本主题介绍了在 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中设置 Windows to Go 的步骤。 Windows To Go 是 Windows 8 的企业功能，利用此功能，可以创建一个 Windows To Go 工作区，无论计算机上运行哪种操作系统，均可以在满足 Windows 7 或 Windows 8 认证要求的计算机上从 USB 连接的外部驱动器中启动该工作区。 Windows To Go 工作区可以使用企业对其台式机和便携计算机使用的相同映像，并且可以用相同的方式接受管理。  

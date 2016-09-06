@@ -9,6 +9,7 @@ ms.topic: article
 ms.assetid: 79f90efe-06f1-459b-bf91-7df71e6183f5
 caps.latest.revision: 6
 caps.handback.revision: 5
+translationtype: Human Translation
 ---
 # 有关监视 Configuration Manager 中的计算机和设备的注意事项
 使用 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 控制台的“监视”工作区中的“客户端状态”节点来监视层次结构中的客户端计算机的运行状况与活动。[!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 使用以下两种方法来评估客户端计算机的总体状态。  

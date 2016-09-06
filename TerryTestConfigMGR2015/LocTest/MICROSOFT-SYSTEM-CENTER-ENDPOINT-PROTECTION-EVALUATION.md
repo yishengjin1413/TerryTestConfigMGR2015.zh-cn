@@ -10,6 +10,7 @@ ms.assetid: 906806fe-6d7b-4536-95fd-829290367c5c
 caps.latest.revision: 5
 caps.handback.revision: 4
 robots: noindex,nofollow
+translationtype: Human Translation
 ---
 # MICROSOFT SYSTEM CENTER ENDPOINT PROTECTION 评估
 **微软评估软件许可条款**  

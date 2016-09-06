@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 54aa20d5-791e-4416-9db4-5aaea472c0b7
 caps.latest.revision: 10
 caps.handback.revision: 6
+translationtype: Human Translation
 ---
 # 为 System Center Configuration Manager 定义站点边界和边界组
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 的边界定义 Intranet 上的网络位置，其中可包含你要管理的设备。 边界组是你所配置的边界的逻辑分组。 边界组和边界在整个层次结构中可用，并且你不为单独的站点配置边界和边界组。  

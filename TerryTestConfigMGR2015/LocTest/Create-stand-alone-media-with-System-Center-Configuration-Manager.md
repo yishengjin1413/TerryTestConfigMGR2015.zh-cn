@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: c6b9ccd2-78d9-4f0e-b25a-70d0866300ba
 caps.latest.revision: 21
 caps.handback.revision: 18
+translationtype: Human Translation
 ---
 # 使用 System Center Configuration Manager 创建独立媒体
 <?xml version="1.0" encoding="utf-8"?>

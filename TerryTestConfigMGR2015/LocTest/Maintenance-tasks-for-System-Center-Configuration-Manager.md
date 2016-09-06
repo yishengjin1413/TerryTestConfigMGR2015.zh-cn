@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 625bb787-6d16-47a0-8b0f-b129cd909ca3
 caps.latest.revision: 7
 caps.handback.revision: 6
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 的维护任务
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 站点和层次结构需要定期维护和监视以有效和连续提供服务。 通过进行定期维护，可以确保硬件、软件和 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 数据库继续正常和有效地运行。 最佳性能大大降低了出现故障的风险。  

@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: a95bc292-af10-4beb-ab56-2a815fc69304
 caps.latest.revision: 17
 caps.handback.revision: 17
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中的 Windows Hello 企业版设置
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 使你能够与 Windows Hello 企业版相集成，Windows Hello 企业版是 Windows 10 设备的备用登录方法。 Hello 企业版使用 Active Directory 或 Azure Active Directory 帐户来替代密码、智能卡或虚拟智能卡。  

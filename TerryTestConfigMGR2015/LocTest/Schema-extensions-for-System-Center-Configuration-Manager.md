@@ -15,6 +15,7 @@ ms.assetid: 95c13c00-909f-4fbb-bbaa-1eba9d54d8c5
 caps.latest.revision: 8
 caps.handback.revision: 7
 robots: noindex
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 的架构扩展
 你可以扩展 Active Directory 架构以支持 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)]。 这将编辑林 Active Directory 架构，以添加由 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 站点使用的新容器和某些特性，从而将 Active Directory 关键信息发布到客户可以安全访问的位置。  此信息可以简化客户端部署和配置，并帮助客户端找到站点资源（例如具有部署的内容或向客户端提供多种服务的服务器）。  

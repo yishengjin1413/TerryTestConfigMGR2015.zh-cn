@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 94e42cbe-9df8-4228-a04e-0ad7626180ca
 caps.latest.revision: 6
 caps.handback.revision: 3
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中电源管理的管理员清单
 此管理员清单提供了在你的组织中使用 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 电源管理的建议步骤。  

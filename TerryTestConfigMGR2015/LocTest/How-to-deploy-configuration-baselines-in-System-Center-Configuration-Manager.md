@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 9be8aaf3-075e-4acd-abd2-7459254e16e2
 caps.latest.revision: 7
 caps.handback.revision: 6
+translationtype: Human Translation
 ---
 # 如何在 System Center Configuration Manager 中部署配置基线
 必须首先将 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的配置基线部署到一个或多个用户或设备集合，这些集合中的客户端设备才可以评估与配置基线的符合性。  

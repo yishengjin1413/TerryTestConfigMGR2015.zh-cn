@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 999b5409-7e72-48d2-8554-4d44427ce383
 caps.latest.revision: 5
 caps.handback.revision: 4
+translationtype: Human Translation
 ---
 # 使用可启动媒体与 System Center Configuration Manager 一起通过网络部署 Windows
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的可启动媒体部署允许在启动目标计算机时部署操作系统。 在目标计算机启动时，它从网络中检索任务序列、操作系统映像包和任何其他必需的内容。 由于媒体上未包括该内容，因此，你无需重新创建媒体就能更新内容。  

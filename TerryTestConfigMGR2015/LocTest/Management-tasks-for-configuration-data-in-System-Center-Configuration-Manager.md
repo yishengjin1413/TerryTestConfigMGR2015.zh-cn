@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: b48c693c-d2b0-4707-a5dd-fe92172c49fe
 caps.latest.revision: 7
 caps.handback.revision: 4
+translationtype: Human Translation
 ---
 # 针对 System Center Configuration Manager 中配置数据的管理任务
 在 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中创建配置项目和配置基线完成后，后续命令能帮助你对其执行操作。  

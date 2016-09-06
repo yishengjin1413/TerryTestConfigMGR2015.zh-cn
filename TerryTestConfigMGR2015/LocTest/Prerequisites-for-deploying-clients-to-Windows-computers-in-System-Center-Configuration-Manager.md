@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 1a2a9b48-a95b-4643-b00c-b3079584ae2e
 caps.latest.revision: 16
 caps.handback.revision: 16
+translationtype: Human Translation
 ---
 # 在 System Center Configuration Manager 中将客户端部署到 Windows 计算机的先决条件
 在您的环境中部署 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 客户端有下列外部先决条件和产品内部先决条件。 此外，每个客户端部署方法有其自己的先决条件，要成功安装客户端，必须满足其自己的先决条件。  

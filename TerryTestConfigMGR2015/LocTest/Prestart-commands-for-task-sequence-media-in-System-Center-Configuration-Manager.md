@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: ccc9f652-2953-4c38-8a90-c799484105ca
 caps.latest.revision: 6
 caps.handback.revision: 3
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中任务序列媒体的预启动命令
 可以在 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中创建一个预启动命令，以用于启动媒体、独立媒体和预留媒体。 预启动命令是一个脚本或可执行文件，它在选择任务序列之前运行并且可以在 Windows PE 中与用户交互。 预启动命令可能会提示用户输入信息并将此信息保存在任务序列环境中，或者在任务序列变量中查询信息。 启动目标计算机后，会在从管理点下载策略之前运行命令行。 使用以下过程创建脚本以用于预启动命令，分发与预启动命令关联的内容，以及在媒体中配置预启动命令。  

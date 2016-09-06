@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 4800a800-66c8-4c35-aebe-e413a23790c1
 caps.latest.revision: 6
 caps.handback.revision: 5
+translationtype: Human Translation
 ---
 # 在 System Center Configuration Manager 中规划源层次结构策略
 在 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 环境中配置迁移作业之前，你必须配置源层次结构，并从该层次结构内的至少一个源站点中收集数据。 使用下列部分来帮助你规划配置源层次结构、配置源站点，并确定 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 从源层次结构内的源站点中收集信息的方式。  

@@ -15,6 +15,7 @@ ms.assetid: 78a0aecc-f775-451e-aa05-56377ec91b1f
 caps.latest.revision: 7
 caps.handback.revision: 4
 author: barlanmsft
+translationtype: Human Translation
 ---
 # 如何配置通过 Microsoft Intune 和 System Center Configuration Manager 注册的移动设备的硬件清单
 在 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中，可以使用 [!INCLUDE[mit_first](../LocTest/includes/mit_first_md.md)] 连接器收集 iOS、Android 和 Windows 设备上的硬件清单。 有关如何配置硬件清单的信息，请参阅 [如何在 System Center Configuration Manager 中扩展硬件清单](../LocTest/How-to-extend-hardware-inventory-in-System-Center-Configuration-Manager.md)。  

@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: 634d612c-92d7-4c03-873a-b2e730c9a72d
 caps.latest.revision: 16
 caps.handback.revision: 10
+translationtype: Human Translation
 ---
 # 如何在 System Center Configuration Manager 中创建证书配置文件
 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中的证书配置文件与 Active Directory 证书服务和网络设备注册服务角色集成以使用身份验证证书设置被管理的设备，使用户能够通过使用证书访问公司资源。 本主题中的信息可以帮助你在 [!INCLUDE[cm6long](../LocTest/includes/cm6long_md.md)] 中创建证书配置文件。  

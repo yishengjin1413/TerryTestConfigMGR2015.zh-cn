@@ -14,6 +14,7 @@ applies_to:
 ms.assetid: fdf05118-162a-411e-b72e-386b9dc9a5e1
 caps.latest.revision: 18
 caps.handback.revision: 15
+translationtype: Human Translation
 ---
 # System Center Configuration Manager 中软件更新的先决条件
 <?xml version="1.0" encoding="utf-8"?>
