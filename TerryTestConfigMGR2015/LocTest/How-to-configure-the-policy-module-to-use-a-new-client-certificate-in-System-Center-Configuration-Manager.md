@@ -24,7 +24,7 @@ translationtype: Human Translation
   
  续订证书：  
   
--   如果你手动请求了此客户端证书，请手动请求新证书。 如果需要帮助部署此证书，可以使用 [System Center Configuration Manager 的 PKI 证书的分步部署示例：Windows Server 2008 证书颁发机构](../Topic/Step-by-step%20example%20deployment%20of%20the%20PKI%20certificates%20for%20System%20Center%20Configuration%20Manager:%20Windows%20Server%202008%20Certification%20Authority.md) 主题中的 [为分发点导出客户端证书](../Topic/Step-by-step%20example%20deployment%20of%20the%20PKI%20certificates%20for%20System%20Center%20Configuration%20Manager:%20Windows%20Server%202008%20Certification%20Authority.md#BKMK_exportclientdistributionpoint22008) 说明，但有一个例外：请不要选择证书模板属性中“请求处理”选项卡上的“允许导出私钥”复选框。  
+-   如果你手动请求了此客户端证书，请手动请求新证书。 如果需要帮助部署此证书，可以使用 [System Center Configuration Manager 的 PKI 证书的分步部署示例：Windows Server 2008 证书颁发机构](../LocTest/Step-by-step-example-deployment-of-the-PKI-certificates-for-System-Center-Configuration-Manager--Windows-Server-2008-Certification-Authority.md) 主题中的 [为分发点导出客户端证书](../LocTest/Step-by-step-example-deployment-of-the-PKI-certificates-for-System-Center-Configuration-Manager--Windows-Server-2008-Certification-Authority.md#BKMK_exportclientdistributionpoint22008) 说明，但有一个例外：请不要选择证书模板属性中“请求处理”选项卡上的“允许导出私钥”复选框。  
   
 -   如果通过使用组策略注册自动部署了此客户端证书，则默认配置是在原始证书过期之前自动请求新证书。  
   

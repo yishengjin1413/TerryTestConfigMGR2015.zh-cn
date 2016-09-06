@@ -48,7 +48,7 @@ translationtype: Human Translation
   
 7.  单击“确定”以关闭“添加配置项目”对话框并返回“创建配置基线”对话框，其外观类似于此屏幕截图：  
   
-     ![Create Configuration Baseline dialog box](../LocTest/media/Create-Configuration-Baseline.png "Create)  
+     ![Create Configuration Baseline dialog box](../LocTest/media/Create-Configuration-Baseline.png "Create Configuration Baseline")  
   
 8.  单击“确定”以关闭“创建配置基线”对话框。  
   
@@ -82,7 +82,7 @@ translationtype: Human Translation
   
 6.  现在，对话框外观如下所示：  
   
-     ![Deploy configuration baselines dialog box](../LocTest/media/Deploy-configuration-baselines.png "Deploy)  
+     ![Deploy configuration baselines dialog box](../LocTest/media/Deploy-configuration-baselines.png "Deploy configuration baselines")  
   
 7.  单击“确定”以关闭“部署配置基线”对话框并创建部署。  
   

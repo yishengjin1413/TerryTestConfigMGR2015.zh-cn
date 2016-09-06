@@ -48,10 +48,10 @@ translationtype: Human Translation
   
     |||  
     |-|-|  
-    |![客户端的联机状态图标](../LocTest/media/online-status-icon.png "online)|设备处于联机状态。|  
-    |![客户端的脱机状态图标](../LocTest/media/offline-status-icon.png "offline)|设备处于脱机状态。|  
-    |![客户端的未知状态图标](../LocTest/media/unknown-status-icon.png "unknown)|联机状态未知。|  
-    |![未安装客户端](../LocTest/media/client-not-installed.png "client)|设备上未安装客户端。|  
+    |![客户端的联机状态图标](../LocTest/media/online-status-icon.png "online status icon")|设备处于联机状态。|  
+    |![客户端的脱机状态图标](../LocTest/media/offline-status-icon.png "offline status icon")|设备处于脱机状态。|  
+    |![客户端的未知状态图标](../LocTest/media/unknown-status-icon.png "unknown status icon")|联机状态未知。|  
+    |![未安装客户端](../LocTest/media/client-not-installed.png "client not installed")|设备上未安装客户端。|  
   
 2.  若要查看更详细的联机状态，可以通过右键单击列标题，然后单击你想添加的联机状态字段，将客户端联机状态信息添加到设备视图。 可以添加的列如下  
   
