@@ -148,7 +148,7 @@ translationtype: Human Translation
     > [!IMPORTANT]  
     >  服务证书的证书使用者框中的公用名在域中必须唯一，并且不与任何加入域的设备匹配。  
   
-     有关此证书的示例部署，请参阅 [System Center Configuration Manager 的 PKI 证书的分步部署示例：Windows Server 2008 证书颁发机构](../Topic/Step-by-step%20example%20deployment%20of%20the%20PKI%20certificates%20for%20System%20Center%20Configuration%20Manager:%20Windows%20Server%202008%20Certification%20Authority.md)主题中的[为基于云的分发点部署服务证书](../Topic/Step-by-step%20example%20deployment%20of%20the%20PKI%20certificates%20for%20System%20Center%20Configuration%20Manager:%20Windows%20Server%202008%20Certification%20Authority.md#BKMK_clouddp2008_cm2012)部分。  
+     有关此证书的示例部署，请参阅 [System Center Configuration Manager 的 PKI 证书的分步部署示例：Windows Server 2008 证书颁发机构](../LocTest/Step-by-step-example-deployment-of-the-PKI-certificates-for-System-Center-Configuration-Manager--Windows-Server-2008-Certification-Authority.md)主题中的[为基于云的分发点部署服务证书](../LocTest/Step-by-step-example-deployment-of-the-PKI-certificates-for-System-Center-Configuration-Manager--Windows-Server-2008-Certification-Authority.md#BKMK_clouddp2008_cm2012)部分。  
   
 ##  <a name="bkmk_Tasks"></a> 基于云的分发点的常见管理任务  
   

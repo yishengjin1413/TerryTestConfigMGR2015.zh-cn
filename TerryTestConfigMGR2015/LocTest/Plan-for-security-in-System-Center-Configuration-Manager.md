@@ -198,7 +198,7 @@ translationtype: Human Translation
   
 2.  配置站点属性中的“客户端计算机通信”选项卡，以便“站点系统设置”为“HTTP 或 HTTPS”，然后选择“在可用时使用 PKI 客户端证书\(客户端身份验证功能\)”复选框。 配置该选项卡中所需的任何其他设置。 有关详细信息，请参阅 [配置 System Center Configuration Manager 中的安全性](../LocTest/Configure-security-in-System-Center-Configuration-Manager.md) 主题中的 [为客户端 PKI 证书配置设置](../LocTest/Configure-security-in-System-Center-Configuration-Manager.md#BKMK_ConfigureClientPKI) 部分。  
   
-3.  试运行客户端证书的 PKI 推出。 有关示例部署，请参阅 [为 Windows 计算机部署客户端证书](../Topic/Step-by-step%20example%20deployment%20of%20the%20PKI%20certificates%20for%20System%20Center%20Configuration%20Manager:%20Windows%20Server%202008%20Certification%20Authority.md#BKMK_client2008_cm2012) 主题中的 [System Center Configuration Manager 的 PKI 证书的分步部署示例：Windows Server 2008 证书颁发机构](../Topic/Step-by-step%20example%20deployment%20of%20the%20PKI%20certificates%20for%20System%20Center%20Configuration%20Manager:%20Windows%20Server%202008%20Certification%20Authority.md) 部分。  
+3.  试运行客户端证书的 PKI 推出。 有关示例部署，请参阅 [为 Windows 计算机部署客户端证书](../LocTest/Step-by-step-example-deployment-of-the-PKI-certificates-for-System-Center-Configuration-Manager--Windows-Server-2008-Certification-Authority.md#BKMK_client2008_cm2012) 主题中的 [System Center Configuration Manager 的 PKI 证书的分步部署示例：Windows Server 2008 证书颁发机构](../LocTest/Step-by-step-example-deployment-of-the-PKI-certificates-for-System-Center-Configuration-Manager--Windows-Server-2008-Certification-Authority.md) 部分。  
   
 4.  使用客户端请求安装方法安装客户端。 有关详细信息，请参阅[如何使用客户端请求安装 Configuration Manager 客户端](../LocTest/How-to-deploy-clients-to-Windows-computers-in-System-Center-Configuration-Manager.md#BKMK_ClientPush)主题中的[如何在 System Center Configuration Manager 中部署客户端到 Windows 计算机](../LocTest/How-to-deploy-clients-to-Windows-computers-in-System-Center-Configuration-Manager.md)部分。  
   
@@ -220,7 +220,7 @@ translationtype: Human Translation
   
 7.  当你确信足够数目的客户端正在成功使用其客户端 PKI 证书通过 HTTP 进行身份验证时，请执行下列操作：  
   
-    1.  将 PKI Web 服务器证书部署到将为站点运行其他管理点的成员服务器，并在 IIS 中配置该证书。 有关详细信息，请参阅 [System Center Configuration Manager 的 PKI 证书的分步部署示例：Windows Server 2008 证书颁发机构](../Topic/Step-by-step%20example%20deployment%20of%20the%20PKI%20certificates%20for%20System%20Center%20Configuration%20Manager:%20Windows%20Server%202008%20Certification%20Authority.md) 主题中的 [为运行 IIS 的站点系统部署 Web 服务器证书](../Topic/Step-by-step%20example%20deployment%20of%20the%20PKI%20certificates%20for%20System%20Center%20Configuration%20Manager:%20Windows%20Server%202008%20Certification%20Authority.md#BKMK_webserver2008_cm2012) 部分。  
+    1.  将 PKI Web 服务器证书部署到将为站点运行其他管理点的成员服务器，并在 IIS 中配置该证书。 有关详细信息，请参阅 [System Center Configuration Manager 的 PKI 证书的分步部署示例：Windows Server 2008 证书颁发机构](../LocTest/Step-by-step-example-deployment-of-the-PKI-certificates-for-System-Center-Configuration-Manager--Windows-Server-2008-Certification-Authority.md) 主题中的 [为运行 IIS 的站点系统部署 Web 服务器证书](../LocTest/Step-by-step-example-deployment-of-the-PKI-certificates-for-System-Center-Configuration-Manager--Windows-Server-2008-Certification-Authority.md#BKMK_webserver2008_cm2012) 部分。  
   
     2.  在此服务器上安装管理点角色，并针对“HTTPS”配置管理点属性中的“客户端连接”选项。  
   

@@ -21,7 +21,7 @@ translationtype: Human Translation
   
 ## 为 System Center Configuration Manager 做准备  
   
--   [System Center Configuration Manager 的 PKI 证书的分步部署示例：Windows Server 2008 证书颁发机构](../Topic/Step-by-step%20example%20deployment%20of%20the%20PKI%20certificates%20for%20System%20Center%20Configuration%20Manager:%20Windows%20Server%202008%20Certification%20Authority.md)  
+-   [System Center Configuration Manager 的 PKI 证书的分步部署示例：Windows Server 2008 证书颁发机构](../LocTest/Step-by-step-example-deployment-of-the-PKI-certificates-for-System-Center-Configuration-Manager--Windows-Server-2008-Certification-Authority.md)  
   
 ## 管理计算机和设备  
   
@@ -47,7 +47,7 @@ translationtype: Human Translation
   
 ## 保护数据和站点基础结构  
   
--   [示例方案：使用 System Center Endpoint Protection 来保护计算机在 System Center Configuration Manager 中免受恶意软件侵害](../Topic/Example%20scenario:%20Using%20System%20Center%20Endpoint%20Protection%20to%20protect%20computers%20from%20malware%20in%20System%20Center%20Configuration%20Manager.md)  
+-   [示例方案：使用 System Center Endpoint Protection 来保护计算机在 System Center Configuration Manager 中免受恶意软件侵害](../LocTest/Example-scenario--Using-System-Center-Endpoint-Protection-to-protect-computers-from-malware-in-System-Center-Configuration-Manager.md)  
   
 ## 请参阅  
  [System Center Configuration Manager 的技术参考](../LocTest/Technical-reference-for-System-Center-Configuration-Manager.md)
