@@ -47,7 +47,7 @@ translationtype: Human Translation
   
  此外，[!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 中的 [!INCLUDE[epshort](../LocTest/includes/epshort_md.md)] 让你可以在 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 控制台中管理 Windows 防火墙设置。  
   
- 有关如何配置与管理 [!INCLUDE[epshort](../LocTest/includes/epshort_md.md)] 和 Windows 防火墙的信息，请参阅 [示例方案：使用 System Center Endpoint Protection 来保护计算机在 System Center Configuration Manager 中免受恶意软件侵害](../Topic/Example%20scenario:%20Using%20System%20Center%20Endpoint%20Protection%20to%20protect%20computers%20from%20malware%20in%20System%20Center%20Configuration%20Manager.md)。  
+ 有关如何配置与管理 [!INCLUDE[epshort](../LocTest/includes/epshort_md.md)] 和 Windows 防火墙的信息，请参阅 [示例方案：使用 System Center Endpoint Protection 来保护计算机在 System Center Configuration Manager 中免受恶意软件侵害](../LocTest/Example-scenario--Using-System-Center-Endpoint-Protection-to-protect-computers-from-malware-in-System-Center-Configuration-Manager.md)。  
   
 ## 使用 Endpoint Protection 管理恶意软件  
  [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 中的 Endpoint Protection 允许你创建包含 Endpoint Protection 客户端配置设置的反恶意软件策略。 然后可以将这些反恶意软件策略部署到客户端计算机，并在“监视”工作区的“[!INCLUDE[epshort](../LocTest/includes/epshort_md.md)] 状态”节点中，或通过使用 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 报表进行监视。  
@@ -77,7 +77,7 @@ translationtype: Human Translation
 ## Endpoint Protection 工作流  
  使用下面的图表来帮助你了解将在 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 层次结构中实现 [!INCLUDE[epshort](../LocTest/includes/epshort_md.md)] 的工作流。  
   
- ![Endpoint Protection Workflow](../LocTest/media/Endpoint-Protection-Workflow.gif "Endpoint)  
+ ![Endpoint Protection Workflow](../LocTest/media/Endpoint-Protection-Workflow.gif "Endpoint Protection Workflow")  
   
 ## 适用于 Mac 计算机和 Linux 服务器的 Endpoint Protection 客户端  
  System Center 2012 包括适用于 Linux 和 Mac 计算机的 Endpoint Protection 客户端。 这些客户端不提供 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)]；相反，你必须从 [Microsoft 批量许可服务中心](https://www.microsoft.com/licensing/servicecenter/default.aspx)下载以下产品。  

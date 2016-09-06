@@ -62,7 +62,7 @@ translationtype: Human Translation
 3.  将支持客户端身份验证的 PKI 证书部署到此服务器。 你可能已在计算机上安装了可以使用的合适证书，或者可能必须（或希望）明确为此目的部署证书。 有关此证书的要求的详细信息，请参阅 [System Center Configuration Manager 的 PKI 证书要求](../LocTest/PKI-certificate-requirements-for-System-Center-Configuration-Manager.md)主题中[服务器的 PKI 证书](../LocTest/PKI-certificate-requirements-for-System-Center-Configuration-Manager.md#BKMK_PKIcertificates_for_servers)部分中的“将 Configuration Manager 策略模块与网络设备注册服务角色服务一起运行的服务器”的详细信息。  
   
     > [!TIP]  
-    >  如果在部署此证书时需要帮助，你可以使用 [System Center Configuration Manager 的 PKI 证书的部署分步示例：Windows Server 2008 证书颁发机构](../Topic/Step-by-step%20example%20deployment%20of%20the%20PKI%20certificates%20for%20System%20Center%20Configuration%20Manager:%20Windows%20Server%202008%20Certification%20Authority.md)主题中[为分发点部署客户端证书](../Topic/Step-by-step%20example%20deployment%20of%20the%20PKI%20certificates%20for%20System%20Center%20Configuration%20Manager:%20Windows%20Server%202008%20Certification%20Authority.md#BKMK_clientdistributionpoint2008_cm2012)的说明，因为证书要求相同，但有一处例外：  
+    >  如果在部署此证书时需要帮助，你可以使用 [System Center Configuration Manager 的 PKI 证书的部署分步示例：Windows Server 2008 证书颁发机构](../LocTest/Step-by-step-example-deployment-of-the-PKI-certificates-for-System-Center-Configuration-Manager--Windows-Server-2008-Certification-Authority.md)主题中[为分发点部署客户端证书](../LocTest/Step-by-step-example-deployment-of-the-PKI-certificates-for-System-Center-Configuration-Manager--Windows-Server-2008-Certification-Authority.md#BKMK_clientdistributionpoint2008_cm2012)的说明，因为证书要求相同，但有一处例外：  
     >   
     >  -   不要在证书模板属性的“请求处理”  选项卡上选择“允许导出私钥”  复选框。  
     >   

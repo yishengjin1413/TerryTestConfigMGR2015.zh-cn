@@ -60,7 +60,7 @@ translationtype: Human Translation
   
          此时的屏幕截图如下：  
   
-         ![App management wizard general page](../LocTest/media/App-management-wizard-general-page.png "App)  
+         ![App management wizard general page](../LocTest/media/App-management-wizard-general-page.png "App management wizard general page")  
   
 5.  单击“下一步”。 在向导的“导入信息”页上，你将看到一些有关该应用以及被导入 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 的任何相关文件的信息。 完成后，再次单击“下一步”。  
   
@@ -73,13 +73,13 @@ translationtype: Human Translation
   
      此时的屏幕截图如下：  
   
-     ![App management wizard general information page](../LocTest/media/App-management-wizard-general-information-page.png "App)  
+     ![App management wizard general information page](../LocTest/media/App-management-wizard-general-information-page.png "App management wizard general information page")  
   
 7.  单击“下一步”。 在向导的“摘要”页上，你可以确认应用程序的设置，然后完成向导。  
   
  应用创建结束。 若要找到它，请在“软件库”工作区中，展开“应用程序管理”，然后单击“应用程序”。 对于此示例，你将看到：  
   
- ![Final app graphic](../LocTest/media/Final-app-graphic.png "Final)  
+ ![Final app graphic](../LocTest/media/Final-app-graphic.png "Final app graphic")  
   
 ### 检查应用文件的属性及其部署类型  
  你已经创建了应用程序，现在可以优化应用程序设置（如果需要）。 若要查看应用程序属性，请选择应用，然后在“主页”选项卡的“属性”组中，单击“属性”。  
@@ -88,7 +88,7 @@ translationtype: Human Translation
   
  单击“部署类型”选项卡，选择“Contoso 应用程序”部署类型，然后单击“编辑”。 此时将看到如下所示的对话框：  
   
- ![App management app properties page](../LocTest/media/App-management-app-properties-page.png "App)  
+ ![App management app properties page](../LocTest/media/App-management-app-properties-page.png "App management app properties page")  
   
 ### 将要求添加到部署类型  
  这些要求指定必须满足什么条件才能将应用程序安装到设备上。  你可以从内置要求中选择或创建自己的要求。 在此示例中，你将添加指定仅在运行 Windows 10 的 PC 上安装应用程序的要求。  
@@ -113,7 +113,7 @@ translationtype: Human Translation
   
      将显示如下对话框：  
   
-     ![App management requirements page](../LocTest/media/App-management-requirements-page.png "App)  
+     ![App management requirements page](../LocTest/media/App-management-requirements-page.png "App management requirements page")  
   
 4.  单击“确定”以关闭打开的每个属性页，并返回到 [!INCLUDE[cmshort](../LocTest/includes/cmshort_md.md)] 控制台中的“应用程序”列表。  
   

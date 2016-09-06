@@ -34,7 +34,7 @@ translationtype: Human Translation
   
 4.  在“创建配置项目”向导的“常规”选项卡上（如下所示），指定配置项目的名称和说明，然后选择本主题中的每个方案的相应配置项目类型。  
   
-     ![Shows general page of the create configuration item wizard.](../LocTest/media/Compliance-Settings-Wizard---1.png "Compliance)  
+     ![Shows general page of the create configuration item wizard.](../LocTest/media/Compliance-Settings-Wizard---1.png "Compliance Settings Wizard \- 1")  
   
 ## 不使用 Configuration Manager 客户端管理的 Windows 8.1 和 Windows 10 设备的方案  
   

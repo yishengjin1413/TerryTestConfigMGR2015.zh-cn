@@ -19,7 +19,7 @@ translationtype: Human Translation
 # 流程图 - 下载 System Center Configuration Manager 的更新
 此数据流将显示具有在线服务连接点的站点下载控制台内部更新的过程。  
   
- ![流程图 &#45;下载更新](../LocTest/media/Flowchart---Download-updates.png "Flowchart)  
+ ![流程图 &#45;下载更新](../LocTest/media/Flowchart---Download-updates.png "Flowchart \- Download updates")  
   
 ## 另请参阅  
  [为 System Center Configuration Manager 安装控制台内部更新](../LocTest/Install-in-console-updates-for-System-Center-Configuration-Manager.md)
